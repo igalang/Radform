@@ -1,4 +1,4 @@
-name: Build and deploy Radform to GitHub Pages
+name: Deploy Radform to GitHub Pages
 
 on:
   push:
@@ -32,13 +32,6 @@ jobs:
           python scripts/validate_atlas.py
           python scripts/validate_mir.py
 
-      - name: Refresh open-source snapshots
-        continue-on-error: true
-        run: |
-          python scripts/build_openi_snapshot.py
-          python scripts/build_mir_open_snapshot.py
-          python scripts/build_open_radiology_bundles.py
-
       - name: Validate JavaScript syntax
         run: |
           node --check app.js
@@ -53,7 +46,6 @@ jobs:
         run: |
           mkdir -p _site
           cp -a index.html 404.html styles.css app.js supabase-client.js commons.js openi.js multicare.js mir-open.js sw.js manifest.webmanifest og.png assets data .nojekyll _site/
-          if [ -d generated ]; then cp -a generated _site/; fi
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
