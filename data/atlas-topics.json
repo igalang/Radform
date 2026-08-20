@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "atlas-001",
+    "label": "Neumonía lobar",
+    "query": "lobar pneumonia chest radiograph",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-002",
+    "label": "Neumotórax",
+    "query": "pneumothorax chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-003",
+    "label": "Derrame pleural",
+    "query": "pleural effusion chest radiograph",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-004",
+    "label": "Edema agudo de pulmón",
+    "query": "pulmonary edema chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-005",
+    "label": "Atelectasia",
+    "query": "atelectasis chest radiograph",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-006",
+    "label": "Cardiomegalia",
+    "query": "cardiomegaly chest radiograph",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-007",
+    "label": "EPOC y enfisema",
+    "query": "emphysema chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-008",
+    "label": "Tuberculosis pulmonar",
+    "query": "pulmonary tuberculosis chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-009",
+    "label": "Masa pulmonar",
+    "query": "lung mass chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-010",
+    "label": "Nódulo pulmonar",
+    "query": "pulmonary nodule chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-011",
+    "label": "Fibrosis pulmonar",
+    "query": "pulmonary fibrosis chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-012",
+    "label": "Sarcoidosis",
+    "query": "sarcoidosis chest radiograph",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-013",
+    "label": "Hernia de hiato",
+    "query": "hiatal hernia chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-014",
+    "label": "Neumomediastino",
+    "query": "pneumomediastinum chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-015",
+    "label": "Neumoperitoneo subdiafragmático",
+    "query": "pneumoperitoneum chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-016",
+    "label": "Fractura costal",
+    "query": "rib fracture x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-017",
+    "label": "Malposición de tubo endotraqueal",
+    "query": "endotracheal tube malposition chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-018",
+    "label": "Catéter venoso central",
+    "query": "central venous catheter chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-019",
+    "label": "Marcapasos",
+    "query": "pacemaker chest x-ray",
+    "modality": "XR",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-020",
+    "label": "Embolia pulmonar",
+    "query": "pulmonary embolism CT angiography",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-021",
+    "label": "Disección aórtica torácica",
+    "query": "aortic dissection CT angiography",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-022",
+    "label": "Aneurisma de aorta torácica",
+    "query": "thoracic aortic aneurysm CT",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-023",
+    "label": "Neumonía por TC",
+    "query": "pneumonia chest CT",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-024",
+    "label": "COVID-19 pulmonar",
+    "query": "COVID-19 chest CT ground glass",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-025",
+    "label": "Fibrosis pulmonar en TCAR",
+    "query": "pulmonary fibrosis HRCT",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-026",
+    "label": "Bronquiectasias",
+    "query": "bronchiectasis CT chest",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-027",
+    "label": "Enfisema centrolobulillar",
+    "query": "centrilobular emphysema CT",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-028",
+    "label": "Mesotelioma pleural",
+    "query": "pleural mesothelioma CT",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-029",
+    "label": "Cáncer de pulmón",
+    "query": "lung cancer CT chest",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-030",
+    "label": "Metástasis pulmonares",
+    "query": "pulmonary metastases CT",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-031",
+    "label": "Síndrome aórtico agudo",
+    "query": "acute aortic syndrome CT",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-032",
+    "label": "Trauma torácico",
+    "query": "chest trauma CT",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-033",
+    "label": "Contusión pulmonar",
+    "query": "pulmonary contusion CT",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-034",
+    "label": "Hemotórax",
+    "query": "hemothorax CT chest",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-035",
+    "label": "Empiema",
+    "query": "empyema CT chest",
+    "modality": "CT",
+    "anatomy": "Tórax",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-036",
+    "label": "Hemorragia intracerebral",
+    "query": "intracerebral hemorrhage CT brain",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-037",
+    "label": "Hemorragia subaracnoidea",
+    "query": "subarachnoid hemorrhage CT brain",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-038",
+    "label": "Hematoma subdural",
+    "query": "subdural hematoma CT brain",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-039",
+    "label": "Hematoma epidural",
+    "query": "epidural hematoma CT brain",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-040",
+    "label": "Infarto cerebral agudo",
+    "query": "acute ischemic stroke CT brain",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-041",
+    "label": "Signo de la arteria cerebral media hiperdensa",
+    "query": "hyperdense middle cerebral artery sign CT",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-042",
+    "label": "Edema cerebral",
+    "query": "cerebral edema CT brain",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-043",
+    "label": "Hidrocefalia",
+    "query": "hydrocephalus CT brain",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-044",
+    "label": "Tumor cerebral",
+    "query": "brain tumor CT",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-045",
+    "label": "Meningioma",
+    "query": "meningioma CT brain",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-046",
+    "label": "Metástasis cerebrales",
+    "query": "brain metastases CT",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-047",
+    "label": "Absceso cerebral",
+    "query": "brain abscess CT",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-048",
+    "label": "Fractura craneal",
+    "query": "skull fracture CT",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-049",
+    "label": "Hernia cerebral",
+    "query": "brain herniation CT",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-050",
+    "label": "Infarto en difusión",
+    "query": "acute ischemic stroke diffusion MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-051",
+    "label": "Esclerosis múltiple",
+    "query": "multiple sclerosis brain MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-052",
+    "label": "Glioblastoma",
+    "query": "glioblastoma MRI brain",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-053",
+    "label": "Meningioma en RM",
+    "query": "meningioma MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-054",
+    "label": "Adenoma hipofisario",
+    "query": "pituitary adenoma MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-055",
+    "label": "Schwannoma vestibular",
+    "query": "vestibular schwannoma MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-056",
+    "label": "Encefalitis herpética",
+    "query": "herpes encephalitis MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-057",
+    "label": "PRES",
+    "query": "posterior reversible encephalopathy syndrome MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-058",
+    "label": "Trombosis venosa cerebral",
+    "query": "cerebral venous thrombosis MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-059",
+    "label": "Malformación arteriovenosa cerebral",
+    "query": "brain arteriovenous malformation MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-060",
+    "label": "Aneurisma cerebral",
+    "query": "intracranial aneurysm angiography",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-061",
+    "label": "Disección carotídea",
+    "query": "carotid artery dissection CT angiography",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-062",
+    "label": "Estenosis carotídea",
+    "query": "carotid stenosis CT angiography",
+    "modality": "CT",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-063",
+    "label": "Demencia vascular",
+    "query": "vascular dementia MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-064",
+    "label": "Atrofia cerebral",
+    "query": "brain atrophy MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-065",
+    "label": "Chiari I",
+    "query": "Chiari malformation MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-066",
+    "label": "Siringomielia",
+    "query": "syringomyelia MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-067",
+    "label": "Hernia discal cervical",
+    "query": "cervical disc herniation MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-068",
+    "label": "Compresión medular",
+    "query": "spinal cord compression MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-069",
+    "label": "Metástasis vertebrales",
+    "query": "spinal metastases MRI",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-070",
+    "label": "Espondilodiscitis",
+    "query": "spondylodiscitis MRI spine",
+    "modality": "MRI",
+    "anatomy": "Neuro",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-071",
+    "label": "Apendicitis aguda",
+    "query": "acute appendicitis CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-072",
+    "label": "Diverticulitis",
+    "query": "diverticulitis CT abdomen",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-073",
+    "label": "Obstrucción intestinal",
+    "query": "small bowel obstruction CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-074",
+    "label": "Perforación intestinal",
+    "query": "bowel perforation CT abdomen",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-075",
+    "label": "Isquemia mesentérica",
+    "query": "acute mesenteric ischemia CT angiography",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-076",
+    "label": "Pancreatitis aguda",
+    "query": "acute pancreatitis CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-077",
+    "label": "Necrosis pancreática",
+    "query": "necrotizing pancreatitis CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-078",
+    "label": "Colecistitis aguda",
+    "query": "acute cholecystitis CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-079",
+    "label": "Absceso hepático",
+    "query": "liver abscess CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-080",
+    "label": "Hemangioma hepático",
+    "query": "liver hemangioma CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-081",
+    "label": "Hepatocarcinoma",
+    "query": "hepatocellular carcinoma CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-082",
+    "label": "Metástasis hepáticas",
+    "query": "liver metastases CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-083",
+    "label": "Cirrosis",
+    "query": "cirrhosis CT abdomen",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-084",
+    "label": "Hipertensión portal",
+    "query": "portal hypertension CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-085",
+    "label": "Trombosis portal",
+    "query": "portal vein thrombosis CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-086",
+    "label": "Litiasis renal",
+    "query": "renal stone CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-087",
+    "label": "Hidronefrosis",
+    "query": "hydronephrosis CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-088",
+    "label": "Pielonefritis",
+    "query": "pyelonephritis CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-089",
+    "label": "Carcinoma renal",
+    "query": "renal cell carcinoma CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-090",
+    "label": "Trauma esplénico",
+    "query": "splenic injury CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-091",
+    "label": "Infarto esplénico",
+    "query": "splenic infarction CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-092",
+    "label": "Aneurisma aórtico abdominal",
+    "query": "abdominal aortic aneurysm CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-093",
+    "label": "Rotura de aneurisma aórtico",
+    "query": "ruptured abdominal aortic aneurysm CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-094",
+    "label": "Hernia incarcerada",
+    "query": "incarcerated hernia CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-095",
+    "label": "Enfermedad inflamatoria intestinal",
+    "query": "Crohn disease CT enterography",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-096",
+    "label": "Colitis",
+    "query": "colitis CT abdomen",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-097",
+    "label": "Cáncer colorrectal",
+    "query": "colorectal cancer CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-098",
+    "label": "Cáncer pancreático",
+    "query": "pancreatic cancer CT",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-099",
+    "label": "Quiste pancreático",
+    "query": "pancreatic cyst CT MRI",
+    "modality": "CT",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-100",
+    "label": "Colelitiasis",
+    "query": "gallstones ultrasound",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-101",
+    "label": "Colecistitis",
+    "query": "acute cholecystitis ultrasound",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-102",
+    "label": "Dilatación de vía biliar",
+    "query": "bile duct dilatation ultrasound",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-103",
+    "label": "Esteatosis hepática",
+    "query": "fatty liver ultrasound",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-104",
+    "label": "Cirrosis por ecografía",
+    "query": "cirrhosis ultrasound liver",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-105",
+    "label": "Ascitis",
+    "query": "ascites ultrasound",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-106",
+    "label": "Hidronefrosis por ecografía",
+    "query": "hydronephrosis ultrasound",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-107",
+    "label": "Litiasis renal por ecografía",
+    "query": "renal stone ultrasound",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-108",
+    "label": "Apendicitis por ecografía",
+    "query": "appendicitis ultrasound",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-109",
+    "label": "Invaginación intestinal",
+    "query": "intussusception ultrasound",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-110",
+    "label": "Aneurisma aórtico por ecografía",
+    "query": "abdominal aortic aneurysm ultrasound",
+    "modality": "US",
+    "anatomy": "Abdomen",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-111",
+    "label": "Fractura de radio distal",
+    "query": "distal radius fracture x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-112",
+    "label": "Fractura de cuello femoral",
+    "query": "femoral neck fracture x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-113",
+    "label": "Fractura intertrocantérea",
+    "query": "intertrochanteric fracture x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-114",
+    "label": "Luxación de hombro",
+    "query": "shoulder dislocation x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-115",
+    "label": "Luxación de cadera",
+    "query": "hip dislocation x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-116",
+    "label": "Fractura de tobillo",
+    "query": "ankle fracture x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-117",
+    "label": "Fractura de escafoides",
+    "query": "scaphoid fracture x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-118",
+    "label": "Fractura vertebral",
+    "query": "vertebral compression fracture x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-119",
+    "label": "Artrosis de rodilla",
+    "query": "knee osteoarthritis x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-120",
+    "label": "Artritis reumatoide de manos",
+    "query": "rheumatoid arthritis hand x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-121",
+    "label": "Gota",
+    "query": "gout x-ray foot",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-122",
+    "label": "Osteomielitis",
+    "query": "osteomyelitis x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-123",
+    "label": "Tumor óseo",
+    "query": "bone tumor x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-124",
+    "label": "Osteosarcoma",
+    "query": "osteosarcoma x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-125",
+    "label": "Encondroma",
+    "query": "enchondroma x-ray",
+    "modality": "XR",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-126",
+    "label": "Lesión meniscal",
+    "query": "meniscal tear MRI knee",
+    "modality": "MRI",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-127",
+    "label": "Rotura de LCA",
+    "query": "ACL tear MRI knee",
+    "modality": "MRI",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-128",
+    "label": "Rotura del manguito rotador",
+    "query": "rotator cuff tear MRI",
+    "modality": "MRI",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-129",
+    "label": "Hernia discal lumbar",
+    "query": "lumbar disc herniation MRI",
+    "modality": "MRI",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-130",
+    "label": "Estenosis lumbar",
+    "query": "lumbar spinal stenosis MRI",
+    "modality": "MRI",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-131",
+    "label": "Necrosis avascular femoral",
+    "query": "avascular necrosis femoral head MRI",
+    "modality": "MRI",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-132",
+    "label": "Fractura oculta de cadera",
+    "query": "occult hip fracture MRI",
+    "modality": "MRI",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-133",
+    "label": "Edema óseo",
+    "query": "bone marrow edema MRI",
+    "modality": "MRI",
+    "anatomy": "Musculoesquelético",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-134",
+    "label": "Sarcoma de partes blandas",
+    "query": "soft tissue sarcoma MRI",
+    "modality": "MRI",
+    "anatomy": "Musculoesquelético",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-135",
+    "label": "Tendinopatía aquílea",
+    "query": "Achilles tendinopathy ultrasound",
+    "modality": "US",
+    "anatomy": "Musculoesquelético",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-136",
+    "label": "Trombosis venosa profunda",
+    "query": "deep vein thrombosis ultrasound",
+    "modality": "US",
+    "anatomy": "Vascular",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-137",
+    "label": "Trombosis poplítea",
+    "query": "popliteal vein thrombosis ultrasound",
+    "modality": "US",
+    "anatomy": "Vascular",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-138",
+    "label": "Insuficiencia venosa",
+    "query": "venous insufficiency Doppler ultrasound",
+    "modality": "US",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-139",
+    "label": "Estenosis carotídea por Doppler",
+    "query": "carotid stenosis Doppler ultrasound",
+    "modality": "US",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-140",
+    "label": "Pseudoaneurisma femoral",
+    "query": "femoral pseudoaneurysm ultrasound",
+    "modality": "US",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-141",
+    "label": "Aneurisma de aorta abdominal",
+    "query": "abdominal aortic aneurysm ultrasound",
+    "modality": "US",
+    "anatomy": "Vascular",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-142",
+    "label": "Fístula arteriovenosa",
+    "query": "arteriovenous fistula Doppler ultrasound",
+    "modality": "US",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-143",
+    "label": "Trombosis de fístula AV",
+    "query": "thrombosed arteriovenous fistula ultrasound",
+    "modality": "US",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-144",
+    "label": "Disección aórtica",
+    "query": "aortic dissection CT angiography",
+    "modality": "CT",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-145",
+    "label": "Embolia pulmonar",
+    "query": "pulmonary embolism CT angiography",
+    "modality": "CT",
+    "anatomy": "Vascular",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-146",
+    "label": "Isquemia arterial aguda",
+    "query": "acute limb ischemia CT angiography",
+    "modality": "CT",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-147",
+    "label": "Estenosis ilíaca",
+    "query": "iliac artery stenosis CT angiography",
+    "modality": "CT",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-148",
+    "label": "Aneurisma poplíteo",
+    "query": "popliteal artery aneurysm CT angiography",
+    "modality": "CT",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-149",
+    "label": "Aneurisma esplénico",
+    "query": "splenic artery aneurysm CT",
+    "modality": "CT",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-150",
+    "label": "Síndrome de May-Thurner",
+    "query": "May-Thurner syndrome CT venography",
+    "modality": "CT",
+    "anatomy": "Vascular",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-151",
+    "label": "Trombosis vena cava",
+    "query": "inferior vena cava thrombosis CT",
+    "modality": "CT",
+    "anatomy": "Vascular",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-152",
+    "label": "TIPS",
+    "query": "TIPS ultrasound Doppler",
+    "modality": "US",
+    "anatomy": "Vascular",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-153",
+    "label": "Embolización arterial",
+    "query": "arterial embolization angiography",
+    "modality": "XR",
+    "anatomy": "Vascular",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-154",
+    "label": "Angioplastia",
+    "query": "angioplasty angiography",
+    "modality": "XR",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-155",
+    "label": "Stent arterial",
+    "query": "arterial stent angiography",
+    "modality": "XR",
+    "anatomy": "Vascular",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-156",
+    "label": "Torsión testicular",
+    "query": "testicular torsion ultrasound",
+    "modality": "US",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-157",
+    "label": "Epididimitis",
+    "query": "epididymitis ultrasound",
+    "modality": "US",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-158",
+    "label": "Hidrocele",
+    "query": "hydrocele ultrasound",
+    "modality": "US",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-159",
+    "label": "Varicocele",
+    "query": "varicocele ultrasound Doppler",
+    "modality": "US",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-160",
+    "label": "Masa testicular",
+    "query": "testicular mass ultrasound",
+    "modality": "US",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-161",
+    "label": "Quiste ovárico",
+    "query": "ovarian cyst ultrasound",
+    "modality": "US",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-162",
+    "label": "Torsión ovárica",
+    "query": "ovarian torsion ultrasound",
+    "modality": "US",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-163",
+    "label": "Embarazo ectópico",
+    "query": "ectopic pregnancy ultrasound",
+    "modality": "US",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-164",
+    "label": "Mioma uterino",
+    "query": "uterine fibroid ultrasound",
+    "modality": "US",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-165",
+    "label": "Adenomiosis",
+    "query": "adenomyosis MRI",
+    "modality": "MRI",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-166",
+    "label": "Endometriosis",
+    "query": "endometriosis MRI pelvis",
+    "modality": "MRI",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-167",
+    "label": "Cáncer de cérvix",
+    "query": "cervical cancer MRI",
+    "modality": "MRI",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-168",
+    "label": "Cáncer de próstata",
+    "query": "prostate cancer MRI",
+    "modality": "MRI",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-169",
+    "label": "Hiperplasia prostática",
+    "query": "benign prostatic hyperplasia MRI",
+    "modality": "MRI",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-170",
+    "label": "Cáncer de vejiga",
+    "query": "bladder cancer CT",
+    "modality": "CT",
+    "anatomy": "Genitourinario y ginecológico",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-171",
+    "label": "Neumonía pediátrica",
+    "query": "pediatric pneumonia chest x-ray",
+    "modality": "XR",
+    "anatomy": "Pediatría",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-172",
+    "label": "Bronquiolitis",
+    "query": "bronchiolitis chest x-ray",
+    "modality": "XR",
+    "anatomy": "Pediatría",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-173",
+    "label": "Cuerpo extraño aspirado",
+    "query": "foreign body aspiration chest x-ray child",
+    "modality": "XR",
+    "anatomy": "Pediatría",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-174",
+    "label": "Invaginación intestinal",
+    "query": "intussusception ultrasound child",
+    "modality": "US",
+    "anatomy": "Pediatría",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-175",
+    "label": "Estenosis pilórica",
+    "query": "pyloric stenosis ultrasound",
+    "modality": "US",
+    "anatomy": "Pediatría",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-176",
+    "label": "Apendicitis pediátrica",
+    "query": "pediatric appendicitis ultrasound",
+    "modality": "US",
+    "anatomy": "Pediatría",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-177",
+    "label": "Displasia de cadera",
+    "query": "developmental dysplasia hip ultrasound",
+    "modality": "US",
+    "anatomy": "Pediatría",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-178",
+    "label": "Fractura supracondílea",
+    "query": "supracondylar fracture x-ray child",
+    "modality": "XR",
+    "anatomy": "Pediatría",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-179",
+    "label": "Enfermedad de Perthes",
+    "query": "Legg Calve Perthes x-ray",
+    "modality": "XR",
+    "anatomy": "Pediatría",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-180",
+    "label": "Epifisiolisis femoral",
+    "query": "slipped capital femoral epiphysis x-ray",
+    "modality": "XR",
+    "anatomy": "Pediatría",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-181",
+    "label": "Malrotación intestinal",
+    "query": "intestinal malrotation upper GI radiograph",
+    "modality": "XR",
+    "anatomy": "Pediatría",
+    "level": "Avanzado"
+  },
+  {
+    "id": "atlas-182",
+    "label": "Enterocolitis necrotizante",
+    "query": "necrotizing enterocolitis abdominal x-ray",
+    "modality": "XR",
+    "anatomy": "Pediatría",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-183",
+    "label": "Hidrocefalia pediátrica",
+    "query": "pediatric hydrocephalus MRI",
+    "modality": "MRI",
+    "anatomy": "Pediatría",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-184",
+    "label": "Tumor de Wilms",
+    "query": "Wilms tumor CT",
+    "modality": "CT",
+    "anatomy": "Pediatría",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-185",
+    "label": "Neuroblastoma",
+    "query": "neuroblastoma CT",
+    "modality": "CT",
+    "anatomy": "Pediatría",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-186",
+    "label": "Sinusitis",
+    "query": "sinusitis CT",
+    "modality": "CT",
+    "anatomy": "Cabeza y cuello",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-187",
+    "label": "Fractura facial",
+    "query": "facial fracture CT",
+    "modality": "CT",
+    "anatomy": "Cabeza y cuello",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-188",
+    "label": "Fractura orbitaria blow-out",
+    "query": "orbital blowout fracture CT",
+    "modality": "CT",
+    "anatomy": "Cabeza y cuello",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-189",
+    "label": "Absceso periamigdalino",
+    "query": "peritonsillar abscess CT",
+    "modality": "CT",
+    "anatomy": "Cabeza y cuello",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-190",
+    "label": "Absceso retrofaríngeo",
+    "query": "retropharyngeal abscess CT",
+    "modality": "CT",
+    "anatomy": "Cabeza y cuello",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-191",
+    "label": "Sialolitiasis",
+    "query": "sialolithiasis CT",
+    "modality": "CT",
+    "anatomy": "Cabeza y cuello",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-192",
+    "label": "Nódulo tiroideo",
+    "query": "thyroid nodule ultrasound",
+    "modality": "US",
+    "anatomy": "Cabeza y cuello",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-193",
+    "label": "Tiroiditis",
+    "query": "thyroiditis ultrasound",
+    "modality": "US",
+    "anatomy": "Cabeza y cuello",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-194",
+    "label": "Adenopatía cervical",
+    "query": "cervical lymph node ultrasound",
+    "modality": "US",
+    "anatomy": "Cabeza y cuello",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-195",
+    "label": "Carcinoma de cabeza y cuello",
+    "query": "head and neck cancer CT",
+    "modality": "CT",
+    "anatomy": "Cabeza y cuello",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-196",
+    "label": "Masa mamaria",
+    "query": "breast mass mammography",
+    "modality": "XR",
+    "anatomy": "Mama",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-197",
+    "label": "Microcalcificaciones",
+    "query": "breast microcalcifications mammography",
+    "modality": "XR",
+    "anatomy": "Mama",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-198",
+    "label": "Distorsión arquitectural",
+    "query": "architectural distortion mammography",
+    "modality": "XR",
+    "anatomy": "Mama",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-199",
+    "label": "Quiste mamario",
+    "query": "breast cyst ultrasound",
+    "modality": "US",
+    "anatomy": "Mama",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-200",
+    "label": "Fibroadenoma",
+    "query": "fibroadenoma ultrasound",
+    "modality": "US",
+    "anatomy": "Mama",
+    "level": "Básico"
+  },
+  {
+    "id": "atlas-201",
+    "label": "Cáncer de mama",
+    "query": "breast cancer mammography",
+    "modality": "XR",
+    "anatomy": "Mama",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-202",
+    "label": "RM de mama",
+    "query": "breast MRI lesion",
+    "modality": "MRI",
+    "anatomy": "Mama",
+    "level": "Intermedio"
+  },
+  {
+    "id": "atlas-203",
+    "label": "Absceso mamario",
+    "query": "breast abscess ultrasound",
+    "modality": "US",
+    "anatomy": "Mama",
+    "level": "Intermedio"
+  }
+]

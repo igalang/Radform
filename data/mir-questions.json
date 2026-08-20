@@ -1,0 +1,2848 @@
+[
+  {
+    "id": "mir-001",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": "cxr-left-pneumothorax",
+    "stem": "Paciente con dolor torácico súbito y disnea. En la radiografía se observa hiperclaridad de un hemitórax con ausencia de trama vascular periférica.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Neumotórax",
+      "Derrame pleural",
+      "Edema pulmonar",
+      "Atelectasia lobar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La combinación de hiperclaridad periférica y ausencia de marcas vasculares más allá de la línea pleural es típica de neumotórax."
+  },
+  {
+    "id": "mir-002",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": "cxr-right-pleural-effusion",
+    "stem": "Paciente con disnea progresiva. La radiografía muestra borramiento del seno costofrénico derecho y menisco ascendente.",
+    "question": "¿Qué hallazgo explica mejor la imagen?",
+    "options": [
+      "Derrame pleural",
+      "Neumotórax",
+      "Consolidación lobar superior",
+      "Enfisema"
+    ],
+    "correctIndex": 0,
+    "explanation": "El menisco y el borramiento del seno costofrénico son signos clásicos de derrame pleural."
+  },
+  {
+    "id": "mir-003",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "caseId": "ct-pulmonary-embolism",
+    "stem": "Paciente con disnea de inicio brusco y taquicardia. En angio-TC se identifican defectos de repleción intraluminales en arterias pulmonares.",
+    "question": "¿Cuál es el diagnóstico?",
+    "options": [
+      "Embolia pulmonar",
+      "Disección aórtica",
+      "Neumonía organizada",
+      "Hipertensión pulmonar crónica aislada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los defectos de repleción intraluminales en arterias pulmonares opacificadas son el hallazgo directo de embolia pulmonar."
+  },
+  {
+    "id": "mir-004",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": "cxr-rul-pneumonia",
+    "stem": "Paciente febril con tos y expectoración. La radiografía muestra opacidad alveolar focal en el lóbulo superior derecho.",
+    "question": "¿Cuál es la opción más probable?",
+    "options": [
+      "Neumonía lobar",
+      "Edema cardiogénico",
+      "Neumotórax",
+      "Derrame pleural"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una consolidación focal en contexto infeccioso es compatible con neumonía lobar."
+  },
+  {
+    "id": "mir-005",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "stem": "Radiografía de tórax con opacidades alveolares bilaterales perihiliares, cardiomegalia y derrames pleurales pequeños.",
+    "question": "¿Cuál es la causa más probable?",
+    "options": [
+      "Edema pulmonar cardiogénico",
+      "Fibrosis pulmonar",
+      "Neumotórax bilateral",
+      "Tuberculosis miliar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La distribución perihiliar bilateral, junto con cardiomegalia y derrame, favorece edema cardiogénico."
+  },
+  {
+    "id": "mir-006",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "stem": "En una radiografía, una opacidad del lóbulo medio derecho borra el borde cardíaco derecho pero conserva el hemidiafragma.",
+    "question": "¿Qué principio radiológico explica este hallazgo?",
+    "options": [
+      "Signo de la silueta",
+      "Signo del menisco",
+      "Signo de la columna vertebral",
+      "Signo del broncograma aéreo invertido"
+    ],
+    "correctIndex": 0,
+    "explanation": "El signo de la silueta indica contacto anatómico entre una opacidad y una estructura de igual densidad, permitiendo localizar la lesión."
+  },
+  {
+    "id": "mir-007",
+    "area": "Tórax",
+    "difficulty": "Avanzado",
+    "stem": "Paciente en decúbito supino tras traumatismo. La radiografía muestra un seno costofrénico anormalmente profundo y muy radiolúcido.",
+    "question": "¿Qué diagnóstico debe sospecharse?",
+    "options": [
+      "Neumotórax en supino",
+      "Derrame pleural",
+      "Hemotórax masivo",
+      "Atelectasia basal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El deep sulcus sign es un signo de neumotórax en radiografías obtenidas en decúbito supino."
+  },
+  {
+    "id": "mir-008",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "stem": "TC torácica de un fumador con bullas subpleurales y áreas de baja atenuación predominantes en lóbulos superiores.",
+    "question": "¿Qué patrón es más probable?",
+    "options": [
+      "Enfisema centrolobulillar",
+      "Edema pulmonar",
+      "Neumonía intersticial usual",
+      "Sarcoidosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El enfisema centrolobulillar se asocia al tabaquismo y suele predominar en lóbulos superiores."
+  },
+  {
+    "id": "mir-009",
+    "area": "Neuro",
+    "difficulty": "Básico",
+    "caseId": "ct-intracerebral-hemorrhage",
+    "stem": "Paciente con hemiparesia aguda. En TC sin contraste se observa una lesión intraparenquimatosa hiperdensa.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Hemorragia intracerebral aguda",
+      "Infarto isquémico crónico",
+      "Absceso cerebral",
+      "Glioma de bajo grado"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sangre aguda suele verse hiperdensa en TC sin contraste."
+  },
+  {
+    "id": "mir-010",
+    "area": "Neuro",
+    "difficulty": "Básico",
+    "caseId": "ct-subdural-hematoma",
+    "stem": "Tras un traumatismo craneal, la TC muestra una colección extraaxial en semiluna que puede cruzar suturas.",
+    "question": "¿Qué lesión es?",
+    "options": [
+      "Hematoma subdural",
+      "Hematoma epidural",
+      "Hemorragia subaracnoidea",
+      "Contusión hemorrágica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hematoma subdural presenta morfología semilunar y puede extenderse a través de suturas, limitado por inserciones durales."
+  },
+  {
+    "id": "mir-011",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": "mri-acute-ischemic-stroke",
+    "stem": "Paciente con déficit neurológico focal de 90 minutos. En RM existe hiperintensidad en difusión con descenso de ADC.",
+    "question": "¿Qué representa este patrón?",
+    "options": [
+      "Infarto isquémico agudo",
+      "Edema vasogénico crónico",
+      "Hemorragia subaguda",
+      "Desmielinización antigua"
+    ],
+    "correctIndex": 0,
+    "explanation": "La restricción verdadera de difusión, con señal alta en DWI y ADC bajo, es típica de isquemia cerebral aguda."
+  },
+  {
+    "id": "mir-012",
+    "area": "Neuro",
+    "difficulty": "Básico",
+    "stem": "TC craneal tras traumatismo con colección extraaxial hiperdensa biconvexa que no cruza suturas.",
+    "question": "¿Cuál es el diagnóstico?",
+    "options": [
+      "Hematoma epidural",
+      "Hematoma subdural",
+      "Higroma subdural",
+      "Hemorragia intraventricular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hematoma epidural típicamente es lenticular o biconvexo y queda limitado por las suturas."
+  },
+  {
+    "id": "mir-013",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "stem": "Paciente con cefalea en trueno. La TC sin contraste muestra hiperdensidad en cisternas basales y surcos de la convexidad.",
+    "question": "¿Qué diagnóstico es prioritario?",
+    "options": [
+      "Hemorragia subaracnoidea",
+      "Trombosis venosa profunda",
+      "Meningioma",
+      "Leucoaraiosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sangre subaracnoidea aguda aparece hiperdensa en cisternas y surcos en la TC sin contraste."
+  },
+  {
+    "id": "mir-014",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "stem": "En una TC sin contraste realizada ante sospecha de ictus se aprecia hiperdensidad focal de la arteria cerebral media.",
+    "question": "¿Qué indica este signo?",
+    "options": [
+      "Trombo arterial agudo",
+      "Calcificación fisiológica",
+      "Hemorragia subdural",
+      "Vasoespasmo crónico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El signo de la ACM hiperdensa puede corresponder a trombo agudo intraluminal."
+  },
+  {
+    "id": "mir-015",
+    "area": "Neuro",
+    "difficulty": "Avanzado",
+    "stem": "Paciente con hipertensión grave, cefalea y crisis convulsivas. RM con edema vasogénico bilateral parieto-occipital predominante.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "PRES",
+      "Encefalitis herpética",
+      "Infarto de arteria cerebral posterior bilateral",
+      "Gliomatosis cerebral"
+    ],
+    "correctIndex": 0,
+    "explanation": "El síndrome de encefalopatía posterior reversible suele mostrar edema vasogénico parieto-occipital bilateral."
+  },
+  {
+    "id": "mir-016",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "stem": "En un infarto hiperagudo, una lesión es hiperintensa en DWI pero también hiperintensa en ADC.",
+    "question": "¿Qué interpretación es más adecuada?",
+    "options": [
+      "Puede tratarse de shine-through T2 y no de restricción verdadera",
+      "Confirma restricción de difusión",
+      "Indica hemorragia aguda",
+      "Es diagnóstico de tumor hipercelular"
+    ],
+    "correctIndex": 0,
+    "explanation": "La restricción verdadera requiere descenso del ADC; una DWI alta con ADC no reducido puede corresponder a efecto T2 shine-through."
+  },
+  {
+    "id": "mir-017",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": "ct-appendicitis",
+    "stem": "Dolor migratorio a fosa ilíaca derecha, fiebre y leucocitosis. En TC se observa apéndice aumentado de calibre con inflamación de la grasa adyacente.",
+    "question": "¿Cuál es el diagnóstico?",
+    "options": [
+      "Apendicitis aguda",
+      "Diverticulitis sigmoidea",
+      "Ileítis terminal crónica",
+      "Colecistitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aumento de calibre apendicular y la estriación de la grasa periapendicular son hallazgos típicos de apendicitis."
+  },
+  {
+    "id": "mir-018",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": "us-appendicitis",
+    "stem": "Ecografía en paciente joven con dolor en FID: estructura tubular ciega no compresible y aumentada de calibre.",
+    "question": "¿Qué diagnóstico es más probable?",
+    "options": [
+      "Apendicitis aguda",
+      "Hernia inguinal",
+      "Adenitis mesentérica aislada",
+      "Invaginación intestinal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un apéndice no compresible y aumentado de calibre es un hallazgo clásico de apendicitis en ecografía."
+  },
+  {
+    "id": "mir-019",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": "cxr-small-bowel-obstruction",
+    "stem": "Paciente con vómitos y distensión abdominal. Radiografía en bipedestación con múltiples niveles hidroaéreos y asas delgadas dilatadas.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Obstrucción de intestino delgado",
+      "Íleo biliar sin obstrucción",
+      "Colitis ulcerosa",
+      "Perforación gástrica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dilatación de asas de intestino delgado con niveles hidroaéreos múltiples es compatible con obstrucción mecánica."
+  },
+  {
+    "id": "mir-020",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": "us-gallstones",
+    "stem": "Paciente con dolor postprandial en hipocondrio derecho. Ecografía con focos hiperecogénicos móviles que producen sombra acústica posterior.",
+    "question": "¿Cuál es el diagnóstico?",
+    "options": [
+      "Colelitiasis",
+      "Pólipo vesicular",
+      "Barro biliar sin litiasis",
+      "Adenomiomatosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cálculos son ecogénicos, móviles y producen sombra acústica posterior."
+  },
+  {
+    "id": "mir-021",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "stem": "Dolor epigástrico intenso con lipasa elevada. TC con aumento difuso del páncreas y estriación de la grasa peripancreática.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Pancreatitis aguda",
+      "Adenocarcinoma pancreático",
+      "Colecistitis crónica",
+      "Isquemia mesentérica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aumento pancreático y la inflamación peripancreática son hallazgos típicos de pancreatitis aguda."
+  },
+  {
+    "id": "mir-022",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "stem": "Radiografía de tórax en bipedestación con una banda de aire libre subdiafragmática derecha.",
+    "question": "¿Qué debe sospecharse?",
+    "options": [
+      "Neumoperitoneo por perforación de víscera hueca",
+      "Atelectasia basal",
+      "Derrame pleural subpulmonar",
+      "Interposición colónica fisiológica obligatoria"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aire libre intraperitoneal subdiafragmático en bipedestación obliga a descartar perforación de víscera hueca."
+  },
+  {
+    "id": "mir-023",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "stem": "Paciente anciano con distensión y obstipación. Radiografía abdominal con gran asa colónica dilatada en forma de grano de café.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Vólvulo de sigma",
+      "Vólvulo cecal",
+      "Megacolon tóxico",
+      "Obstrucción de intestino delgado"
+    ],
+    "correctIndex": 0,
+    "explanation": "El signo del grano de café es característico del vólvulo sigmoideo."
+  },
+  {
+    "id": "mir-024",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "stem": "Ecografía con litiasis vesicular, engrosamiento de pared, líquido perivesicular y dolor máximo al presionar con el transductor sobre la vesícula.",
+    "question": "¿Qué diagnóstico es el más probable?",
+    "options": [
+      "Colecistitis aguda",
+      "Colelitiasis asintomática",
+      "Colangitis esclerosante",
+      "Hepatitis aguda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La combinación de litiasis, cambios inflamatorios y Murphy ecográfico positivo apoya colecistitis aguda."
+  },
+  {
+    "id": "mir-025",
+    "area": "Genitourinario",
+    "difficulty": "Básico",
+    "caseId": "ct-nephrolithiasis",
+    "stem": "Paciente con cólico renal. TC sin contraste muestra un foco hiperdenso ureteral con dilatación proximal.",
+    "question": "¿Cuál es la causa más probable?",
+    "options": [
+      "Litiasis ureteral",
+      "Tumor urotelial",
+      "Pielonefritis",
+      "Infarto renal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La TC sin contraste es muy sensible para litiasis y demuestra el cálculo hiperdenso junto con signos de obstrucción."
+  },
+  {
+    "id": "mir-026",
+    "area": "Genitourinario",
+    "difficulty": "Básico",
+    "stem": "Ecografía renal con dilatación anecoica de pelvis y cálices, comunicados entre sí.",
+    "question": "¿Qué hallazgo describe?",
+    "options": [
+      "Hidronefrosis",
+      "Quiste renal simple",
+      "Necrosis papilar",
+      "Nefrocalcinosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dilatación del sistema pielocalicial produce el aspecto ecográfico típico de hidronefrosis."
+  },
+  {
+    "id": "mir-027",
+    "area": "Genitourinario",
+    "difficulty": "Intermedio",
+    "stem": "Paciente febril con dolor lumbar. TC con patrón de realce estriado renal y edema perirrenal.",
+    "question": "¿Qué diagnóstico debe considerarse?",
+    "options": [
+      "Pielonefritis aguda",
+      "Glomerulonefritis crónica",
+      "Carcinoma renal",
+      "Quiste complicado"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nefrograma estriado y los cambios inflamatorios perirrenales pueden verse en pielonefritis aguda."
+  },
+  {
+    "id": "mir-028",
+    "area": "Genitourinario",
+    "difficulty": "Intermedio",
+    "stem": "Masa renal sólida que realza tras contraste y deforma el contorno renal.",
+    "question": "¿Cuál es la sospecha principal?",
+    "options": [
+      "Carcinoma de células renales",
+      "Quiste simple",
+      "Angiomiolipoma con grasa macroscópica obligatoria",
+      "Hidronefrosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una masa renal sólida con realce debe considerarse neoplásica hasta demostrar lo contrario, especialmente carcinoma de células renales."
+  },
+  {
+    "id": "mir-029",
+    "area": "Genitourinario",
+    "difficulty": "Intermedio",
+    "stem": "Mujer con dolor pélvico agudo. Ecografía con ovario aumentado de tamaño, folículos periféricos y flujo Doppler reducido.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Torsión ovárica",
+      "Embarazo ectópico roto",
+      "Endometrioma estable",
+      "Mioma subseroso"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ovario aumentado, con folículos periféricos y alteración de flujo, es sugestivo de torsión ovárica; la presencia de flujo no la excluye por completo."
+  },
+  {
+    "id": "mir-030",
+    "area": "Musculoesquelético",
+    "difficulty": "Básico",
+    "stem": "Tras caída sobre la mano extendida existe dolor en tabaquera anatómica, pero la radiografía inicial es normal.",
+    "question": "¿Qué conducta radiológica es razonable si persiste alta sospecha?",
+    "options": [
+      "Inmovilizar y realizar control o estudio avanzado para descartar fractura de escafoides",
+      "Dar el alta definitiva sin seguimiento",
+      "Solicitar solo radiografía de tórax",
+      "Descartar fractura porque la primera radiografía es normal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las fracturas de escafoides pueden ser ocultas inicialmente; con alta sospecha se inmoviliza y se repite imagen o se usa RM/TC según disponibilidad."
+  },
+  {
+    "id": "mir-031",
+    "area": "Musculoesquelético",
+    "difficulty": "Básico",
+    "stem": "Radiografía de hombro con cabeza humeral desplazada anteroinferiormente respecto a la glenoides.",
+    "question": "¿Qué diagnóstico describe?",
+    "options": [
+      "Luxación anterior de hombro",
+      "Luxación posterior",
+      "Fractura aislada de clavícula",
+      "Artrosis acromioclavicular"
+    ],
+    "correctIndex": 0,
+    "explanation": "La luxación anterior es la más frecuente y muestra desplazamiento anteroinferior de la cabeza humeral."
+  },
+  {
+    "id": "mir-032",
+    "area": "Musculoesquelético",
+    "difficulty": "Básico",
+    "stem": "Radiografía de rodilla con pinzamiento articular, osteofitos marginales y esclerosis subcondral.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Artrosis",
+      "Artritis séptica aguda",
+      "Gota tofácea obligatoria",
+      "Osteomielitis hematógena"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pinzamiento, osteofitos y esclerosis subcondral son signos radiográficos clásicos de artrosis."
+  },
+  {
+    "id": "mir-033",
+    "area": "Musculoesquelético",
+    "difficulty": "Intermedio",
+    "stem": "Adolescente con dolor óseo progresivo. Radiografía metafisaria con reacción perióstica agresiva y patrón en rayos de sol.",
+    "question": "¿Qué tumor debe sospecharse?",
+    "options": [
+      "Osteosarcoma",
+      "Encondroma",
+      "Osteoma osteoide",
+      "Quiste óseo simple"
+    ],
+    "correctIndex": 0,
+    "explanation": "La reacción perióstica tipo sunburst en una lesión metafisaria agresiva es característica de osteosarcoma."
+  },
+  {
+    "id": "mir-034",
+    "area": "Musculoesquelético",
+    "difficulty": "Intermedio",
+    "stem": "RM de cadera con línea subcondral serpiginosa y cambios de señal en la cabeza femoral de un paciente tratado con corticoides.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Necrosis avascular de cabeza femoral",
+      "Artrosis primaria",
+      "Bursitis trocantérica",
+      "Tendinopatía glútea"
+    ],
+    "correctIndex": 0,
+    "explanation": "La necrosis avascular se asocia a corticoides y puede mostrar una línea serpiginosa subcondral característica en RM."
+  },
+  {
+    "id": "mir-035",
+    "area": "Musculoesquelético",
+    "difficulty": "Avanzado",
+    "stem": "RM de rodilla tras traumatismo con edema óseo y discontinuidad del ligamento cruzado anterior.",
+    "question": "¿Qué secuencia es especialmente útil para valorar edema medular y lesiones ligamentarias?",
+    "options": [
+      "T2 o PD con supresión grasa",
+      "T1 sin supresión grasa exclusivamente",
+      "Secuencia de eco de gradiente de susceptibilidad exclusivamente",
+      "Densitometría DXA"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las secuencias sensibles a líquido con supresión grasa son muy útiles para detectar edema óseo y lesiones de partes blandas."
+  },
+  {
+    "id": "mir-036",
+    "area": "Vascular",
+    "difficulty": "Intermedio",
+    "caseId": "ct-aortic-dissection",
+    "stem": "Dolor torácico transfixiante. Angio-TC con flap intimal que separa dos luces y afecta a aorta ascendente.",
+    "question": "¿Cómo se clasifica?",
+    "options": [
+      "Disección Stanford A",
+      "Disección Stanford B",
+      "Aneurisma sacular sin disección",
+      "Hematoma intramural sin afectación ascendente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Toda disección que afecta a la aorta ascendente se clasifica como Stanford A."
+  },
+  {
+    "id": "mir-037",
+    "area": "Vascular",
+    "difficulty": "Básico",
+    "caseId": "us-dvt-femoral",
+    "stem": "Paciente con edema unilateral de pierna. En ecografía la vena femoral no colapsa con compresión.",
+    "question": "¿Qué diagnóstico es más probable?",
+    "options": [
+      "Trombosis venosa profunda",
+      "Insuficiencia arterial aguda",
+      "Linfedema primario",
+      "Celulitis sin trombosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La falta de compresibilidad venosa es el criterio ecográfico fundamental para trombosis venosa profunda."
+  },
+  {
+    "id": "mir-038",
+    "area": "Vascular",
+    "difficulty": "Básico",
+    "stem": "Ecografía abdominal muestra aorta infrarrenal con diámetro anteroposterior máximo de 4,2 cm.",
+    "question": "¿Cómo debe describirse?",
+    "options": [
+      "Aneurisma de aorta abdominal",
+      "Aorta normal",
+      "Disección aórtica obligatoria",
+      "Pseudoaneurisma femoral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Se considera aneurisma de aorta abdominal un diámetro máximo de aproximadamente 3 cm o más."
+  },
+  {
+    "id": "mir-039",
+    "area": "Vascular",
+    "difficulty": "Intermedio",
+    "stem": "En Doppler color de una masa pulsátil poscateterismo femoral se observa flujo bidireccional en remolino y patrón to-and-fro en el cuello.",
+    "question": "¿Cuál es el diagnóstico?",
+    "options": [
+      "Pseudoaneurisma",
+      "Hematoma simple",
+      "Trombosis venosa profunda",
+      "Fístula linfática"
+    ],
+    "correctIndex": 0,
+    "explanation": "El patrón yin-yang y el flujo to-and-fro en el cuello son característicos de pseudoaneurisma."
+  },
+  {
+    "id": "mir-040",
+    "area": "Vascular",
+    "difficulty": "Avanzado",
+    "stem": "Paciente con dolor abdominal intenso desproporcionado a la exploración. Angio-TC con oclusión de arteria mesentérica superior y asas con hiporrealce.",
+    "question": "¿Cuál es la sospecha principal?",
+    "options": [
+      "Isquemia mesentérica aguda",
+      "Pancreatitis crónica",
+      "Colitis microscópica",
+      "Apendicitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La oclusión arterial junto con hipoperfusión intestinal es altamente sugestiva de isquemia mesentérica aguda."
+  },
+  {
+    "id": "mir-041",
+    "area": "Pediatría",
+    "difficulty": "Básico",
+    "stem": "Lactante con dolor cólico y heces en jalea de grosella. Ecografía abdominal con imagen en diana.",
+    "question": "¿Qué diagnóstico es más probable?",
+    "options": [
+      "Invaginación intestinal",
+      "Estenosis hipertrófica de píloro",
+      "Apendicitis",
+      "Malrotación sin vólvulo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La imagen en diana o donut en ecografía es característica de invaginación intestinal."
+  },
+  {
+    "id": "mir-042",
+    "area": "Pediatría",
+    "difficulty": "Básico",
+    "stem": "Lactante de 5 semanas con vómitos no biliosos en proyectil. Ecografía con engrosamiento y elongación del píloro.",
+    "question": "¿Cuál es el diagnóstico?",
+    "options": [
+      "Estenosis hipertrófica de píloro",
+      "Atresia duodenal",
+      "Invaginación",
+      "Reflujo gastroesofágico fisiológico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El engrosamiento muscular pilórico y su elongación son hallazgos ecográficos de estenosis hipertrófica de píloro."
+  },
+  {
+    "id": "mir-043",
+    "area": "Pediatría",
+    "difficulty": "Intermedio",
+    "stem": "Prematuro con distensión abdominal y deterioro clínico. Radiografía con neumatosis intestinal.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Enterocolitis necrosante",
+      "Íleo meconial aislado",
+      "Enfermedad de Hirschsprung estable",
+      "Apendicitis neonatal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La neumatosis intestinal es un hallazgo clásico de enterocolitis necrosante."
+  },
+  {
+    "id": "mir-044",
+    "area": "Pediatría",
+    "difficulty": "Intermedio",
+    "stem": "Niño con estridor y fiebre. Radiografía lateral de cuello muestra aumento de tamaño de la epiglotis con aspecto de pulgar.",
+    "question": "¿Qué diagnóstico sugiere?",
+    "options": [
+      "Epiglotitis",
+      "Crup",
+      "Absceso retrofaríngeo obligatorio",
+      "Laringomalacia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El thumb sign es un signo radiográfico clásico de epiglotitis, aunque el diagnóstico y manejo son clínicos y urgentes."
+  },
+  {
+    "id": "mir-045",
+    "area": "Cabeza y cuello",
+    "difficulty": "Intermedio",
+    "stem": "Ecografía tiroidea muestra nódulo sólido hipoecoico, márgenes irregulares y forma más alta que ancha.",
+    "question": "¿Qué interpretación es correcta?",
+    "options": [
+      "Presenta rasgos ecográficos sospechosos de malignidad",
+      "Es un quiste simple benigno",
+      "La forma más alta que ancha es tranquilizadora",
+      "No requiere valoración adicional en ningún contexto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La marcada hipoecogenicidad, márgenes irregulares y morfología taller-than-wide son características sospechosas en sistemas de estratificación tiroidea."
+  },
+  {
+    "id": "mir-046",
+    "area": "Cabeza y cuello",
+    "difficulty": "Básico",
+    "stem": "Paciente con dolor submandibular al comer. TC muestra un pequeño foco calcificado en el trayecto del conducto de Wharton.",
+    "question": "¿Cuál es el diagnóstico?",
+    "options": [
+      "Sialolitiasis submandibular",
+      "Adenopatía metastásica",
+      "Quiste branquial",
+      "Absceso periamigdalino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cálculos del conducto submandibular pueden visualizarse como focos calcificados y producir dolor posprandial."
+  },
+  {
+    "id": "mir-047",
+    "area": "Mama",
+    "difficulty": "Intermedio",
+    "stem": "Mamografía con masa irregular de márgenes espiculados y distorsión arquitectural.",
+    "question": "¿Cómo debe considerarse este patrón?",
+    "options": [
+      "Altamente sospechoso y requiere estudio histológico",
+      "Típicamente benigno sin seguimiento",
+      "Compatible con quiste simple",
+      "Hallazgo fisiológico por edad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una masa irregular espiculada es un hallazgo mamográfico de alta sospecha que requiere evaluación diagnóstica y generalmente biopsia."
+  },
+  {
+    "id": "mir-048",
+    "area": "Mama",
+    "difficulty": "Intermedio",
+    "stem": "Mamografía de cribado con grupo nuevo de microcalcificaciones finas pleomórficas y distribución segmentaria.",
+    "question": "¿Cuál es la actitud conceptual adecuada?",
+    "options": [
+      "Considerarlo sospechoso y completar estudio",
+      "Catalogarlo como benigno por definición",
+      "Ignorarlo si no hay masa palpable",
+      "Interpretarlo como calcificación vascular"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las microcalcificaciones finas pleomórficas, especialmente con distribución segmentaria, son sospechosas y requieren estudio dirigido."
+  },
+  {
+    "id": "mir-1000",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": "cxr-rul-pneumonia",
+    "stem": "Varón de 67 años con fiebre, tos productiva y dolor pleurítico de 48 horas. Saturación 93% al aire ambiente. Se realiza una radiografía AP de tórax.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Neumonía del lóbulo superior derecho",
+      "Edema agudo de pulmón",
+      "Neumotórax derecho",
+      "Derrame pleural derecho"
+    ],
+    "correctIndex": 0,
+    "explanation": "La opacidad focal en el campo pulmonar superior derecho, en el contexto clínico de infección respiratoria, es compatible con una neumonía lobar. El edema suele ser bilateral y perihiliar; el neumotórax produce hiperclaridad sin trama vascular; el derrame predomina en bases."
+  },
+  {
+    "id": "mir-1001",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": "cxr-left-pneumothorax",
+    "stem": "Paciente joven con dolor torácico súbito y disnea. La radiografía se obtiene en espiración para aumentar la visibilidad de una pequeña colección pleural de aire.",
+    "question": "¿Qué hallazgo explica mejor la imagen?",
+    "options": [
+      "Neumotórax izquierdo",
+      "Atelectasia completa izquierda",
+      "Derrame pleural izquierdo",
+      "Consolidación lingular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El neumotórax se reconoce por una línea pleural visible y la ausencia de vasos pulmonares más allá de ella. En espiración puede hacerse más evidente al reducirse el volumen pulmonar."
+  },
+  {
+    "id": "mir-1002",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": "cxr-right-pleural-effusion",
+    "stem": "Paciente con disnea progresiva. La radiografía muestra una opacidad basal de contorno cóncavo ascendente.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Derrame pleural derecho",
+      "Neumonía basal izquierda",
+      "Neumotórax derecho",
+      "Cardiomegalia aislada"
+    ],
+    "correctIndex": 0,
+    "explanation": "El líquido pleural en bipedestación se acumula en las bases y asciende lateralmente formando el menisco. El hallazgo se diferencia de una consolidación por su distribución pleural y contorno típico."
+  },
+  {
+    "id": "mir-1003",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": "ct-intracerebral-hemorrhage",
+    "stem": "Paciente con focalidad neurológica brusca. Se realiza TC craneal sin contraste como primera prueba de imagen.",
+    "question": "¿Qué proceso identifica mejor la zona señalada?",
+    "options": [
+      "Hemorragia intracerebral",
+      "Infarto isquémico establecido",
+      "Tumor glial de bajo grado",
+      "Absceso cerebral"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sangre aguda es hiperdensa en TC sin contraste. La extensión intraventricular puede acompañarse de hidrocefalia y empeora el pronóstico. El ictus isquémico temprano suele ser normal o hipodenso, no francamente hiperdenso."
+  },
+  {
+    "id": "mir-1004",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": "ct-subdural-hematoma",
+    "stem": "Paciente anticoagulado tras caída accidental. Presenta cefalea progresiva y somnolencia.",
+    "question": "¿Qué tipo de colección extraaxial es más probable?",
+    "options": [
+      "Hematoma subdural",
+      "Hematoma epidural",
+      "Hemorragia subaracnoidea",
+      "Higroma subdural simple"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hematoma subdural se adapta a la convexidad cerebral y tiene morfología en semiluna. El epidural suele ser biconvexo y está limitado por suturas."
+  },
+  {
+    "id": "mir-1005",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "caseId": "ct-appendicitis",
+    "stem": "Adulto con dolor migratorio a fosa ilíaca derecha, fiebre y leucocitosis. Se realiza TC abdominal con contraste.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Apendicitis aguda",
+      "Diverticulitis sigmoidea",
+      "Colecistitis aguda",
+      "Pancreatitis aguda"
+    ],
+    "correctIndex": 0,
+    "explanation": "En TC, la apendicitis se apoya en un apéndice aumentado de calibre, engrosamiento mural y estriación de la grasa vecina. Pueden existir apendicolitos o colecciones si hay complicación."
+  },
+  {
+    "id": "mir-1006",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": "ct-nephrolithiasis",
+    "stem": "Paciente con dolor lumbar derecho irradiado a ingle y microhematuria. Se realiza TC sin contraste.",
+    "question": "¿Cuál es el hallazgo principal?",
+    "options": [
+      "Litiasis renal derecha",
+      "Pielonefritis enfisematosa",
+      "Quiste renal simple",
+      "Infarto renal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La TC sin contraste es muy sensible para detectar cálculos urinarios. El cálculo aparece como foco hiperdenso y debe evaluarse junto con signos de obstrucción como hidronefrosis o edema perirrenal."
+  },
+  {
+    "id": "mir-1007",
+    "area": "Vascular",
+    "difficulty": "Avanzado",
+    "caseId": "ct-aortic-dissection",
+    "stem": "Paciente hipertenso con dolor torácico súbito, intenso y transfixiante. La angio-TC muestra una doble luz aórtica.",
+    "question": "¿Qué diagnóstico corresponde mejor al hallazgo señalado?",
+    "options": [
+      "Disección aórtica Stanford A",
+      "Aneurisma sacular aislado",
+      "Embolia pulmonar",
+      "Hematoma mediastínico sin lesión aórtica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La presencia de un flap intimal y doble luz es característica de disección. Se clasifica como Stanford A cuando afecta a la aorta ascendente, independientemente de la extensión distal."
+  },
+  {
+    "id": "mir-1008",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": "mri-acute-ischemic-stroke",
+    "stem": "Paciente con hemiparesia de inicio reciente. La RM incluye secuencias de difusión (DWI) y mapa ADC.",
+    "question": "¿Qué patrón es más compatible con isquemia cerebral aguda?",
+    "options": [
+      "Hiperintensidad en DWI con descenso de ADC",
+      "Hipointensidad en DWI con ADC elevado",
+      "Realce meníngeo aislado",
+      "Hiperintensidad T1 sin cambios en difusión"
+    ],
+    "correctIndex": 0,
+    "explanation": "El edema citotóxico del infarto agudo restringe la difusión del agua, aumentando la señal en DWI y reduciendo el ADC. La correlación DWI/ADC evita confundir el efecto T2 shine-through con restricción real."
+  },
+  {
+    "id": "mir-1009",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": "us-gallstones",
+    "stem": "Paciente con episodios de dolor postprandial en hipocondrio derecho, sin fiebre ni signos sistémicos.",
+    "question": "¿Qué diagnóstico explica los focos ecogénicos con sombra posterior?",
+    "options": [
+      "Colelitiasis",
+      "Pólipo vesicular",
+      "Barro biliar aislado",
+      "Adenomiomatosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cálculos vesiculares son ecogénicos y suelen producir sombra acústica. La movilidad con cambios posturales ayuda a diferenciarlos de pólipos adheridos a la pared."
+  },
+  {
+    "id": "mir-1010",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "caseId": "us-appendicitis",
+    "stem": "Paciente joven con dolor en fosa ilíaca derecha, náuseas y febrícula. Se realiza ecografía dirigida.",
+    "question": "¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Apendicitis aguda",
+      "Invaginación intestinal",
+      "Colecistitis",
+      "Trombosis venosa profunda"
+    ],
+    "correctIndex": 0,
+    "explanation": "En ecografía, un apéndice no compresible aumentado de calibre y con cambios inflamatorios periapendiculares apoya el diagnóstico. La técnica de compresión gradual es fundamental."
+  },
+  {
+    "id": "mir-1011",
+    "area": "Vascular",
+    "difficulty": "Intermedio",
+    "caseId": "us-dvt-femoral",
+    "stem": "Varón de 65 años con edema unilateral de miembro inferior. Se realiza ecografía Doppler venosa.",
+    "question": "¿Qué diagnóstico explica la ausencia de flujo y el material ecogénico intraluminal?",
+    "options": [
+      "Trombosis venosa profunda",
+      "Insuficiencia venosa crónica aislada",
+      "Pseudoaneurisma femoral",
+      "Hematoma muscular"
+    ],
+    "correctIndex": 0,
+    "explanation": "La TVP se diagnostica principalmente por falta de compresibilidad venosa; el trombo puede verse ecogénico y asociarse a ausencia de flujo. El Doppler complementa, pero no sustituye, la compresión."
+  },
+  {
+    "id": "mir-1012",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "caseId": "cxr-small-bowel-obstruction",
+    "stem": "Paciente con dolor abdominal, vómitos y distensión. Se realiza radiografía abdominal en bipedestación.",
+    "question": "¿Qué patrón radiológico es el más probable?",
+    "options": [
+      "Obstrucción de intestino delgado",
+      "Íleo biliar sin obstrucción",
+      "Perforación de víscera hueca",
+      "Ascitis aislada"
+    ],
+    "correctIndex": 0,
+    "explanation": "La obstrucción mecánica del intestino delgado puede producir asas centrales dilatadas y múltiples niveles hidroaéreos. La TC suele ser necesaria para localizar el punto de transición y buscar complicaciones."
+  },
+  {
+    "id": "mir-1013",
+    "area": "Vascular",
+    "difficulty": "Avanzado",
+    "caseId": "ct-pulmonary-embolism",
+    "stem": "Paciente con disnea brusca, taquicardia y dolor pleurítico. La angio-TC pulmonar muestra defectos de repleción centrales.",
+    "question": "¿Cuál es el diagnóstico radiológico principal?",
+    "options": [
+      "Embolia pulmonar",
+      "Disección aórtica",
+      "Edema pulmonar",
+      "Neumonía bilateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "En angio-TC, el trombo aparece como defecto de repleción dentro de la luz arterial contrastada. La extensión y la repercusión sobre el ventrículo derecho ayudan a estratificar gravedad junto con los datos clínicos."
+  },
+  {
+    "id": "mir-1014",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": "auto-neumonia-del-lobulo-inferior",
+    "stem": "Mujer de 72 años con fiebre, tos productiva y crepitantes basales.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Neumonía del lóbulo inferior",
+      "Atelectasia",
+      "Derrame pleural",
+      "Edema pulmonar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es consolidación alveolar basal con posible broncograma aéreo. En el contexto clínico descrito, el diagnóstico más probable es Neumonía del lóbulo inferior. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1015",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": "auto-edema-pulmonar-cardiogenico",
+    "stem": "Varón de 78 años con ortopnea, disnea súbita y antecedentes de insuficiencia cardiaca.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Edema pulmonar cardiogénico",
+      "Neumonía bilateral",
+      "SDRA",
+      "Hemorragia alveolar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es opacidades alveolares bilaterales perihiliares y signos de congestión. En el contexto clínico descrito, el diagnóstico más probable es Edema pulmonar cardiogénico. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1016",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": "auto-derrame-pleural",
+    "stem": "Paciente oncológico con disnea progresiva y disminución del murmullo vesicular en una base.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Derrame pleural",
+      "Atelectasia",
+      "Neumonía",
+      "Hemotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es velamiento basal con menisco y borramiento del seno costofrénico. En el contexto clínico descrito, el diagnóstico más probable es Derrame pleural. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1017",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "caseId": "auto-atelectasia-lobar",
+    "stem": "Paciente posoperatorio con hipoxemia y disminución de la ventilación en hemitórax derecho.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Atelectasia lobar",
+      "Neumonía",
+      "Derrame pleural",
+      "Masa pulmonar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es opacidad asociada a pérdida de volumen y desplazamiento de cisuras o mediastino. En el contexto clínico descrito, el diagnóstico más probable es Atelectasia lobar. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1018",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": "auto-enfisema-pulmonar",
+    "stem": "Varón de 66 años, fumador de larga evolución, con disnea progresiva.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Enfisema pulmonar",
+      "Asma aguda",
+      "Neumotórax bilateral",
+      "Fibrosis pulmonar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es hiperclaridad pulmonar, diafragmas aplanados y aumento del espacio retroesternal. En el contexto clínico descrito, el diagnóstico más probable es Enfisema pulmonar. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1019",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "caseId": "auto-tuberculosis-pulmonar-cavitada",
+    "stem": "Paciente con tos crónica, sudoración nocturna, pérdida de peso y hemoptisis.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Tuberculosis pulmonar cavitada",
+      "Absceso pulmonar",
+      "Carcinoma cavitado",
+      "Micosis pulmonar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es cavitación predominante en lóbulos superiores con infiltrados asociados. En el contexto clínico descrito, el diagnóstico más probable es Tuberculosis pulmonar cavitada. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1020",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "caseId": "auto-carcinoma-broncogenico",
+    "stem": "Fumador de 68 años con pérdida ponderal y hemoptisis.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Carcinoma broncogénico",
+      "Granuloma",
+      "Hamartoma",
+      "Metástasis pulmonar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es nódulo o masa pulmonar irregular y espiculada. En el contexto clínico descrito, el diagnóstico más probable es Carcinoma broncogénico. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1021",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "caseId": "auto-embolia-pulmonar-aguda",
+    "stem": "Mujer de 54 años con disnea súbita, taquicardia y dolor pleurítico tras inmovilización.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Embolia pulmonar aguda",
+      "Artefacto de mezcla",
+      "Hipertensión pulmonar",
+      "Disección aórtica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es defecto de repleción intraluminal en arterias pulmonares en angio-TC. En el contexto clínico descrito, el diagnóstico más probable es Embolia pulmonar aguda. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1022",
+    "area": "Tórax",
+    "difficulty": "Avanzado",
+    "caseId": "auto-diseccion-aortica",
+    "stem": "Varón hipertenso con dolor torácico súbito irradiado a espalda y asimetría de pulsos.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Disección aórtica",
+      "Aneurisma aórtico",
+      "Hematoma intramural",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es flap intimal que separa luz verdadera y falsa en la aorta. En el contexto clínico descrito, el diagnóstico más probable es Disección aórtica. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1023",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "caseId": "auto-fibrosis-pulmonar-intersticial",
+    "stem": "Paciente con disnea de esfuerzo progresiva, tos seca y crepitantes tipo velcro.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Fibrosis pulmonar intersticial",
+      "Edema pulmonar",
+      "Neumonía organizada",
+      "Sarcoidosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es reticulación periférica, bronquiectasias de tracción y posible panalización. En el contexto clínico descrito, el diagnóstico más probable es Fibrosis pulmonar intersticial. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1024",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": "auto-ictus-isquemico-agudo",
+    "stem": "Varón de 74 años con hemiparesia y afasia de inicio hace 90 minutos.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Ictus isquémico agudo",
+      "Hemorragia intracerebral",
+      "Tumor cerebral",
+      "Encefalitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es pérdida de diferenciación sustancia gris-blanca y borramiento de surcos en territorio vascular. En el contexto clínico descrito, el diagnóstico más probable es Ictus isquémico agudo. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1025",
+    "area": "Neuro",
+    "difficulty": "Básico",
+    "caseId": "auto-hemorragia-intracerebral-hipertensiva",
+    "stem": "Paciente hipertenso con cefalea súbita, vómitos y déficit focal.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Hemorragia intracerebral hipertensiva",
+      "Ictus isquémico",
+      "Metástasis hemorrágica",
+      "Calcificación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es colección hiperdensa intraparenquimatosa con edema periférico. En el contexto clínico descrito, el diagnóstico más probable es Hemorragia intracerebral hipertensiva. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1026",
+    "area": "Neuro",
+    "difficulty": "Básico",
+    "caseId": "auto-hematoma-subdural-agudo",
+    "stem": "Anciano anticoagulado tras caída, con deterioro progresivo del nivel de conciencia.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Hematoma subdural agudo",
+      "Hematoma epidural",
+      "Hemorragia subaracnoidea",
+      "Higroma subdural"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es colección extraaxial hiperdensa en semiluna que puede cruzar suturas. En el contexto clínico descrito, el diagnóstico más probable es Hematoma subdural agudo. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1027",
+    "area": "Neuro",
+    "difficulty": "Básico",
+    "caseId": "auto-hematoma-epidural-agudo",
+    "stem": "Joven tras traumatismo craneal con intervalo lúcido y posterior deterioro neurológico.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Hematoma epidural agudo",
+      "Hematoma subdural",
+      "Contusión cerebral",
+      "Hemorragia subaracnoidea"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es colección extraaxial biconvexa limitada por suturas. En el contexto clínico descrito, el diagnóstico más probable es Hematoma epidural agudo. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1028",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": "auto-hemorragia-subaracnoidea",
+    "stem": "Paciente con cefalea en trueno, rigidez de nuca y vómitos.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Hemorragia subaracnoidea",
+      "Meningitis",
+      "Trombosis venosa cerebral",
+      "Migraña"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es hiperdensidad en cisternas basales y surcos corticales. En el contexto clínico descrito, el diagnóstico más probable es Hemorragia subaracnoidea. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1029",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": "auto-meningioma",
+    "stem": "Mujer de 58 años con cefalea progresiva y crisis focales.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Meningioma",
+      "Schwannoma",
+      "Metástasis dural",
+      "Glioma"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es masa extraaxial bien delimitada con realce intenso y posible cola dural. En el contexto clínico descrito, el diagnóstico más probable es Meningioma. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1030",
+    "area": "Neuro",
+    "difficulty": "Avanzado",
+    "caseId": "auto-glioblastoma",
+    "stem": "Varón de 64 años con cefalea, cambios conductuales y déficit focal progresivo.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Glioblastoma",
+      "Metástasis",
+      "Absceso cerebral",
+      "Linfoma primario"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es masa infiltrativa heterogénea con necrosis central y realce irregular en anillo. En el contexto clínico descrito, el diagnóstico más probable es Glioblastoma. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1031",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": "auto-esclerosis-multiple",
+    "stem": "Mujer joven con episodios neurológicos separados en tiempo y espacio.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Esclerosis múltiple",
+      "Migraña",
+      "Vasculitis",
+      "Leucoencefalopatía vascular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es placas hiperintensas T2/FLAIR periventriculares, yuxtacorticales e infratentoriales. En el contexto clínico descrito, el diagnóstico más probable es Esclerosis múltiple. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1032",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": "auto-macroadenoma-hipofisario",
+    "stem": "Paciente con hemianopsia bitemporal y cefalea.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Macroadenoma hipofisario",
+      "Craneofaringioma",
+      "Meningioma selar",
+      "Aneurisma carotídeo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es masa selar con extensión supraselar y posible compresión del quiasma. En el contexto clínico descrito, el diagnóstico más probable es Macroadenoma hipofisario. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1033",
+    "area": "Neuro",
+    "difficulty": "Básico",
+    "caseId": "auto-hidrocefalia-obstructiva",
+    "stem": "Paciente con cefalea, vómitos y somnolencia progresiva.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Hidrocefalia obstructiva",
+      "Atrofia cerebral",
+      "Quistes aracnoideos",
+      "Encefalomalacia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es dilatación ventricular desproporcionada con signos de hipertensión intracraneal. En el contexto clínico descrito, el diagnóstico más probable es Hidrocefalia obstructiva. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1034",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": "auto-apendicitis-aguda",
+    "stem": "Adulto joven con dolor migratorio a fosa ilíaca derecha, fiebre y leucocitosis.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Apendicitis aguda",
+      "Diverticulitis",
+      "Ileítis terminal",
+      "Adenitis mesentérica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es apéndice aumentado de calibre con realce mural y cambios inflamatorios de la grasa adyacente. En el contexto clínico descrito, el diagnóstico más probable es Apendicitis aguda. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1035",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": "auto-colecistitis-aguda",
+    "stem": "Mujer con dolor en hipocondrio derecho, fiebre y Murphy positivo.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Colecistitis aguda",
+      "Cólico biliar",
+      "Hepatitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es litiasis, engrosamiento parietal, distensión vesicular y líquido perivesicular. En el contexto clínico descrito, el diagnóstico más probable es Colecistitis aguda. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1036",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "caseId": "auto-pancreatitis-aguda",
+    "stem": "Paciente con dolor epigástrico irradiado a espalda y lipasa elevada.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Pancreatitis aguda",
+      "Úlcera perforada",
+      "Colecistitis",
+      "Isquemia mesentérica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es aumento de tamaño pancreático, estriación de grasa peripancreática y posibles colecciones. En el contexto clínico descrito, el diagnóstico más probable es Pancreatitis aguda. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1037",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "caseId": "auto-obstruccion-mecanica-de-intestino-delgado",
+    "stem": "Paciente con vómitos, distensión abdominal y ausencia de deposiciones.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Obstrucción mecánica de intestino delgado",
+      "Íleo paralítico",
+      "Colitis",
+      "Ascitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es asas de intestino delgado dilatadas con punto de transición y colapso distal. En el contexto clínico descrito, el diagnóstico más probable es Obstrucción mecánica de intestino delgado. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1038",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": "auto-diverticulitis-sigmoidea",
+    "stem": "Paciente de 63 años con dolor en fosa ilíaca izquierda, fiebre y leucocitosis.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Diverticulitis sigmoidea",
+      "Cáncer de colon",
+      "Colitis",
+      "Apendicitis izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es engrosamiento segmentario del sigma, divertículos y densificación de la grasa pericolónica. En el contexto clínico descrito, el diagnóstico más probable es Diverticulitis sigmoidea. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1039",
+    "area": "Genitourinario",
+    "difficulty": "Básico",
+    "caseId": "auto-urolitiasis-obstructiva",
+    "stem": "Paciente con cólico renal intenso irradiado a ingle y hematuria.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Urolitiasis obstructiva",
+      "Pielonefritis",
+      "Aneurisma aórtico",
+      "Infarto renal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es cálculo hiperdenso en uréter con posible ureterohidronefrosis proximal. En el contexto clínico descrito, el diagnóstico más probable es Urolitiasis obstructiva. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1040",
+    "area": "Genitourinario",
+    "difficulty": "Intermedio",
+    "caseId": "auto-pielonefritis-aguda",
+    "stem": "Mujer con fiebre, dolor lumbar y piuria.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Pielonefritis aguda",
+      "Infarto renal",
+      "Absceso renal",
+      "Tumor renal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es áreas hipoperfundidas en cuña, estriación nefrográfica y cambios perirrenales. En el contexto clínico descrito, el diagnóstico más probable es Pielonefritis aguda. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1041",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "caseId": "auto-hemangioma-hepatico",
+    "stem": "Lesión hepática incidental en paciente asintomático.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Hemangioma hepático",
+      "Metástasis",
+      "Hepatocarcinoma",
+      "Hiperplasia nodular focal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es realce periférico nodular discontinuo con relleno centrípeto progresivo. En el contexto clínico descrito, el diagnóstico más probable es Hemangioma hepático. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1042",
+    "area": "Abdomen",
+    "difficulty": "Avanzado",
+    "caseId": "auto-carcinoma-hepatocelular",
+    "stem": "Paciente cirrótico con elevación de alfa-fetoproteína.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Carcinoma hepatocelular",
+      "Metástasis hipervascular",
+      "Hemangioma",
+      "Colangiocarcinoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es hipercaptación arterial con lavado portal o tardío en lesión hepática. En el contexto clínico descrito, el diagnóstico más probable es Carcinoma hepatocelular. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1043",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "caseId": "auto-metastasis-hepaticas",
+    "stem": "Paciente con neoplasia conocida y alteración de enzimas hepáticas.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Metástasis hepáticas",
+      "Quistes hepáticos",
+      "Hemangiomas múltiples",
+      "Abscesos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es múltiples lesiones focales hepáticas, frecuentemente hipodensas y con patrón de realce variable. En el contexto clínico descrito, el diagnóstico más probable es Metástasis hepáticas. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1044",
+    "area": "Abdomen",
+    "difficulty": "Avanzado",
+    "caseId": "auto-isquemia-mesenterica-aguda",
+    "stem": "Anciano con fibrilación auricular y dolor abdominal intenso desproporcionado a la exploración.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Isquemia mesentérica aguda",
+      "Enteritis",
+      "Obstrucción intestinal",
+      "Pancreatitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es defecto vascular, hiporrealce mural, neumatosis o gas portal según evolución. En el contexto clínico descrito, el diagnóstico más probable es Isquemia mesentérica aguda. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1045",
+    "area": "Vascular",
+    "difficulty": "Básico",
+    "caseId": "auto-aneurisma-de-aorta-abdominal",
+    "stem": "Varón de 74 años, fumador, con masa abdominal pulsátil.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Aneurisma de aorta abdominal",
+      "Ectasia aórtica",
+      "Masa retroperitoneal",
+      "Quiste pancreático"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es dilatación focal de aorta abdominal mayor de 3 cm. En el contexto clínico descrito, el diagnóstico más probable es Aneurisma de aorta abdominal. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1046",
+    "area": "Musculoesquelético",
+    "difficulty": "Básico",
+    "caseId": "auto-fractura-distal-de-radio-tipo-colles",
+    "stem": "Mujer mayor tras caída sobre la mano extendida, con deformidad en dorso de tenedor.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Fractura distal de radio tipo Colles",
+      "Fractura de Smith",
+      "Fractura de escafoides",
+      "Luxación radiocarpiana"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es fractura distal de radio con angulación o desplazamiento dorsal. En el contexto clínico descrito, el diagnóstico más probable es Fractura distal de radio tipo Colles. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1047",
+    "area": "Musculoesquelético",
+    "difficulty": "Básico",
+    "caseId": "auto-fractura-intracapsular-de-cuello-femoral",
+    "stem": "Anciana tras caída con dolor inguinal, acortamiento y rotación externa de la extremidad.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Fractura intracapsular de cuello femoral",
+      "Fractura pertrocantérea",
+      "Luxación de cadera",
+      "Contusión ósea"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es trazo de fractura subcapital o transcervical del cuello femoral. En el contexto clínico descrito, el diagnóstico más probable es Fractura intracapsular de cuello femoral. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1048",
+    "area": "Musculoesquelético",
+    "difficulty": "Básico",
+    "caseId": "auto-luxacion-glenohumeral-anterior",
+    "stem": "Paciente tras traumatismo con hombro doloroso y deformidad en charretera.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Luxación glenohumeral anterior",
+      "Luxación posterior",
+      "Fractura de húmero proximal",
+      "Separación acromioclavicular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es cabeza humeral desplazada anteroinferiormente respecto a la glenoides. En el contexto clínico descrito, el diagnóstico más probable es Luxación glenohumeral anterior. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1049",
+    "area": "Musculoesquelético",
+    "difficulty": "Intermedio",
+    "caseId": "auto-fractura-de-escafoides",
+    "stem": "Joven tras caída con dolor en tabaquera anatómica y radiografía inicial dudosa.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Fractura de escafoides",
+      "Esguince de muñeca",
+      "Fractura distal de radio",
+      "Lesión del semilunar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es línea de fractura en escafoides, a veces oculta inicialmente. En el contexto clínico descrito, el diagnóstico más probable es Fractura de escafoides. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1050",
+    "area": "Musculoesquelético",
+    "difficulty": "Intermedio",
+    "caseId": "auto-rotura-del-ligamento-cruzado-anterior",
+    "stem": "Deportista con giro de rodilla, chasquido, hemartros y Lachman positivo.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Rotura del ligamento cruzado anterior",
+      "Rotura meniscal",
+      "Lesión del LCP",
+      "Esguince del colateral medial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es discontinuidad o alteración de señal del LCA con signos secundarios. En el contexto clínico descrito, el diagnóstico más probable es Rotura del ligamento cruzado anterior. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1051",
+    "area": "Musculoesquelético",
+    "difficulty": "Intermedio",
+    "caseId": "auto-rotura-meniscal",
+    "stem": "Paciente con dolor de rodilla, bloqueo articular y McMurray positivo.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Rotura meniscal",
+      "Degeneración meniscal",
+      "Rotura de LCA",
+      "Lesión condral"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es línea hiperintensa que alcanza la superficie articular del menisco. En el contexto clínico descrito, el diagnóstico más probable es Rotura meniscal. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1052",
+    "area": "Musculoesquelético",
+    "difficulty": "Intermedio",
+    "caseId": "auto-osteosarcoma",
+    "stem": "Adolescente con dolor y aumento de volumen cerca de la rodilla.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Osteosarcoma",
+      "Sarcoma de Ewing",
+      "Osteomielitis",
+      "Quiste óseo aneurismático"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es lesión ósea agresiva metafisaria con matriz osteoide y reacción perióstica. En el contexto clínico descrito, el diagnóstico más probable es Osteosarcoma. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1053",
+    "area": "Musculoesquelético",
+    "difficulty": "Intermedio",
+    "caseId": "auto-osteomielitis",
+    "stem": "Paciente diabético con úlcera plantar y sospecha de infección ósea.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Osteomielitis",
+      "Artropatía de Charcot",
+      "Fractura por estrés",
+      "Tumor óseo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es edema medular en T2/STIR y disminución de señal T1 con realce tras contraste. En el contexto clínico descrito, el diagnóstico más probable es Osteomielitis. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1054",
+    "area": "Musculoesquelético",
+    "difficulty": "Avanzado",
+    "caseId": "auto-espondilodiscitis-infecciosa",
+    "stem": "Paciente con fiebre, dolor lumbar persistente y elevación de reactantes.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Espondilodiscitis infecciosa",
+      "Modic tipo 1",
+      "Metástasis vertebral",
+      "Fractura osteoporótica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es edema de platillos vertebrales adyacentes y afectación del disco, con posible absceso epidural. En el contexto clínico descrito, el diagnóstico más probable es Espondilodiscitis infecciosa. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1055",
+    "area": "Vascular",
+    "difficulty": "Básico",
+    "caseId": "auto-trombosis-venosa-profunda",
+    "stem": "Paciente con edema unilateral de pierna tras cirugía reciente.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Trombosis venosa profunda",
+      "Celulitis",
+      "Quiste de Baker roto",
+      "Insuficiencia venosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es vena no compresible con material ecogénico y alteración del flujo Doppler. En el contexto clínico descrito, el diagnóstico más probable es Trombosis venosa profunda. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1056",
+    "area": "Vascular",
+    "difficulty": "Intermedio",
+    "caseId": "auto-estenosis-aterosclerotica-carotidea",
+    "stem": "Paciente con AIT hemisférico y soplo carotídeo.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Estenosis aterosclerótica carotídea",
+      "Disección carotídea",
+      "Oclusión carotídea",
+      "Arteritis de Takayasu"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es placa ateromatosa con elevación de velocidades en Doppler espectral. En el contexto clínico descrito, el diagnóstico más probable es Estenosis aterosclerótica carotídea. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1057",
+    "area": "Vascular",
+    "difficulty": "Intermedio",
+    "caseId": "auto-enfermedad-arterial-periferica",
+    "stem": "Paciente con claudicación progresiva y pulsos distales disminuidos.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Enfermedad arterial periférica",
+      "TVP",
+      "Síndrome compartimental",
+      "Vasculitis venosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es estenosis u oclusiones arteriales con calcificación ateromatosa en angio-TC. En el contexto clínico descrito, el diagnóstico más probable es Enfermedad arterial periférica. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1058",
+    "area": "Genitourinario",
+    "difficulty": "Básico",
+    "caseId": "auto-varicocele",
+    "stem": "Varón joven con pesadez escrotal y dilataciones venosas palpables en bipedestación.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Varicocele",
+      "Hidrocele",
+      "Epididimitis",
+      "Tumor testicular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es venas del plexo pampiniforme dilatadas con reflujo durante Valsalva. En el contexto clínico descrito, el diagnóstico más probable es Varicocele. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1059",
+    "area": "Ginecología",
+    "difficulty": "Intermedio",
+    "caseId": "auto-embarazo-ectopico-tubarico",
+    "stem": "Mujer con amenorrea, beta-hCG positiva, dolor pélvico y sangrado vaginal.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Embarazo ectópico tubárico",
+      "Aborto en curso",
+      "Quiste hemorrágico",
+      "Torsión ovárica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es ausencia de saco intrauterino cuando debería visualizarse y masa anexial o saco extrauterino. En el contexto clínico descrito, el diagnóstico más probable es Embarazo ectópico tubárico. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1060",
+    "area": "Ginecología",
+    "difficulty": "Intermedio",
+    "caseId": "auto-torsion-anexial",
+    "stem": "Mujer con dolor pélvico brusco, náuseas y masa anexial conocida.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Torsión anexial",
+      "Quiste hemorrágico",
+      "Embarazo ectópico",
+      "EIP"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es ovario aumentado de tamaño, folículos periféricos y flujo reducido o ausente, aunque el flujo presente no excluye torsión. En el contexto clínico descrito, el diagnóstico más probable es Torsión anexial. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1061",
+    "area": "Ginecología",
+    "difficulty": "Básico",
+    "caseId": "auto-leiomioma-uterino",
+    "stem": "Mujer con menorragia y sensación de masa pélvica.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Leiomioma uterino",
+      "Adenomiosis",
+      "Sarcoma uterino",
+      "Pólipo endometrial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es masa bien delimitada miometrial, típicamente hipointensa en T2, con degeneraciones variables. En el contexto clínico descrito, el diagnóstico más probable es Leiomioma uterino. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1062",
+    "area": "Pediatría",
+    "difficulty": "Básico",
+    "caseId": "auto-invaginacion-intestinal",
+    "stem": "Lactante con episodios de dolor cólico, vómitos y heces en jalea de grosella.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Invaginación intestinal",
+      "Apendicitis",
+      "Gastroenteritis",
+      "Malrotación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es signo de la diana o donut en corte transversal y pseudoriñón en longitudinal. En el contexto clínico descrito, el diagnóstico más probable es Invaginación intestinal. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1063",
+    "area": "Pediatría",
+    "difficulty": "Básico",
+    "caseId": "auto-estenosis-hipertrofica-de-piloro",
+    "stem": "Lactante de pocas semanas con vómitos no biliosos en proyectil y hambre tras las tomas.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Estenosis hipertrófica de píloro",
+      "Reflujo gastroesofágico",
+      "Malrotación",
+      "Atresia duodenal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es engrosamiento y elongación del músculo pilórico con fallo del vaciamiento gástrico. En el contexto clínico descrito, el diagnóstico más probable es Estenosis hipertrófica de píloro. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1064",
+    "area": "Pediatría",
+    "difficulty": "Intermedio",
+    "caseId": "auto-enterocolitis-necrotizante",
+    "stem": "Prematuro con distensión abdominal, residuo gástrico y sangre en heces.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Enterocolitis necrotizante",
+      "Íleo meconial",
+      "Sepsis sin afectación intestinal",
+      "Malrotación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es neumatosis intestinal, gas portal o neumoperitoneo en casos complicados. En el contexto clínico descrito, el diagnóstico más probable es Enterocolitis necrotizante. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1065",
+    "area": "Pediatría",
+    "difficulty": "Intermedio",
+    "caseId": "auto-displasia-del-desarrollo-de-la-cadera",
+    "stem": "Lactante con factores de riesgo y exploración de cadera sospechosa.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Displasia del desarrollo de la cadera",
+      "Sinovitis transitoria",
+      "Artritis séptica",
+      "Fractura proximal de fémur"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es cobertura acetabular insuficiente y alteración de ángulos ecográficos de Graf. En el contexto clínico descrito, el diagnóstico más probable es Displasia del desarrollo de la cadera. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1066",
+    "area": "Cabeza y cuello",
+    "difficulty": "Básico",
+    "caseId": "auto-sinusitis-aguda",
+    "stem": "Paciente con dolor facial, rinorrea purulenta y fiebre persistente.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Sinusitis aguda",
+      "Mucocele",
+      "Pólipos nasales",
+      "Tumor sinonasal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es engrosamiento mucoso y/o nivel hidroaéreo en senos paranasales. En el contexto clínico descrito, el diagnóstico más probable es Sinusitis aguda. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1067",
+    "area": "Cabeza y cuello",
+    "difficulty": "Intermedio",
+    "caseId": "auto-absceso-periamigdalino",
+    "stem": "Paciente con odinofagia intensa, trismus y voz apagada.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Absceso periamigdalino",
+      "Flemón periamigdalino",
+      "Epiglotitis",
+      "Adenitis cervical"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es colección hipodensa con realce periférico en región periamigdalina. En el contexto clínico descrito, el diagnóstico más probable es Absceso periamigdalino. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1068",
+    "area": "Cabeza y cuello",
+    "difficulty": "Básico",
+    "caseId": "auto-sialolitiasis-submandibular",
+    "stem": "Dolor y tumefacción submandibular que empeora con las comidas.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Sialolitiasis submandibular",
+      "Sialoadenitis sin cálculo",
+      "Adenopatía",
+      "Absceso dental"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es cálculo hiperdenso en conducto salival con posible dilatación proximal. En el contexto clínico descrito, el diagnóstico más probable es Sialolitiasis submandibular. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1069",
+    "area": "Cabeza y cuello",
+    "difficulty": "Intermedio",
+    "caseId": "auto-nodulo-tiroideo-sospechoso",
+    "stem": "Paciente con nódulo tiroideo palpable en estudio ecográfico.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Nódulo tiroideo sospechoso",
+      "Quiste coloide",
+      "Tiroiditis",
+      "Adenoma benigno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es hallazgos de riesgo como marcada hipoecogenicidad, microcalcificaciones, márgenes irregulares o forma más alta que ancha. En el contexto clínico descrito, el diagnóstico más probable es Nódulo tiroideo sospechoso. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1070",
+    "area": "Mama",
+    "difficulty": "Intermedio",
+    "caseId": "auto-carcinoma-mamario-sospechoso",
+    "stem": "Mujer de 59 años con nódulo palpable de nueva aparición.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Carcinoma mamario sospechoso",
+      "Fibroadenoma",
+      "Quiste simple",
+      "Necrosis grasa"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es masa mamográfica irregular y espiculada, eventualmente con microcalcificaciones pleomórficas. En el contexto clínico descrito, el diagnóstico más probable es Carcinoma mamario sospechoso. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1071",
+    "area": "Mama",
+    "difficulty": "Básico",
+    "caseId": "auto-fibroadenoma-mamario",
+    "stem": "Mujer joven con nódulo móvil, indoloro y estable.",
+    "question": "¿Cuál es el diagnóstico radiológico más probable?",
+    "options": [
+      "Fibroadenoma mamario",
+      "Carcinoma invasivo",
+      "Quiste complicado",
+      "Tumor phyllodes"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hallazgo clave es lesión ovalada, circunscrita, paralela a la piel y homogénea en ecografía. En el contexto clínico descrito, el diagnóstico más probable es Fibroadenoma mamario. Los principales diagnósticos alternativos deben valorarse según distribución, morfología, realce y evolución clínica."
+  },
+  {
+    "id": "mir-1072",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En una radiografía de tórax, ¿qué hallazgo define mejor un neumotórax?",
+    "options": [
+      "Línea pleural visceral con ausencia de trama vascular periférica",
+      "Broncograma aéreo",
+      "Menisco pleural",
+      "Cardiomegalia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La línea pleural con ausencia de vasos periféricos es el signo radiográfico clásico."
+  },
+  {
+    "id": "mir-1073",
+    "area": "Tórax",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué signo radiográfico apoya un derrame pleural en bipedestación?",
+    "options": [
+      "Borramiento del seno costofrénico con menisco",
+      "Cavitación apical",
+      "Hiperclaridad difusa",
+      "Bronquiectasias"
+    ],
+    "correctIndex": 0,
+    "explanation": "El líquido pleural libre produce menisco y borra los senos costofrénicos."
+  },
+  {
+    "id": "mir-1074",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué patrón es típico del edema pulmonar cardiogénico?",
+    "options": [
+      "Opacidades perihiliares bilaterales y redistribución vascular",
+      "Nódulo solitario espiculado",
+      "Cavidad apical aislada",
+      "Hiperclaridad unilateral sin vasos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La congestión vascular y el patrón alveolar bilateral perihiliar son característicos."
+  },
+  {
+    "id": "mir-1075",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En TC de alta resolución, ¿qué combinación sugiere fibrosis pulmonar?",
+    "options": [
+      "Reticulación subpleural, bronquiectasias de tracción y panalización",
+      "Vidrio deslustrado aislado apical",
+      "Derrame pleural masivo",
+      "Nódulos calcificados aislados"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fibrosis se manifiesta por distorsión arquitectural, tracción y panalización."
+  },
+  {
+    "id": "mir-1076",
+    "area": "Tórax",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Cuál es el hallazgo directo de embolia pulmonar en angio-TC?",
+    "options": [
+      "Defecto de repleción intraluminal arterial",
+      "Derrame pericárdico",
+      "Broncograma aéreo",
+      "Neumomediastino"
+    ],
+    "correctIndex": 0,
+    "explanation": "El trombo se visualiza como defecto de repleción en el árbol arterial pulmonar."
+  },
+  {
+    "id": "mir-1077",
+    "area": "Tórax",
+    "difficulty": "Avanzado",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué signo permite diagnosticar disección aórtica en angio-TC?",
+    "options": [
+      "Flap intimal separando luz verdadera y falsa",
+      "Calcificación coronaria",
+      "Cardiomegalia",
+      "Atelectasia laminar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La membrana intimal separando dos luces es el hallazgo clave."
+  },
+  {
+    "id": "mir-1078",
+    "area": "Neuro",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En TC sin contraste, la sangre aguda intracraneal suele ser:",
+    "options": [
+      "Hiperdensa",
+      "Hipodensa",
+      "Isointensa en T2",
+      "Invisible siempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hemorragia aguda suele ser hiperdensa en TC sin contraste."
+  },
+  {
+    "id": "mir-1079",
+    "area": "Neuro",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué morfología es típica del hematoma epidural?",
+    "options": [
+      "Biconvexa o lenticular",
+      "Semilunar",
+      "Lineal intraventricular",
+      "Difusa periventricular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El epidural queda limitado por suturas y adopta forma lenticular."
+  },
+  {
+    "id": "mir-1080",
+    "area": "Neuro",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué morfología es típica del hematoma subdural agudo?",
+    "options": [
+      "Semilunar",
+      "Biconvexa",
+      "Redondeada intraparenquimatosa",
+      "Tubular vascular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El subdural se extiende por la convexidad y puede cruzar suturas."
+  },
+  {
+    "id": "mir-1081",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En un ictus isquémico precoz, ¿qué signo puede aparecer en TC?",
+    "options": [
+      "Pérdida de diferenciación gris-blanca",
+      "Hiperdensidad difusa de todos los ventrículos",
+      "Realce en anillo inmediato",
+      "Calcificación cortical"
+    ],
+    "correctIndex": 0,
+    "explanation": "El edema citotóxico precoz borra la diferenciación córtico-subcortical."
+  },
+  {
+    "id": "mir-1082",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué secuencia de RM es especialmente sensible a restricción de difusión en ictus agudo?",
+    "options": [
+      "DWI",
+      "T1 sin contraste",
+      "T2* únicamente",
+      "STIR corporal"
+    ],
+    "correctIndex": 0,
+    "explanation": "DWI detecta restricción de difusión minutos tras el inicio del ictus."
+  },
+  {
+    "id": "mir-1083",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué distribución de lesiones es característica de esclerosis múltiple?",
+    "options": [
+      "Periventricular, yuxtacortical e infratentorial",
+      "Exclusivamente ganglios basales",
+      "Solo médula ósea",
+      "Solo meninges"
+    ],
+    "correctIndex": 0,
+    "explanation": "La diseminación espacial típica incluye regiones periventriculares, corticales/yuxtacorticales e infratentoriales."
+  },
+  {
+    "id": "mir-1084",
+    "area": "Neuro",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "Una masa extraaxial con cola dural sugiere:",
+    "options": [
+      "Meningioma",
+      "Glioblastoma",
+      "Infarto venoso",
+      "Absceso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cola dural es un signo clásico, aunque no exclusivo, del meningioma."
+  },
+  {
+    "id": "mir-1085",
+    "area": "Neuro",
+    "difficulty": "Avanzado",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué patrón favorece glioblastoma frente a meningioma?",
+    "options": [
+      "Lesión intraaxial infiltrativa con necrosis y realce irregular",
+      "Masa extraaxial homogénea con cola dural",
+      "Lesión quística aracnoidea",
+      "Calcificación falcial aislada"
+    ],
+    "correctIndex": 0,
+    "explanation": "El glioblastoma es intraaxial, infiltrativo y suele presentar necrosis y realce heterogéneo."
+  },
+  {
+    "id": "mir-1086",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En apendicitis, un apéndice no compresible y aumentado de calibre en ecografía sugiere:",
+    "options": [
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aumento de calibre y la no compresibilidad son criterios ecográficos clásicos."
+  },
+  {
+    "id": "mir-1087",
+    "area": "Abdomen",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué hallazgo ecográfico apoya colecistitis aguda?",
+    "options": [
+      "Engrosamiento parietal, litiasis y Murphy ecográfico",
+      "Páncreas hiperecogénico aislado",
+      "Aorta >3 cm",
+      "Riñón atrófico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La combinación de cálculos, cambios parietales y Murphy ecográfico es muy orientadora."
+  },
+  {
+    "id": "mir-1088",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué hallazgo en TC sugiere obstrucción mecánica de intestino delgado?",
+    "options": [
+      "Punto de transición entre asas dilatadas y segmento distal colapsado",
+      "Engrosamiento difuso de vejiga",
+      "Dilatación aislada de vena porta",
+      "Colelitiasis sin inflamación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El punto de transición es clave para localizar una obstrucción mecánica."
+  },
+  {
+    "id": "mir-1089",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En diverticulitis aguda, la TC suele mostrar:",
+    "options": [
+      "Divertículos, engrosamiento parietal y grasa pericolónica inflamada",
+      "Masa pancreática hipovascular",
+      "Gas pleural",
+      "Dilatación ventricular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El patrón inflamatorio pericolónico alrededor de divertículos es típico."
+  },
+  {
+    "id": "mir-1090",
+    "area": "Abdomen",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué realce es típico del hemangioma hepático?",
+    "options": [
+      "Periférico nodular discontinuo con relleno centrípeto",
+      "Lavado arterial precoz siempre",
+      "Ausencia total de realce",
+      "Realce lineal del conducto biliar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El relleno centrípeto progresivo es característico del hemangioma."
+  },
+  {
+    "id": "mir-1091",
+    "area": "Abdomen",
+    "difficulty": "Avanzado",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En cirrosis, una lesión con hipercaptación arterial y lavado portal/tardío sugiere:",
+    "options": [
+      "Hepatocarcinoma",
+      "Quiste simple",
+      "Hemangioma típico",
+      "Esteatosis focal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ese patrón dinámico es característico de hepatocarcinoma en el contexto adecuado."
+  },
+  {
+    "id": "mir-1092",
+    "area": "Abdomen",
+    "difficulty": "Avanzado",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "Dolor abdominal desproporcionado y defecto arterial mesentérico en angio-TC orientan a:",
+    "options": [
+      "Isquemia mesentérica aguda",
+      "Colecistitis",
+      "Gastritis",
+      "Hernia hiatal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clínica y la oclusión arterial son altamente sugestivas de isquemia mesentérica."
+  },
+  {
+    "id": "mir-1093",
+    "area": "Genitourinario",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "La TC sin contraste es especialmente útil para detectar:",
+    "options": [
+      "Litiasis urinaria",
+      "Fibrosis pulmonar",
+      "Meningioma",
+      "Trombosis venosa profunda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La litiasis urinaria suele ser hiperdensa y se evalúa bien con TC sin contraste."
+  },
+  {
+    "id": "mir-1094",
+    "area": "Genitourinario",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué patrón puede verse en pielonefritis en TC con contraste?",
+    "options": [
+      "Áreas hipoperfundidas en cuña y estriación nefrográfica",
+      "Panalización pulmonar",
+      "Línea pleural",
+      "Cola dural"
+    ],
+    "correctIndex": 0,
+    "explanation": "La inflamación renal puede producir nefrograma estriado y defectos de perfusión."
+  },
+  {
+    "id": "mir-1095",
+    "area": "Genitourinario",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En varicocele, el Doppler demuestra típicamente:",
+    "options": [
+      "Reflujo venoso con Valsalva",
+      "Ausencia de flujo arterial renal",
+      "Shunt carotídeo",
+      "Flujo portal hepatófugo siempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dilatación venosa y el reflujo con Valsalva son hallazgos diagnósticos."
+  },
+  {
+    "id": "mir-1096",
+    "area": "Musculoesquelético",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "Una fractura de Colles presenta típicamente:",
+    "options": [
+      "Desplazamiento dorsal del fragmento distal del radio",
+      "Desplazamiento volar",
+      "Luxación posterior de codo",
+      "Fractura aislada de cúbito proximal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La angulación/desplazamiento dorsal define el patrón clásico de Colles."
+  },
+  {
+    "id": "mir-1097",
+    "area": "Musculoesquelético",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "Tras caída con dolor en tabaquera anatómica y radiografía inicial normal, la conducta radiológica debe considerar:",
+    "options": [
+      "Fractura oculta de escafoides",
+      "Descartar toda lesión",
+      "Solo artrosis",
+      "Rotura de LCA"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las fracturas de escafoides pueden ser radiográficamente ocultas al inicio."
+  },
+  {
+    "id": "mir-1098",
+    "area": "Musculoesquelético",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué criterio en RM define una rotura meniscal?",
+    "options": [
+      "Señal lineal que alcanza una superficie articular",
+      "Señal intrameniscal que nunca toca superficie",
+      "Edema de Hoffa aislado",
+      "Derrame sinovial aislado"
+    ],
+    "correctIndex": 0,
+    "explanation": "La extensión de señal hasta la superficie articular es criterio clásico de rotura."
+  },
+  {
+    "id": "mir-1099",
+    "area": "Musculoesquelético",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En rotura del LCA, la RM puede mostrar:",
+    "options": [
+      "Discontinuidad o mala definición del ligamento y edema óseo asociado",
+      "Solo derrame pleural",
+      "Cola dural",
+      "Litiasis biliar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La alteración directa del LCA y signos secundarios sustentan el diagnóstico."
+  },
+  {
+    "id": "mir-1100",
+    "area": "Musculoesquelético",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué patrón radiográfico sugiere osteosarcoma?",
+    "options": [
+      "Lesión metafisaria agresiva con matriz osteoide y reacción perióstica",
+      "Lesión epifisaria geográfica sin reacción",
+      "Osteopenia difusa únicamente",
+      "Calcificación meniscal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La matriz osteoide y la reacción perióstica agresiva son hallazgos clásicos."
+  },
+  {
+    "id": "mir-1101",
+    "area": "Musculoesquelético",
+    "difficulty": "Avanzado",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En espondilodiscitis infecciosa, la RM muestra preferentemente:",
+    "options": [
+      "Afectación del disco y platillos adyacentes con edema y realce",
+      "Solo artrosis facetaria",
+      "Hernia discal sin cambios óseos",
+      "Escoliosis sin edema"
+    ],
+    "correctIndex": 0,
+    "explanation": "La afectación contigua disco-platillos es típica de infección vertebral."
+  },
+  {
+    "id": "mir-1102",
+    "area": "Vascular",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "El criterio ecográfico fundamental para TVP es:",
+    "options": [
+      "Falta de compresibilidad venosa",
+      "Aumento del flujo arterial",
+      "Calcificación valvular",
+      "Dilatación de vía biliar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una vena trombosada no colapsa adecuadamente con compresión."
+  },
+  {
+    "id": "mir-1103",
+    "area": "Vascular",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En estenosis carotídea, el Doppler valora principalmente:",
+    "options": [
+      "Velocidades de flujo y morfología de la placa",
+      "Solo diámetro yugular",
+      "Presión intracraneal",
+      "Flujo portal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cuantificación se apoya en velocidades y parámetros Doppler junto a la imagen de la placa."
+  },
+  {
+    "id": "mir-1104",
+    "area": "Vascular",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "Se considera aneurisma de aorta abdominal cuando el diámetro anteroposterior es aproximadamente:",
+    "options": [
+      "≥3 cm",
+      "≥1 cm",
+      "≥2 cm",
+      "≥10 cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "El umbral convencional para AAA es 3 cm."
+  },
+  {
+    "id": "mir-1105",
+    "area": "Ginecología",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En sospecha de embarazo ectópico, un hallazgo preocupante es:",
+    "options": [
+      "Masa anexial con ausencia de gestación intrauterina cuando debería ser visible",
+      "Quiste de Naboth",
+      "Mioma subseroso asintomático",
+      "Folículo dominante normal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La combinación de beta-hCG, ausencia de saco intrauterino y hallazgos anexiales orienta a ectópico."
+  },
+  {
+    "id": "mir-1106",
+    "area": "Ginecología",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En torsión ovárica, el flujo Doppler normal:",
+    "options": [
+      "No excluye el diagnóstico",
+      "Lo descarta siempre",
+      "Confirma cáncer",
+      "Indica embarazo ectópico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Por doble vascularización y torsión intermitente, puede persistir flujo arterial."
+  },
+  {
+    "id": "mir-1107",
+    "area": "Ginecología",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "Los miomas uterinos suelen ser en RM T2:",
+    "options": [
+      "Hipointensos respecto al miometrio, con variaciones si degeneran",
+      "Siempre hiperintensos como LCR",
+      "Siempre invisibles",
+      "Solo visibles en difusión"
+    ],
+    "correctIndex": 0,
+    "explanation": "El leiomioma típico es relativamente hipointenso en T2."
+  },
+  {
+    "id": "mir-1108",
+    "area": "Pediatría",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué signo ecográfico es clásico de invaginación intestinal?",
+    "options": [
+      "Diana o donut",
+      "Cola dural",
+      "Panal de abeja pulmonar",
+      "Menisco pleural"
+    ],
+    "correctIndex": 0,
+    "explanation": "La imagen concéntrica en diana es un signo típico de invaginación."
+  },
+  {
+    "id": "mir-1109",
+    "area": "Pediatría",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En estenosis hipertrófica de píloro, la ecografía muestra:",
+    "options": [
+      "Engrosamiento y elongación del píloro",
+      "Aire libre subdiafragmático",
+      "Dilatación ureteral",
+      "Hematoma epidural"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ecografía permite medir el músculo y canal pilórico."
+  },
+  {
+    "id": "mir-1110",
+    "area": "Pediatría",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "La neumatosis intestinal en un prematuro con distensión abdominal sugiere:",
+    "options": [
+      "Enterocolitis necrotizante",
+      "Invaginación",
+      "Apendicitis",
+      "Colecistitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La neumatosis es un hallazgo radiográfico característico de enterocolitis necrotizante."
+  },
+  {
+    "id": "mir-1111",
+    "area": "Cabeza y cuello",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En sinusitis aguda, la TC puede mostrar:",
+    "options": [
+      "Nivel hidroaéreo o engrosamiento mucoso",
+      "Flap aórtico",
+      "Neumatosis intestinal",
+      "Cola dural"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los niveles hidroaéreos y cambios mucosos apoyan sinusitis en el contexto clínico adecuado."
+  },
+  {
+    "id": "mir-1112",
+    "area": "Cabeza y cuello",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "Una colección periamigdalina con realce periférico en TC sugiere:",
+    "options": [
+      "Absceso periamigdalino",
+      "Laringocele",
+      "Sialolitiasis",
+      "Tiroiditis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El centro hipodenso y realce periférico son típicos de colección abscesificada."
+  },
+  {
+    "id": "mir-1113",
+    "area": "Cabeza y cuello",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "Dolor submandibular con las comidas y cálculo hiperdenso en el conducto sugiere:",
+    "options": [
+      "Sialolitiasis",
+      "Linfoma",
+      "Glomus",
+      "Quiste tirogloso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La obstrucción salival por cálculo produce dolor relacionado con la ingesta."
+  },
+  {
+    "id": "mir-1114",
+    "area": "Cabeza y cuello",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué rasgo ecográfico aumenta la sospecha de malignidad en un nódulo tiroideo?",
+    "options": [
+      "Microcalcificaciones y márgenes irregulares",
+      "Composición puramente quística",
+      "Halo fino regular",
+      "Artefacto en cola de cometa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Microcalcificaciones, irregularidad y forma no paralela son rasgos de mayor riesgo."
+  },
+  {
+    "id": "mir-1115",
+    "area": "Mama",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "Una masa mamográfica espiculada se considera:",
+    "options": [
+      "Hallazgo sospechoso de malignidad",
+      "Hallazgo inequívocamente benigno",
+      "Artefacto siempre",
+      "Quiste simple"
+    ],
+    "correctIndex": 0,
+    "explanation": "La espiculación es un signo morfológico de alta sospecha."
+  },
+  {
+    "id": "mir-1116",
+    "area": "Mama",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En ecografía, un fibroadenoma típico suele ser:",
+    "options": [
+      "Oval, circunscrito y paralelo a la piel",
+      "Irregular, espiculado y no paralelo",
+      "Colección con gas",
+      "Calcificación arterial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fibroadenoma suele mostrar rasgos de benignidad como forma oval y orientación paralela."
+  },
+  {
+    "id": "mir-1117",
+    "area": "General",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué modalidad utiliza radiación ionizante?",
+    "options": [
+      "TC",
+      "RM",
+      "Ecografía",
+      "Ninguna de las anteriores"
+    ],
+    "correctIndex": 0,
+    "explanation": "La TC utiliza rayos X; RM y ecografía no usan radiación ionizante."
+  },
+  {
+    "id": "mir-1118",
+    "area": "General",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué modalidad ofrece mejor contraste de tejidos blandos sin radiación ionizante?",
+    "options": [
+      "RM",
+      "Radiografía simple",
+      "Fluoroscopia",
+      "TC sin contraste siempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "La RM destaca por su contraste tisular y ausencia de radiación ionizante."
+  },
+  {
+    "id": "mir-1119",
+    "area": "General",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué modalidad es de primera línea para valorar litiasis vesicular?",
+    "options": [
+      "Ecografía",
+      "RM cerebral",
+      "Radiografía de cráneo",
+      "PET"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ecografía es la técnica inicial habitual para litiasis y colecistitis."
+  },
+  {
+    "id": "mir-1120",
+    "area": "General",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué significa hiperdenso en TC?",
+    "options": [
+      "Mayor atenuación de rayos X y aspecto más blanco",
+      "Menor señal Doppler",
+      "Mayor señal T2 necesariamente",
+      "Ausencia de contraste"
+    ],
+    "correctIndex": 0,
+    "explanation": "La densidad en TC refleja atenuación; mayor atenuación se representa más blanca."
+  },
+  {
+    "id": "mir-1121",
+    "area": "General",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué término se usa en RM en lugar de densidad?",
+    "options": [
+      "Intensidad de señal",
+      "Atenuación HU siempre",
+      "Ecogenicidad",
+      "Radiolucencia"
+    ],
+    "correctIndex": 0,
+    "explanation": "En RM se describe señal (hiper/hipointensa), no densidad."
+  },
+  {
+    "id": "mir-1122",
+    "area": "General",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En ecografía, una estructura anecoica típica es:",
+    "options": [
+      "Líquido simple",
+      "Hueso cortical",
+      "Gas intestinal",
+      "Calcificación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El líquido simple no produce ecos internos y suele reforzar posteriormente."
+  },
+  {
+    "id": "mir-1123",
+    "area": "General",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué fenómeno ecográfico suele producir una litiasis?",
+    "options": [
+      "Sombra acústica posterior",
+      "Refuerzo posterior homogéneo",
+      "Artefacto de movimiento cardíaco",
+      "Pérdida de fase"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las calcificaciones y cálculos atenúan el haz y generan sombra posterior."
+  },
+  {
+    "id": "mir-1124",
+    "area": "General",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué hallazgo sugiere un quiste simple en ecografía?",
+    "options": [
+      "Anecoico, pared fina y refuerzo posterior",
+      "Sólido irregular con vascularización",
+      "Sombra acústica intensa siempre",
+      "Márgenes espiculados"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los quistes simples tienen contenido anecoico y transmisión aumentada."
+  },
+  {
+    "id": "mir-1125",
+    "area": "General",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "Antes de interpretar una imagen, ¿qué debe verificarse primero?",
+    "options": [
+      "Modalidad, plano, lateralidad y calidad técnica",
+      "Solo la edad del paciente",
+      "Solo el diagnóstico previo",
+      "La marca del equipo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La orientación técnica evita errores básicos de interpretación."
+  },
+  {
+    "id": "mir-1126",
+    "area": "General",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En una prueba con contraste IV, la función renal y antecedentes de reacción previa son:",
+    "options": [
+      "Datos clínicos relevantes para planificar el estudio",
+      "Irrelevantes",
+      "Solo importantes en radiografía simple",
+      "Solo importantes en ecografía"
+    ],
+    "correctIndex": 0,
+    "explanation": "La seguridad del contraste exige valorar riesgo individual y protocolos locales."
+  },
+  {
+    "id": "mir-1127",
+    "area": "General",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué principio reduce dosis en radiología?",
+    "options": [
+      "Justificación y optimización ALARA",
+      "Aumentar siempre mAs",
+      "Repetir imágenes por rutina",
+      "Usar TC para todo"
+    ],
+    "correctIndex": 0,
+    "explanation": "ALARA busca mantener la exposición tan baja como razonablemente alcanzable."
+  },
+  {
+    "id": "mir-1128",
+    "area": "General",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En una radiografía, el aire aparece generalmente:",
+    "options": [
+      "Radiolúcido/negro",
+      "Hiperdenso blanco",
+      "Hiperintenso T1",
+      "Anecoico gris"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aire atenúa poco los rayos X y se representa oscuro."
+  },
+  {
+    "id": "mir-1129",
+    "area": "General",
+    "difficulty": "Básico",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "En una radiografía, el hueso cortical aparece generalmente:",
+    "options": [
+      "Radiopaco/blanco",
+      "Negro como aire",
+      "Anecoico",
+      "Invisible"
+    ],
+    "correctIndex": 0,
+    "explanation": "El calcio atenúa fuertemente los rayos X y aparece blanco."
+  },
+  {
+    "id": "mir-1130",
+    "area": "General",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué plano de TC muestra el cuerpo como si se mirara desde los pies?",
+    "options": [
+      "Axial convencional",
+      "Sagital",
+      "Coronal",
+      "Oblicuo dental"
+    ],
+    "correctIndex": 0,
+    "explanation": "La convención radiológica axial se visualiza como si se mirara desde los pies."
+  },
+  {
+    "id": "mir-1131",
+    "area": "General",
+    "difficulty": "Intermedio",
+    "caseId": null,
+    "stem": "Concepto de radiología de alta rentabilidad para estudiantes y opositores MIR.",
+    "question": "¿Qué secuencia RM suele suprimir la señal de grasa?",
+    "options": [
+      "STIR o secuencias con fat-sat",
+      "T1 sin supresión obligatoriamente",
+      "DWI únicamente",
+      "TOF siempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "STIR y otras técnicas de saturación grasa reducen la señal del tejido adiposo."
+  }
+]

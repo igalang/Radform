@@ -1,0 +1,499 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="description" content="Radform: aprendizaje interactivo de radiología por casos, preguntas MIR y un atlas abierto de imagen médica." />
+  <meta name="theme-color" content="#071a26" />
+  <meta name="color-scheme" content="dark light" />
+  <meta name="application-name" content="Radform" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Radform" />
+  <meta name="format-detection" content="telephone=no" />
+
+  <title>Radform · Aprende radiología por casos</title>
+  <link rel="canonical" href="https://igalang.github.io/Radform/" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" type="image/svg+xml" href="./assets/logo.svg" />
+  <link rel="icon" type="image/png" sizes="192x192" href="./assets/icons/icon-192.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/icons/apple-touch-icon.png" />
+  <link rel="stylesheet" href="./styles.css" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Radform" />
+  <meta property="og:title" content="Radform · Aprende radiología por casos" />
+  <meta property="og:description" content="Banco visual de casos radiológicos con hotspots, preguntas MIR y atlas abierto de imagen médica." />
+  <meta property="og:url" content="https://igalang.github.io/Radform/" />
+  <meta property="og:image" content="https://igalang.github.io/Radform/og.png" />
+  <meta property="og:image:secure_url" content="https://igalang.github.io/Radform/og.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Radform, entrenamiento visual de radiología" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Radform · Aprende radiología por casos" />
+  <meta name="twitter:description" content="Casos radiológicos interactivos con preguntas MIR y atlas abierto de imagen médica." />
+  <meta name="twitter:image" content="https://igalang.github.io/Radform/og.png" />
+</head>
+<body>
+  <noscript>Radform necesita JavaScript para cargar los casos y registrar tu progreso.</noscript>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#inicio" aria-label="Radform, inicio">
+        <img src="./assets/logo.svg" alt="" class="brand-mark" />
+        <span>
+          <strong>Radform</strong>
+          <small>Radiology by cases</small>
+        </span>
+      </a>
+      <nav class="nav" aria-label="Navegación principal">
+        <button class="nav-link is-active" data-route="inicio">Inicio</button>
+        <button class="nav-link" data-route="casos">Casos</button>
+        <button class="nav-link" data-route="biblioteca">Biblioteca</button>
+        <button class="nav-link" data-route="entrenar">Entrenar</button>
+        <button class="nav-link" data-route="mir">Preguntas MIR</button>
+        <button class="nav-link" data-route="atlas">Atlas</button>
+        <button class="nav-link" data-route="ranking">Ranking</button>
+        <button class="nav-link" data-route="acerca">Acerca de</button>
+      </nav>
+      <div class="top-actions">
+        <button id="menuBtn" class="icon-btn menu-btn" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="mobileNav">☰</button>
+        <button id="accountBtn" class="account-chip" type="button" title="Cuenta y progreso" aria-label="Cuenta y progreso"><span class="account-chip-icon">●</span><span id="accountChipText">Cuenta</span></button>
+        <button id="installHelpBtn" class="icon-btn install-help-btn" title="Instalar Radform" aria-label="Cómo instalar Radform">⇩</button><button id="installBtn" class="icon-btn" hidden title="Instalar Radform" aria-label="Instalar Radform">＋</button>
+        <button id="shareBtn" class="icon-btn" title="Compartir" aria-label="Compartir Radform">↗</button>
+      </div>
+    </header>
+    <div id="navOverlay" class="drawer-overlay" hidden></div>
+    <aside id="mobileNav" class="mobile-drawer" aria-label="Menú principal" aria-hidden="true">
+      <div class="drawer-head"><div class="drawer-brand"><img src="./assets/logo.svg" alt="" /><span><strong>Radform</strong><small>Radiology by cases</small></span></div><button id="mobileNavClose" class="icon-btn" type="button" aria-label="Cerrar menú">×</button></div>
+      <nav class="drawer-nav">
+        <button class="drawer-nav-link" data-route="inicio">⌂ <span>Inicio</span></button>
+        <button class="drawer-nav-link" data-route="casos">▣ <span>Casos</span></button>
+        <button class="drawer-nav-link" data-route="biblioteca">▦ <span>Biblioteca</span></button>
+        <button class="drawer-nav-link" data-route="entrenar">✓ <span>Entrenar</span></button>
+        <button class="drawer-nav-link" data-route="mir">M <span>Preguntas MIR</span></button>
+        <button class="drawer-nav-link" data-route="atlas">◎ <span>Atlas</span></button>
+        <button class="drawer-nav-link" data-route="ranking">♜ <span>Clasificación</span></button>
+        <button class="drawer-nav-link" id="drawerAccountBtn" type="button">● <span id="drawerAccountText">Cuenta y progreso</span></button>
+        <button class="drawer-nav-link" id="drawerInstallBtn" type="button">⇩ <span>Instalar app</span></button><button class="drawer-nav-link" data-route="acerca">i <span>Acerca de</span></button>
+      </nav>
+    </aside>
+
+    <main id="main" tabindex="-1">
+      <section class="view is-active" data-view="inicio">
+        <div class="hero container">
+          <div class="hero-copy">
+            <span class="eyebrow">RADIOLOGÍA VISUAL · APRENDIZAJE ACTIVO</span>
+            <h1>Aprende a <em>ver</em> antes de memorizar.</h1>
+            <p>Casos clínicos breves, imágenes radiológicas abiertas, hotspots interactivos y preguntas tipo MIR para entrenar el razonamiento visual.</p>
+            <div class="hero-actions">
+              <button class="btn primary" data-go="entrenar">Empezar entrenamiento</button>
+              <button class="btn secondary" data-go="casos">Explorar casos</button>
+            </div>
+            <div class="hero-pills">
+              <span>Radiografía</span><span>TC</span><span>RM</span><span>Ecografía</span>
+            </div>
+          </div>
+          <div class="hero-card panel">
+            <div class="hero-card-head">
+              <div>
+                <span class="mini-label">CASO DESTACADO</span>
+                <h2 id="featuredTitle">Cargando…</h2>
+              </div>
+              <span id="featuredModality" class="badge">—</span>
+            </div>
+            <div class="featured-image-wrap" id="featuredImageWrap">
+              <div class="image-skeleton"></div>
+            </div>
+            <div class="hero-card-foot">
+              <span id="featuredAnatomy">—</span>
+              <button id="featuredOpen" class="text-btn">Abrir caso →</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="container stats-grid" aria-label="Resumen de progreso">
+          <article class="stat-card"><span>Casos</span><strong id="statCases">0</strong><small>casos con imagen</small></article>
+          <article class="stat-card"><span>Preguntas MIR</span><strong id="statMirQuestions">0</strong><small>preguntas de radiología</small></article>
+          <article class="stat-card"><span>Atlas</span><strong id="statTopics">∞</strong><small>búsqueda abierta</small></article>
+          <article class="stat-card"><span>Respondidos</span><strong id="statAnswered">0</strong><small>casos registrados</small></article>
+          <article class="stat-card"><span>Precisión</span><strong id="statAccuracy">—</strong><small>casos resueltos</small></article>
+        </div>
+
+        <div id="cloudHomeStrip" class="container cloud-home-strip panel" hidden>
+          <div><span class="online-dot"></span><strong id="cloudHomeUser">Cuenta conectada</strong><span id="cloudHomeSummary">—</span></div>
+          <button class="text-btn" type="button" data-go="ranking">Ver clasificación →</button>
+        </div>
+
+        <div class="container feature-grid">
+          <article class="panel feature"><div class="feature-icon">✦</div><h3>Hotspot guiado</h3><p>Localiza el hallazgo con una marca opcional y cambia a modo examen cuando quieras prescindir de pistas.</p></article>
+          <article class="panel feature"><div class="feature-icon">✓</div><h3>Preguntas MIR</h3><p>Banco específico de preguntas de radiología para practicar el razonamiento que exige el MIR, con corrección y explicación inmediata.</p></article>
+          <article class="panel feature"><div class="feature-icon">▦</div><h3>Biblioteca clínica</h3><p>260 casos propios más VQA-RAD (314 imágenes y más de 2.200 preguntas visuales). ROCOv2 y MultiCaRe quedan enlazados como colecciones externas.</p></article>
+          <article class="panel feature"><div class="feature-icon">◎</div><h3>Atlas abierto</h3><p>Busca imágenes por diagnóstico en Wikimedia Commons o en Open-i de la U.S. National Library of Medicine.</p></article>
+        </div>
+      </section>
+
+      <section class="view" data-view="casos">
+        <div class="container section-head">
+          <div><span class="eyebrow">BANCO DE CASOS</span><h1>Explora por modalidad y anatomía</h1><p>Todos los casos locales incluyen fuente y licencia de la imagen.</p></div>
+          <div class="section-actions"><button id="caseFiltersBtn" class="btn secondary mobile-filter-btn" type="button" aria-expanded="false" aria-controls="caseFilters">Filtros</button><button id="randomCaseBtn" class="btn secondary">Caso aleatorio</button></div>
+        </div>
+        <div class="container filters panel filter-sheet" id="caseFilters"><div class="sheet-head"><strong>Filtrar casos</strong><button id="caseFiltersClose" class="icon-btn" type="button" aria-label="Cerrar filtros">×</button></div>
+          <label class="search-field"><span>Buscar</span><input id="caseSearch" type="search" placeholder="p. ej. ictus, tórax, litiasis…" /></label>
+          <label><span>Modalidad</span><select id="filterModality"><option value="all">Todas</option><option value="XR">Radiografía</option><option value="CT">TC</option><option value="MRI">RM</option><option value="US">Ecografía</option></select></label>
+          <label><span>Anatomía</span><select id="filterAnatomy"><option value="all">Todas</option></select></label>
+          <label><span>Dificultad</span><select id="filterDifficulty"><option value="all">Todas</option><option>Básico</option><option>Intermedio</option><option>Avanzado</option></select></label>
+          <label class="check-filter"><input id="filterFavorites" type="checkbox" /><span>Solo guardados</span></label>
+        </div>
+        <div class="container case-grid" id="caseGrid"></div>
+        <div class="container empty-state" id="caseEmpty" hidden>No hay casos con esos filtros.</div>
+      </section>
+
+      <section class="view" data-view="biblioteca">
+        <div class="container section-head">
+          <div><span class="eyebrow">BIBLIOTECA DE IMAGEN RADIOLÓGICA</span><h1>Explora sin depender de una sola API</h1><p>El banco local carga al instante. Después puedes ampliar con conjuntos abiertos de radiología y casos clínicos sin introducir ninguna clave.</p></div>
+          <span class="source-chip">Radform + fuentes abiertas</span>
+        </div>
+        <div class="container library-source-tabs" id="librarySourceTabs" role="tablist" aria-label="Fuente de la biblioteca">
+          <button type="button" class="source-tab is-active" data-library-source="radform">Radform <span id="libraryRadformCount">—</span></button>
+          <button type="button" class="source-tab" data-library-source="vqarad">VQA-RAD <span>CC0</span></button>
+        </div>
+        <div class="container external-collections"><span>Más colecciones abiertas:</span><a href="https://huggingface.co/datasets/eltorio/ROCOv2-radiology" target="_blank" rel="noreferrer">ROCOv2 · 79.789 imágenes ↗</a><a href="https://huggingface.co/datasets/OpenMed/multicare-case-images" target="_blank" rel="noreferrer">MultiCaRe · casos PMC OA ↗</a></div>
+        <div class="container" id="librarySourceNote"></div>
+        <div class="container panel library-search-panel">
+          <div class="guided-search">
+            <div class="guided-search-title"><strong>Explorar sin escribir</strong><span>Elige un área y un tema. Radform traduce internamente los términos al inglés cuando la fuente externa lo requiere.</span></div>
+            <div class="guided-search-controls">
+              <label><span>Área</span><select id="libraryAnatomy"><option value="all">Todas</option></select></label>
+              <label><span>Tema</span><select id="libraryTopic"><option value="">Selecciona un tema</option></select></label>
+              <button id="libraryTopicGo" class="btn secondary" type="button">Ver tema</button>
+            </div>
+          </div>
+          <div class="preset-row preset-grid" id="libraryPresets">
+            <button type="button" data-library-preset="pneumothorax">Neumotórax</button><button type="button" data-library-preset="pulmonary embolism CT">TEP</button><button type="button" data-library-preset="appendicitis CT">Apendicitis</button><button type="button" data-library-preset="stroke MRI">Ictus</button><button type="button" data-library-preset="intracranial hemorrhage CT">Hemorragia cerebral</button><button type="button" data-library-preset="gallstones ultrasound">Colelitiasis</button>
+          </div>
+          <details class="advanced-search">
+            <summary>Búsqueda libre / avanzada</summary>
+            <div class="advanced-search-body">
+              <p class="free-search-label">Puedes escribir en español; Radform normaliza y traduce los términos radiológicos frecuentes.</p>
+              <form id="libraryForm" class="atlas-form">
+                <label class="search-field"><span>Diagnóstico, técnica o hallazgo</span><input id="libraryQuery" required placeholder="p. ej. neumotórax, apendicitis TC, ictus RM…"  /></label>
+                <label><span>Resultados</span><select id="libraryLength"><option value="12">12</option><option value="24" selected>24</option><option value="48">48</option></select></label>
+                <button class="btn primary" type="submit">Buscar</button>
+              </form>
+            </div>
+          </details>
+          <p class="atlas-note" id="libraryHint">La fuente Radform funciona completamente desde el propio repositorio y nunca espera a una API externa.</p>
+        </div>
+        <div class="container" id="libraryStatus"></div>
+        <div class="container library-grid" id="libraryGrid"></div>
+        <div class="container atlas-more-row"><button id="libraryMoreBtn" class="btn secondary" hidden>Cargar más</button></div>
+      </section>
+
+      <section class="view" data-view="entrenar">
+        <div class="container section-head training-head">
+          <div><span class="eyebrow">ENTRENAMIENTO</span><h1>Modo examen de 10 casos</h1><p>Sin hotspot inicial. Puedes pedir una pista, pero quedará registrada como ayuda.</p></div>
+          <div class="training-summary"><span id="examPosition">0 / 10</span><strong id="examScore">0 aciertos</strong></div>
+        </div>
+        <div class="container" id="examIntro">
+          <div class="panel exam-intro-card">
+            <div class="exam-icon">10</div>
+            <h2>Simulación rápida</h2>
+            <p>Selecciona hasta 10 casos aleatorios del banco. Cada pregunta se corrige al instante y al final recibirás una puntuación y un resumen de errores.</p>
+            <div class="exam-settings">
+              <label><span>Modalidad</span><select id="examModality"><option value="all">Mixto</option><option value="XR">Radiografía</option><option value="CT">TC</option><option value="MRI">RM</option><option value="US">Ecografía</option></select></label>
+              <label><span>Dificultad</span><select id="examDifficulty"><option value="all">Mixta</option><option>Básico</option><option>Intermedio</option><option>Avanzado</option></select></label>
+            </div>
+            <button id="startExamBtn" class="btn primary">Comenzar</button>
+          </div>
+        </div>
+        <div class="container" id="examStage" hidden></div>
+        <div class="container" id="examResults" hidden></div>
+      </section>
+
+      <section class="view" data-view="mir">
+        <div class="container section-head">
+          <div><span class="eyebrow">PREGUNTAS MIR · RADIOLOGÍA</span><h1>Entrena imagen y razonamiento clínico</h1><p>Combina un banco propio de entrenamiento radiológico con preguntas MIR reales comentadas procedentes del conjunto abierto CasiMedicos.</p></div>
+          <div class="mir-head-actions"><button id="mirFiltersBtn" class="btn secondary mobile-filter-btn" type="button" aria-expanded="false" aria-controls="mirFilters">Filtros</button><button id="mirRandomBtn" class="btn secondary">Pregunta aleatoria</button></div>
+        </div>
+        <div class="container source-tabs" role="tablist" aria-label="Fuente de preguntas MIR">
+          <button type="button" class="source-tab is-active" data-mir-source="radform">Entrenamiento Radform <span id="mirLocalBadge">180</span></button>
+          <button type="button" class="source-tab" data-mir-source="real">MIR real · CasiMedicos</button>
+        </div>
+        <div id="mirLocalPanel" class="container mir-layout">
+          <div>
+            <div class="panel filters mir-filters filter-sheet" id="mirFilters"><div class="sheet-head"><strong>Filtrar preguntas</strong><button id="mirFiltersClose" class="icon-btn" type="button" aria-label="Cerrar filtros">×</button></div>
+              <label class="search-field"><span>Buscar</span><input id="mirSearch" type="search" placeholder="p. ej. neumotórax, ictus, TC…" /></label>
+              <label><span>Área</span><select id="mirArea"><option value="all">Todas</option></select></label>
+              <label><span>Nivel</span><select id="mirDifficulty"><option value="all">Todos</option><option>Básico</option><option>Intermedio</option><option>Avanzado</option></select></label>
+              <label class="check-filter"><input id="mirWithImage" type="checkbox" /><span>Solo con imagen</span></label>
+            </div>
+            <div class="mir-summary-row"><span><strong id="mirVisibleCount">0</strong> preguntas disponibles</span><span id="mirSolvedCount">0 resueltas</span></div>
+            <div id="mirGrid" class="mir-grid"></div>
+            <div id="mirEmpty" class="empty-state" hidden>No hay preguntas con esos filtros.</div>
+          </div>
+          <aside class="panel mir-official-panel">
+            <span class="mini-label">BANCO RADFORM</span>
+            <h2>Entrenamiento radiológico</h2>
+            <p>Preguntas originales para practicar hallazgos, patrones, técnica y diagnóstico por imagen. Parte del banco utiliza imágenes de los casos.</p>
+            <a class="btn secondary inline" href="https://www.sanidad.gob.es/areas/profesionesSanitarias/formacionEspecializada/home.htm" target="_blank" rel="noreferrer">Ministerio de Sanidad ↗</a>
+          </aside>
+        </div>
+        <div id="mirRealPanel" class="container" hidden>
+          <div class="panel real-mir-search">
+            <div class="guided-search compact-guided-search">
+              <div class="guided-search-title"><strong>Buscar por tipo de imagen</strong><span>Elige una opción sin necesidad de escribir.</span></div>
+              <div class="guided-search-controls mir-guided-controls">
+                <label><span>Tipo</span><select id="mirRealPresetSelect"><option value="radiografía">Radiografía</option><option value="tomografía">TC</option><option value="resonancia">RM</option><option value="ecografía">Ecografía</option><option value="imagen">Cualquier imagen</option></select></label>
+                <button id="mirRealPresetGo" type="button" class="btn secondary">Ver preguntas</button>
+              </div>
+            </div>
+            <details class="advanced-search">
+              <summary>Búsqueda libre en el banco MIR</summary>
+              <div class="advanced-search-body">
+            <form id="mirRealForm" class="atlas-form">
+              <label class="search-field"><span>Buscar en MIR comentado</span><input id="mirRealQuery" placeholder="p. ej. radiografía, ecografía, resonancia…" value="radiografía" /></label>
+              <label><span>Máximo</span><select id="mirRealLength"><option value="20">20</option><option value="40" selected>40</option><option value="80">80</option></select></label>
+              <button type="submit" class="btn primary">Buscar preguntas</button>
+            </form>
+            <div class="preset-row preset-grid"><button type="button" data-mir-real-preset="radiografía">Radiografía</button><button type="button" data-mir-real-preset="tomografía">TC</button><button type="button" data-mir-real-preset="resonancia">RM</button><button type="button" data-mir-real-preset="ecografía">Ecografía</button><button type="button" data-mir-real-preset="imagen">Imagen</button></div>
+              </div>
+            </details>
+            <p class="atlas-note">Preguntas MIR reales comentadas del conjunto CasiMedicos/HiTZ (CC BY 4.0). Se mantiene la atribución y un enlace al conjunto original.</p>
+          </div>
+          <div id="mirRealStatus"></div>
+          <div id="mirRealGrid" class="mir-grid real-mir-grid"></div>
+        </div>
+      </section>
+
+      <section class="view" data-view="atlas">
+        <div class="container section-head">
+          <div><span class="eyebrow">ATLAS ABIERTO DE IMAGEN MÉDICA</span><h1>Explora radiología por tema</h1><p>Más de 200 rutas de búsqueda curadas y dos fuentes abiertas: Wikimedia Commons y Open-i de la U.S. National Library of Medicine. Ninguna requiere API key.</p></div>
+          <span class="source-chip">Commons + Open-i · sin clave</span>
+        </div>
+        <div class="container atlas-layout">
+          <div>
+            <div class="panel atlas-search-panel">
+              <div class="guided-search atlas-quick-search">
+                <div class="guided-search-title"><strong>Ir directamente a un tema</strong><span>Más de 200 búsquedas preparadas en español.</span></div>
+                <div class="guided-search-controls atlas-quick-controls">
+                  <label><span>Tema</span><select id="atlasQuickTopic"><option value="">Selecciona un tema</option></select></label>
+                  <button id="atlasQuickGo" type="button" class="btn secondary">Ver tema</button>
+                </div>
+              </div>
+              <details class="advanced-search atlas-advanced" open>
+                <summary>Búsqueda libre y filtros</summary>
+                <div class="advanced-search-body">
+              <form id="atlasForm" class="atlas-form atlas-form-wide">
+                <label><span>Fuente</span><select id="atlasSource"><option value="commons">Wikimedia Commons</option><option value="openi">Open-i (NLM)</option><option value="medpix">MedPix (vía Open-i)</option></select></label>
+                <label class="search-field"><span>Buscar hallazgo o diagnóstico</span><input id="atlasQuery" required placeholder="p. ej. neumotórax, apendicitis, ictus…" value="neumotórax" /></label>
+                <label><span>Modalidad</span><select id="atlasModality"><option value="all">Todas</option><option value="XR">Radiografía</option><option value="CT">TC</option><option value="MRI">RM</option><option value="US">Ecografía</option><option value="MAMMO">Mamografía</option><option value="ANGIO">Angiografía</option><option value="PET">PET</option></select></label>
+                <button class="btn primary" type="submit">Buscar imágenes</button>
+              </form>
+                </div>
+              </details>
+              <div class="atlas-mobile-actions"><button id="topicDrawerBtn" class="btn secondary" type="button" aria-expanded="false" aria-controls="topicPanel">Explorar todos los temas</button></div>
+              <p class="atlas-note">Puedes escribir en español: Radform traduce automáticamente los términos frecuentes y las más de 200 rutas curadas. Commons devuelve metadatos de licencia por archivo; Open-i enlaza cada imagen con su fuente.</p>
+            </div>
+            <div id="atlasStatus"></div>
+            <div class="atlas-grid" id="atlasGrid"></div>
+            <div class="atlas-more-row"><button id="atlasMoreBtn" class="btn secondary" hidden>Cargar más imágenes</button></div>
+          </div>
+          <aside class="panel topic-panel" id="topicPanel" aria-hidden="false">
+            <div class="panel-title-row"><div><span class="mini-label">RUTAS CURADAS</span><h2>Rutas rápidas</h2></div><div class="topic-head-actions"><span id="topicCount" class="badge muted">—</span><button id="topicDrawerClose" class="icon-btn topic-close" type="button" aria-label="Cerrar temas">×</button></div></div>
+            <div class="topic-filters">
+              <label><span>Área</span><select id="topicAnatomy"><option value="all">Todas</option></select></label>
+              <label><span>Nivel</span><select id="topicLevel"><option value="all">Todos</option><option>Básico</option><option>Intermedio</option><option>Avanzado</option></select></label>
+            </div>
+            <div id="topicList" class="topic-list"></div>
+          </aside>
+        </div>
+      </section>
+
+
+      <section class="view" data-view="ranking">
+        <div class="container section-head ranking-head">
+          <div><span class="eyebrow">CLASIFICACIÓN RADFORM</span><h1>Aprende, suma puntos y compara tu progreso</h1><p>El ranking utiliza únicamente el primer intento de cada caso o pregunta. Puedes estudiar sin cuenta; registrarte sirve para sincronizar el progreso y participar en la clasificación.</p></div>
+          <button id="rankingAccountBtn" class="btn secondary" type="button">Mi cuenta</button>
+        </div>
+
+        <div class="container ranking-layout">
+          <section class="panel leaderboard-panel">
+            <div class="panel-title-row ranking-toolbar">
+              <div><span class="mini-label">LEADERBOARD</span><h2>Clasificación</h2></div>
+              <div class="period-tabs" role="group" aria-label="Periodo de clasificación">
+                <button class="period-tab is-active" type="button" data-rank-period="week">Semana</button>
+                <button class="period-tab" type="button" data-rank-period="month">Mes</button>
+                <button class="period-tab" type="button" data-rank-period="all">Global</button>
+              </div>
+            </div>
+            <div id="leaderboardStatus" class="ranking-status">Cargando clasificación…</div>
+            <div class="leaderboard-wrap">
+              <table class="leaderboard-table">
+                <thead><tr><th>Pos.</th><th>Usuario</th><th>Puntos</th><th>Acierto</th><th>Primeros intentos</th></tr></thead>
+                <tbody id="leaderboardBody"></tbody>
+              </table>
+            </div>
+          </section>
+
+          <aside class="panel my-stats-panel">
+            <span class="mini-label">TU PROGRESO</span>
+            <div id="myStatsGuest">
+              <h2>Estudia como invitado o crea tu cuenta</h2>
+              <p>Sin cuenta, Radform sigue guardando el progreso en este dispositivo. Con una cuenta puedes sincronizarlo y aparecer en el ranking si quieres.</p>
+              <button class="btn primary" type="button" data-open-account>Entrar / crear cuenta</button>
+            </div>
+            <div id="myStatsUser" hidden>
+              <div class="my-stats-identity"><strong id="myStatsName">—</strong><small id="myStatsVisibility">—</small></div>
+              <div class="my-stats-grid">
+                <div><strong id="cloudPoints">0</strong><span>puntos</span></div>
+                <div><strong id="cloudAccuracy">—</strong><span>acierto</span></div>
+                <div><strong id="cloudAttempts">0</strong><span>primeros intentos</span></div>
+                <div><strong id="cloudStreak">0</strong><span>racha</span></div>
+              </div>
+              <button class="btn secondary" type="button" data-open-account>Gestionar cuenta</button>
+            </div>
+          </aside>
+        </div>
+
+        <div class="container scoring-grid">
+          <article class="panel scoring-card"><span class="score-number">10</span><div><strong>Básico</strong><p>10 puntos si aciertas a la primera.</p></div></article>
+          <article class="panel scoring-card"><span class="score-number">20</span><div><strong>Intermedio</strong><p>20 puntos si aciertas a la primera.</p></div></article>
+          <article class="panel scoring-card"><span class="score-number">30</span><div><strong>Avanzado</strong><p>30 puntos si aciertas a la primera.</p></div></article>
+          <article class="panel scoring-card scoring-rule"><div><strong>Regla de juego</strong><p>Repetir un caso sirve para aprender, pero no añade puntos al ranking. El correo electrónico nunca se muestra en la clasificación.</p></div></article>
+        </div>
+      </section>
+
+      <section class="view" data-view="acerca">
+        <div class="container section-head"><div><span class="eyebrow">SOBRE RADFORM</span><h1>Aprender radiología viendo casos</h1><p>Una herramienta educativa para practicar reconocimiento de patrones y razonamiento radiológico de forma activa.</p></div></div>
+        <div class="container about-grid">
+          <article class="panel about-card">
+            <h2>Cómo estudiar</h2>
+            <ul class="clean-list"><li><strong>Casos:</strong> revisa una imagen, lee la viñeta clínica y responde una pregunta de opción múltiple.</li><li><strong>Biblioteca:</strong> repasa los 260 casos propios de Radform y amplía con VQA-RAD, un banco CC0 de 314 imágenes y más de 2.200 preguntas visuales.</li><li><strong>Modo examen:</strong> oculta la pista visual y completa sesiones aleatorias de hasta 10 casos.</li><li><strong>Preguntas MIR:</strong> combina preguntas originales de Radform con un buscador de preguntas MIR reales comentadas de CasiMedicos.</li><li><strong>Atlas:</strong> explora cientos de temas y busca imágenes abiertas para ampliar el reconocimiento visual.</li><li><strong>Progreso:</strong> sin cuenta se guarda en este dispositivo; con cuenta opcional puedes sincronizar primeros intentos, puntos y estadísticas mediante Supabase.</li><li><strong>Clasificación:</strong> el primer acierto vale 10, 20 o 30 puntos según dificultad. Puedes ocultar tu perfil del ranking cuando quieras.</li></ul>
+          </article>
+          <article class="panel about-card">
+            <h2>Autora</h2>
+            <p><strong>Itxaso Galán González, MD, EBIR</strong><br />Interventional &amp; Vascular Radiologist</p>
+            <p>Radform está orientada a estudiantes de Medicina, opositores MIR y residentes que quieran entrenar reconocimiento de patrones, anatomía radiológica y razonamiento por imagen.</p>
+            <p>¿Dudas, sugerencias, correcciones o una solicitud sobre atribución/licencia? <a href="mailto:itxa.galan@gmail.com">itxa.galan@gmail.com</a></p>
+          </article>
+          <article class="panel about-card install-card">
+            <h2>Instalar Radform</h2>
+            <p>Puedes guardarla como app en el móvil o en el ordenador. Sin cuenta conserva el progreso local; si inicias sesión, los intentos puntuables y las estadísticas también pueden sincronizarse entre dispositivos.</p>
+            <button id="aboutInstallBtn" class="btn secondary" type="button">Ver cómo instalarla</button>
+          </article>
+          <article class="panel about-card full sources-card">
+            <h2>Fuentes, licencias y uso</h2>
+            <p><strong>Contenido propio de Radform.</strong> Las viñetas, preguntas, explicaciones y casos identificados como banco Radform son material educativo original; no son preguntas oficiales del MIR ni sustituyen la interpretación de un radiólogo.</p>
+            <p><strong>Wikimedia Commons.</strong> Radform consulta archivos de Commons y muestra, cuando la API los facilita, autoría, licencia y enlace a la página original. Commons no tiene una licencia única: cada archivo conserva sus propios términos y deben revisarse antes de reutilizarlo fuera de Radform.</p>
+            <p><strong>VQA-RAD.</strong> Banco de preguntas y respuestas visuales sobre imágenes radiológicas liberado bajo <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noreferrer">CC0 1.0</a>. Fuente: Lau JJ et al., <em>Scientific Data</em> 2018 y <a href="https://huggingface.co/datasets/abhay2812/vqa-rad" target="_blank" rel="noreferrer">dataset VQA-RAD</a>. Radform conserva la referencia de procedencia.</p>
+            <p><strong>ROCOv2.</strong> Conjunto de imágenes radiológicas y pies de figura procedentes del PMC Open Access Subset. El <a href="https://huggingface.co/datasets/eltorio/ROCOv2-radiology" target="_blank" rel="noreferrer">dataset ROCOv2</a> se distribuye bajo <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noreferrer">CC BY-NC-SA 4.0</a>; los artículos de origen pueden tener CC BY o CC BY-NC. Radform lo utiliza con finalidad educativa no comercial y enlaza a la fuente del dataset.</p>
+            <p><strong>MultiCaRe.</strong> Dataset de casos e imágenes extraídos de PubMed Central Open Access. La ficha del dataset representativo en Hugging Face declara CC BY 4.0, mientras que la <a href="https://zenodo.org/records/20416562" target="_blank" rel="noreferrer">versión completa actual en Zenodo</a> declara <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noreferrer">CC BY-NC-SA 4.0</a> y documenta licencias variables por elemento. Para evitar asumir derechos que no sean uniformes, Radform enlaza esta colección pero no re-hospeda sus imágenes.</p>
+            <p><strong>MedPix.</strong> Archivo educativo de imágenes y casos de la U.S. National Library of Medicine. Radform accede a MedPix mediante el filtro de colección de la API pública de Open-i y enlaza a la fuente original de cada resultado.</p>
+            <p><strong>Open-i (NLM).</strong> <a href="https://openi.nlm.nih.gov/" target="_blank" rel="noreferrer">Open-i</a> se utiliza como índice/buscador de imágenes biomédicas. Los derechos de cada imagen dependen de su artículo o colección de origen; Radform enlaza a la fuente y no atribuye a Open-i una licencia global sobre el contenido.</p>
+            <p><strong>CasiMedicos / HiTZ.</strong> Las preguntas MIR comentadas proceden del <a href="https://huggingface.co/datasets/HiTZ/casimedicos-exp" target="_blank" rel="noreferrer">conjunto CasiMedicos/HiTZ</a> publicado bajo <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer">CC BY 4.0</a>. Se mantiene la atribución y el enlace a la fuente. Radform no afirma que esas explicaciones sean material oficial del Ministerio de Sanidad.</p>
+            <p><strong>Privacidad y cuentas.</strong> El registro es opcional. Radform utiliza Supabase para autenticación y almacenamiento del perfil y del progreso sincronizado. Se almacena el correo necesario para autenticación, un alias/nombre visible opcional, preferencias de visibilidad, identificadores de casos o preguntas respondidos, resultado, puntuación y fecha. El correo y el identificador interno de usuario no se publican en la clasificación. El usuario puede desactivar su aparición pública en el ranking desde su perfil. Para consultas o solicitudes relacionadas con los datos de la cuenta: <a href="mailto:itxa.galan@gmail.com">itxa.galan@gmail.com</a>.</p>
+            <p class="legal"><strong>Aviso educativo.</strong> Radform es una herramienta de formación y autoevaluación. No es un producto sanitario, no proporciona diagnóstico médico, no sustituye la supervisión docente ni debe emplearse para tomar decisiones clínicas sobre pacientes reales. No introduzcas datos personales o identificativos de pacientes. Si eres titular de derechos y consideras que un recurso está atribuido o utilizado de forma incorrecta, escribe a <a href="mailto:itxa.galan@gmail.com">itxa.galan@gmail.com</a> para su revisión o retirada.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <div id="filterOverlay" class="drawer-overlay filter-overlay" hidden></div>
+    <div id="topicOverlay" class="drawer-overlay topic-overlay" hidden></div>
+    <footer class="footer">
+      <div class="container footer-inner"><span>Radform · Itxaso Galán González</span><span>Formación radiológica · 2026</span></div>
+    </footer>
+  </div>
+
+
+  <dialog id="accountDialog" class="account-dialog">
+    <form method="dialog"><button class="dialog-close" aria-label="Cerrar">×</button></form>
+    <div class="account-dialog-body">
+      <span class="eyebrow">CUENTA RADFORM</span>
+      <div id="cloudConnectionNotice" class="cloud-notice">Conectando con Radform Cloud…</div>
+
+      <section id="authLoggedOut">
+        <h2>Guarda tu progreso entre dispositivos</h2>
+        <p class="account-intro">Registrarse es opcional. Puedes seguir utilizando todos los casos como invitado.</p>
+        <div class="auth-tabs" role="tablist">
+          <button id="loginTabBtn" class="auth-tab is-active" type="button">Iniciar sesión</button>
+          <button id="signupTabBtn" class="auth-tab" type="button">Crear cuenta</button>
+        </div>
+
+        <form id="loginForm" class="auth-form">
+          <label><span>Email</span><input id="loginEmail" type="email" autocomplete="email" required /></label>
+          <label><span>Contraseña</span><input id="loginPassword" type="password" autocomplete="current-password" minlength="6" required /></label>
+          <button class="btn primary" type="submit">Iniciar sesión</button>
+          <button id="forgotPasswordBtn" class="text-btn auth-link" type="button">He olvidado mi contraseña</button>
+        </form>
+
+        <form id="signupForm" class="auth-form" hidden>
+          <label><span>Alias público</span><input id="signupUsername" type="text" minlength="3" maxlength="30" pattern="[A-Za-z0-9_-]+" autocomplete="username" placeholder="p. ej. radio_resi24" required /><small>3–30 caracteres: letras, números, guion o guion bajo.</small></label>
+          <label><span>Email</span><input id="signupEmail" type="email" autocomplete="email" required /></label>
+          <label><span>Contraseña</span><input id="signupPassword" type="password" autocomplete="new-password" minlength="8" required /><small>Mínimo 8 caracteres.</small></label>
+          <label class="privacy-check"><input id="signupPrivacy" type="checkbox" required /><span>He leído el aviso de privacidad de Radform y entiendo que el registro es opcional.</span></label>
+          <button class="btn primary" type="submit">Crear cuenta</button>
+        </form>
+        <div id="authMessage" class="auth-message" role="status" aria-live="polite"></div>
+      </section>
+
+      <section id="authLoggedIn" hidden>
+        <div class="account-user-head"><div><span class="mini-label">SESIÓN ACTIVA</span><h2 id="accountUserTitle">—</h2><p id="accountEmail">—</p></div><span class="cloud-badge">Sincronización activa</span></div>
+        <div class="account-stat-strip">
+          <div><strong id="accountPoints">0</strong><span>puntos</span></div>
+          <div><strong id="accountAccuracy">—</strong><span>acierto</span></div>
+          <div><strong id="accountStreak">0</strong><span>racha</span></div>
+        </div>
+        <form id="profileForm" class="auth-form profile-form">
+          <label><span>Alias</span><input id="profileUsername" type="text" minlength="3" maxlength="30" pattern="[A-Za-z0-9_-]+" required /></label>
+          <label><span>Nombre visible <small>(opcional)</small></span><input id="profileDisplayName" type="text" maxlength="60" /></label>
+          <label class="privacy-check"><input id="profilePublic" type="checkbox" /><span>Mostrar mi alias, puntos y estadísticas en la clasificación pública.</span></label>
+          <button class="btn primary" type="submit">Guardar perfil</button>
+        </form>
+        <div class="account-actions">
+          <button id="syncProgressBtn" class="btn secondary" type="button">Sincronizar este dispositivo</button>
+          <button id="signOutBtn" class="btn ghost-danger" type="button">Cerrar sesión</button>
+        </div>
+        <p class="account-note">Radform no publica tu email. Los favoritos siguen siendo locales; los primeros intentos, puntos y estadísticas se sincronizan con la cuenta.</p>
+        <div id="profileMessage" class="auth-message" role="status" aria-live="polite"></div>
+      </section>
+
+      <section id="passwordRecovery" hidden>
+        <h2>Crear una nueva contraseña</h2>
+        <form id="recoveryForm" class="auth-form">
+          <label><span>Nueva contraseña</span><input id="recoveryPassword" type="password" minlength="8" autocomplete="new-password" required /></label>
+          <button class="btn primary" type="submit">Actualizar contraseña</button>
+        </form>
+        <div id="recoveryMessage" class="auth-message" role="status" aria-live="polite"></div>
+      </section>
+    </div>
+  </dialog>
+
+  <dialog id="installDialog" class="case-dialog install-dialog">
+    <form method="dialog"><button class="dialog-close" aria-label="Cerrar">×</button></form>
+    <div class="install-dialog-body">
+      <span class="eyebrow">INSTALAR RADFORM</span>
+      <h2>Llévala a tu pantalla de inicio</h2>
+      <div id="installInstructions" class="install-instructions"></div>
+      <div class="hero-actions"><button id="nativeInstallBtn" class="btn primary" type="button" hidden>Instalar ahora</button><button class="btn secondary" type="button" data-close-install>Cerrar</button></div>
+      <p class="legal">Instalar la PWA no obliga a crear una cuenta. Como invitado, favoritos y progreso permanecen en este navegador/dispositivo. Si inicias sesión, Radform puede sincronizar tus primeros intentos, puntos y estadísticas con tu cuenta.</p>
+    </div>
+  </dialog>
+
+  <dialog id="caseDialog" class="case-dialog">
+    <form method="dialog"><button class="dialog-close" aria-label="Cerrar">×</button></form>
+    <div id="caseDialogBody"></div>
+  </dialog>
+
+  <dialog id="mirDialog" class="case-dialog mir-dialog">
+    <form method="dialog"><button class="dialog-close" aria-label="Cerrar">×</button></form>
+    <div id="mirDialogBody"></div>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
