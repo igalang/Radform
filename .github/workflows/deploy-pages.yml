@@ -1,0 +1,75 @@
+name: Build and deploy Radform to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate educational data
+        run: |
+          python scripts/validate_cases.py
+          python scripts/validate_atlas.py
+          python scripts/validate_mir.py
+
+      - name: Refresh open-source snapshots
+        continue-on-error: true
+        run: |
+          python scripts/build_openi_snapshot.py
+          python scripts/build_mir_open_snapshot.py
+          python scripts/build_open_radiology_bundles.py
+
+      - name: Validate JavaScript syntax
+        run: |
+          node --check app.js
+          node --check supabase-client.js
+          node --check commons.js
+          node --check openi.js
+          node --check multicare.js
+          node --check mir-open.js
+          node --check sw.js
+
+      - name: Assemble static site
+        run: |
+          mkdir -p _site
+          cp -a index.html 404.html styles.css app.js supabase-client.js commons.js openi.js multicare.js mir-open.js sw.js manifest.webmanifest og.png assets data .nojekyll _site/
+          if [ -d generated ]; then cp -a generated _site/; fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
