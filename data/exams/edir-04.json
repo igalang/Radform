@@ -1,0 +1,647 @@
+{
+  "id": "edir-04",
+  "kind": "edir",
+  "title": "EDiR Practice Set 4 · breast, cardiac and head & neck imaging",
+  "subtitle": "Radform original question bank · English · used for adaptive practice sessions",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro original de Radform basado en la estructura publicada del EDiR. No contiene preguntas oficiales ni bancos de pago.",
+  "sections": [
+    {
+      "id": "mrq",
+      "title": "Multiple Response Questions",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "edir04-m1",
+          "type": "multiple",
+          "question": "Which mammographic findings are suspicious? Choose all that apply.",
+          "options": [
+            "A new spiculated mass",
+            "Grouped fine pleomorphic calcifications",
+            "New architectural distortion",
+            "Typical isolated vascular calcification"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Spiculation, suspicious calcifications and new distortion warrant diagnostic evaluation.",
+          "topic": "Breast",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m2",
+          "type": "single",
+          "question": "Subendocardial late gadolinium enhancement in a coronary distribution on cardiac MRI suggests:",
+          "options": [
+            "Ischaemic myocardial scar",
+            "Typical myocarditis exclusively",
+            "Amyloidosis in every case",
+            "Isolated pericarditis"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Ischaemic injury follows coronary territories and begins in the subendocardium.",
+          "topic": "Cardiac",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m3",
+          "type": "single",
+          "question": "MRI is particularly useful in head and neck cancer for assessing:",
+          "options": [
+            "Perineural spread and soft-tissue extent",
+            "Renal calculi",
+            "Tibial fracture",
+            "Pneumoperitoneum"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "High soft-tissue contrast makes MRI valuable for skull-base and perineural disease.",
+          "topic": "Head & neck",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m4",
+          "type": "multiple",
+          "question": "Which findings support cervical carotid artery dissection? Choose all that apply.",
+          "options": [
+            "Mural haematoma",
+            "Tapered or flame-shaped stenosis",
+            "Pseudoaneurysm",
+            "Isolated coronary calcification"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Mural haematoma, tapered narrowing and pseudoaneurysm are recognised features.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m5",
+          "type": "multiple",
+          "question": "The classic differential diagnosis of an anterior mediastinal mass includes which entities? Choose all that apply.",
+          "options": [
+            "Thymic lesion",
+            "Lymphoma",
+            "Germ-cell tumour",
+            "Intrathoracic thyroid tissue"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "The traditional anterior mediastinal differential includes the “4 Ts”.",
+          "topic": "Chest / thorax",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m6",
+          "type": "single",
+          "question": "An oval, circumscribed breast mass that is parallel to the skin on ultrasound:",
+          "options": [
+            "May have probably benign morphology depending on context",
+            "Is always carcinoma",
+            "Should never be described",
+            "Is necessarily an abscess"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Oval shape, circumscribed margin and parallel orientation can be benign features but must be integrated with the full BI-RADS assessment.",
+          "topic": "Breast",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m7",
+          "type": "single",
+          "question": "Imaging findings that may support constrictive pericarditis include:",
+          "options": [
+            "Pericardial thickening/calcification and signs of ventricular interdependence",
+            "Hydronephrosis",
+            "Bowel pneumatosis",
+            "Isolated portal vein thrombosis"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "CT and CMR can demonstrate structural pericardial disease and functional consequences.",
+          "topic": "Cardiac",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m8",
+          "type": "multiple",
+          "question": "Which issues are relevant to MRI safety? Choose all that apply.",
+          "options": [
+            "Implant compatibility",
+            "Specific absorption rate",
+            "Static magnetic field hazards",
+            "Ferromagnetic objects"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "All are central to safe MRI practice.",
+          "topic": "Imaging physics & radiation safety",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m9",
+          "type": "single",
+          "question": "In severe aortic stenosis, CT before transcatheter valve implantation is used to assess:",
+          "options": [
+            "Annular dimensions, vascular access and aortic root anatomy",
+            "Only gallbladder wall thickness",
+            "Only lumbar disc height",
+            "Only thyroid volume"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Pre-TAVI CT provides annular sizing and vascular/aortic root planning.",
+          "topic": "Cardiac",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m10",
+          "type": "single",
+          "question": "Which MRI finding is typical of intracapsular silicone breast implant rupture?",
+          "options": [
+            "Linguine sign",
+            "Air bronchogram",
+            "Target sign of intussusception",
+            "Empty delta sign"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "The linguine sign represents collapsed implant shell within silicone.",
+          "topic": "Breast",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m11",
+          "type": "single",
+          "question": "In suspected deep neck infection, CT findings favouring an abscess include:",
+          "options": [
+            "A rim-enhancing fluid collection with surrounding inflammatory change",
+            "Uniform fat with no inflammatory change",
+            "Isolated dental enamel",
+            "A simple air-filled pharynx"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "A rim-enhancing collection with inflammatory change is suspicious for abscess.",
+          "topic": "Head & neck",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m12",
+          "type": "multiple",
+          "question": "Which MRI safety issues should be checked before scanning? Choose all that apply.",
+          "options": [
+            "Implant/device conditionality",
+            "Ferromagnetic foreign bodies",
+            "Appropriate screening of equipment entering the room",
+            "Ignoring projectile risk"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "MRI safety depends on screening patients, implants and equipment for static-field and RF-related hazards.",
+          "topic": "Imaging physics & radiation safety",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m13",
+          "type": "single",
+          "question": "A large iodinated contrast extravasation with severe pain and neurovascular symptoms requires:",
+          "options": [
+            "Immediate clinical assessment and escalation because compartment syndrome is possible",
+            "Automatic discharge without examination",
+            "Further forceful injection through the same IV",
+            "No documentation"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Severe symptoms after extravasation require urgent assessment for tissue injury and compartment syndrome.",
+          "topic": "Imaging pharmacology & contrast media",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m14",
+          "type": "single",
+          "question": "In a patient with impaired renal function, the decision to use gadolinium-based contrast should consider:",
+          "options": [
+            "Clinical necessity, renal function and the risk profile of the specific agent",
+            "Only patient age",
+            "Only scanner field strength",
+            "The colour of the contrast vial"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Risk assessment depends on indication, kidney function and the selected gadolinium agent.",
+          "topic": "Imaging pharmacology & contrast media",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir04-m15",
+          "type": "single",
+          "question": "Which statement about radiopharmaceutical safety is correct?",
+          "options": [
+            "Administration should follow justification, optimisation and pregnancy/breastfeeding precautions when relevant",
+            "Activity should be maximised regardless of indication",
+            "Patient identity checks are unnecessary",
+            "Radiopharmaceuticals have no radiation implications"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Nuclear medicine uses ionising radiation and requires appropriate justification, optimisation and patient-specific precautions.",
+          "topic": "Imaging pharmacology & contrast media",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "short-cases",
+      "title": "Short Cases",
+      "type": "shortcases",
+      "cases": [
+        {
+          "id": "edir04-short1",
+          "title": "Dural-based brain mass",
+          "stem": "MRI demonstrates a well-defined extra-axial mass with broad dural contact and avid enhancement.",
+          "questions": [
+            {
+              "id": "edir04-s1q1",
+              "type": "single",
+              "question": "What is the most likely diagnosis?",
+              "options": [
+                "Meningioma",
+                "Acute infarction",
+                "Spinal epidural abscess",
+                "Renal cyst"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "The morphology is typical of a meningioma.",
+              "imageQuery": "dural based meningioma MRI",
+              "imageKey": "edir04-meningioma",
+              "topic": "Neuroradiology",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "edir04-s1q2",
+              "type": "single",
+              "question": "Which finding may be associated with a meningioma?",
+              "options": [
+                "Hyperostosis of adjacent bone",
+                "Restricted diffusion in the entire vascular territory",
+                "Pneumoperitoneum",
+                "Hydronephrosis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Adjacent hyperostosis is a recognised associated finding in some meningiomas.",
+              "topic": "Neuroradiology",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Neuroradiology",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir04-short1-media",
+              "imageQuery": "meningioma MRI dural tail"
+            }
+          ]
+        },
+        {
+          "id": "edir04-short2",
+          "title": "Suspicious breast lesion",
+          "stem": "A 52-year-old woman has a new palpable breast mass. Mammography and ultrasound show an irregular spiculated lesion.",
+          "questions": [
+            {
+              "id": "edir04-s2q1",
+              "type": "single",
+              "question": "How should this lesion be categorised conceptually?",
+              "options": [
+                "Suspicious for malignancy and requiring tissue diagnosis",
+                "Definitely benign",
+                "Normal breast tissue",
+                "No further assessment required"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "An irregular spiculated mass is suspicious and requires diagnostic work-up.",
+              "topic": "Breast",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "edir04-s2q2",
+              "type": "single",
+              "question": "What is the most appropriate next step?",
+              "options": [
+                "Image-guided core biopsy when feasible",
+                "Routine screening in three years",
+                "No action if painful",
+                "CT colonography"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Percutaneous biopsy is the standard route to tissue diagnosis for a suspicious breast mass.",
+              "topic": "Breast",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Breast",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir04-short2-media",
+              "imageQuery": "spiculated breast mass mammography"
+            }
+          ]
+        },
+        {
+          "id": "edir04-short3",
+          "title": "Screening mammography recall",
+          "stem": "Screening mammography demonstrates a new cluster of fine pleomorphic calcifications.",
+          "topic": "Breast",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir-sc-microcalc",
+              "imageQuery": "pleomorphic microcalcifications mammography breast"
+            }
+          ],
+          "questions": [
+            {
+              "id": "edir04-s5",
+              "type": "single",
+              "question": "How should this finding be regarded?",
+              "options": [
+                "Suspicious and requiring diagnostic work-up",
+                "Definitely benign without assessment",
+                "Normal vascular calcification",
+                "A technical artefact in every case"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "New grouped fine pleomorphic calcifications are suspicious.",
+              "topic": "Breast"
+            },
+            {
+              "id": "edir04-s6",
+              "type": "single",
+              "question": "A likely next step is:",
+              "options": [
+                "Magnification views and tissue diagnosis according to the completed assessment",
+                "No follow-up",
+                "CT pulmonary angiography",
+                "Lumbar MRI"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Diagnostic mammographic assessment and biopsy are commonly required for suspicious calcifications.",
+              "topic": "Breast"
+            }
+          ]
+        },
+        {
+          "id": "edir04-short4",
+          "title": "Painful swollen orbit",
+          "stem": "A febrile patient has painful proptosis and impaired eye movements. Contrast-enhanced CT of the orbits is performed.",
+          "topic": "Head & neck",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir-sc-orbital-cellulitis",
+              "imageQuery": "orbital cellulitis abscess CT"
+            }
+          ],
+          "questions": [
+            {
+              "id": "edir04-s7",
+              "type": "single",
+              "question": "Which diagnosis is most concerning?",
+              "options": [
+                "Post-septal orbital cellulitis with possible abscess",
+                "Simple allergic rhinitis only",
+                "Mastoid effusion only",
+                "Normal orbit"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Post-septal inflammation/collection is an emergency because of visual and intracranial complications.",
+              "topic": "Head & neck"
+            },
+            {
+              "id": "edir04-s8",
+              "type": "single",
+              "question": "Which complication should be actively assessed?",
+              "options": [
+                "Subperiosteal/orbital abscess and intracranial spread",
+                "Femoral neck fracture",
+                "Portal hypertension",
+                "Renal artery stenosis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Orbital infection may extend to subperiosteal spaces, cavernous sinus or intracranially.",
+              "topic": "Head & neck"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "CORE Cases",
+      "type": "core",
+      "cases": [
+        {
+          "id": "edir04-core1",
+          "title": "Palpable breast mass with suspicious node",
+          "stem": "A 52-year-old woman has an irregular breast mass with posterior acoustic shadowing and a morphologically suspicious axillary node.",
+          "questions": [
+            {
+              "id": "edir04-core1q1",
+              "type": "single",
+              "question": "What is the most appropriate next management recommendation?",
+              "options": [
+                "Image-guided biopsy of the breast lesion and assessment/biopsy of the node as appropriate",
+                "Five-year imaging follow-up",
+                "No further action",
+                "Brain PET"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Suspicious breast and nodal findings require timely tissue diagnosis and staging assessment.",
+              "weight": 3,
+              "topic": "Breast",
+              "difficulty": "Intermediate",
+              "domain": "Observation"
+            },
+            {
+              "id": "edir04-core1q2",
+              "type": "single",
+              "question": "Which information should be included in the report?",
+              "options": [
+                "Lesion size, location, morphology and level of suspicion",
+                "Only patient age",
+                "Only pain severity",
+                "No information about axillary nodes"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Structured description supports multidisciplinary management.",
+              "weight": 3,
+              "topic": "Breast",
+              "difficulty": "Intermediate",
+              "domain": "Interpretation"
+            },
+            {
+              "id": "edir04-core1q3",
+              "type": "single",
+              "question": "Which response would be potentially unsafe?",
+              "options": [
+                "Calling the lesion clearly benign without justification and ignoring the suspicious node",
+                "Recommending biopsy",
+                "Describing the abnormal node",
+                "Correlating with clinical examination"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "False reassurance may delay diagnosis of breast cancer.",
+              "weight": 4,
+              "unsafeOptions": [
+                0
+              ],
+              "topic": "Breast",
+              "difficulty": "Intermediate",
+              "domain": "Management & safety"
+            }
+          ],
+          "topic": "Breast",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir04-core1-media",
+              "imageQuery": "breast cancer mammography ultrasound axillary node"
+            }
+          ]
+        },
+        {
+          "id": "edir04-core2",
+          "title": "Neck pain and partial Horner syndrome",
+          "stem": "A 45-year-old patient develops sudden unilateral neck pain and partial Horner syndrome. CTA of the neck is performed.",
+          "questions": [
+            {
+              "id": "edir04-core2q1",
+              "type": "single",
+              "question": "Which diagnosis should be actively sought?",
+              "options": [
+                "Internal carotid artery dissection",
+                "Appendicitis",
+                "Cholecystitis",
+                "Knee osteoarthritis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Neck pain with partial Horner syndrome is a classic presentation of carotid dissection.",
+              "weight": 3,
+              "topic": "Head & neck",
+              "difficulty": "Intermediate",
+              "domain": "Observation"
+            },
+            {
+              "id": "edir04-core2q2",
+              "type": "single",
+              "question": "Which finding supports the diagnosis?",
+              "options": [
+                "Crescentic mural haematoma and tapered luminal narrowing",
+                "A normal vessel contour",
+                "A simple thyroid cyst",
+                "Isolated sinus mucosal thickening"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Mural haematoma and tapered stenosis are characteristic imaging features.",
+              "weight": 3,
+              "topic": "Head & neck",
+              "difficulty": "Intermediate",
+              "domain": "Interpretation"
+            },
+            {
+              "id": "edir04-core2q3",
+              "type": "single",
+              "question": "Which report would be potentially unsafe?",
+              "options": [
+                "Reporting the study as normal despite clear carotid dissection",
+                "Urgently communicating the finding",
+                "Assessing intracranial extension",
+                "Looking for ischaemic complications"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Missing a carotid dissection can delay treatment and stroke prevention.",
+              "weight": 4,
+              "unsafeOptions": [
+                0
+              ],
+              "topic": "Head & neck",
+              "difficulty": "Intermediate",
+              "domain": "Management & safety"
+            }
+          ],
+          "topic": "Head & neck",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir04-core2-media",
+              "imageQuery": "carotid artery dissection CT angiography"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

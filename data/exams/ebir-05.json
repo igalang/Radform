@@ -1,0 +1,399 @@
+{
+  "id": "ebir-05",
+  "kind": "ebir",
+  "title": "EBIR Practice Set 5 · venous intervention and dialysis access",
+  "subtitle": "Radform original question bank · English · used for adaptive practice sessions",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro original de Radform basado en la estructura y currículo publicados por CIRSE. No contiene preguntas oficiales ni bancos protegidos.",
+  "sections": [
+    {
+      "id": "clinical-scenarios",
+      "title": "Clinical case scenarios",
+      "type": "sequential",
+      "cases": [
+        {
+          "id": "ebir05-case1",
+          "title": "Iliofemoral DVT and iliac vein compression",
+          "stem": "A 34-year-old woman has extensive acute left iliofemoral DVT with severe pain and swelling. She has a low bleeding risk.",
+          "questions": [
+            {
+              "id": "ebir05-c1q1",
+              "type": "single",
+              "question": "Which feature makes adjunctive endovascular thrombus removal reasonable to consider?",
+              "options": [
+                "Asymptomatic distal calf DVT",
+                "Extensive symptomatic iliofemoral DVT in a fit patient with low bleeding risk",
+                "Minimal superficial thrombophlebitis",
+                "Chronic bilateral oedema without thrombosis"
+              ],
+              "correct": [
+                1
+              ],
+              "explanation": "Selected patients with extensive symptomatic iliofemoral DVT may benefit from rapid thrombus removal.",
+              "topic": "Venous intervention",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir05-c1q2",
+              "type": "single",
+              "question": "After thrombus removal, severe compression of the left common iliac vein is demonstrated. Which treatment may be appropriate?",
+              "options": [
+                "Venous stenting of the obstructive lesion when anatomy and clinical context are suitable",
+                "Embolisation of the inferior vena cava",
+                "TIPS",
+                "Femoral artery occlusion"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Treating a significant iliac outflow obstruction can improve venous drainage and reduce recurrence.",
+              "imageQuery": "iliac vein compression venography stent May-Thurner",
+              "imageKey": "ebir05-iliac-vein-stent",
+              "topic": "Venous intervention",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir05-c1q3",
+              "type": "single",
+              "question": "What can intravascular ultrasound add in this setting?",
+              "options": [
+                "Assessment of venous calibre, compression and stent landing zones",
+                "Bone-density measurement",
+                "Diagnosis of pneumonia",
+                "Replacement of anticoagulation"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "IVUS can improve characterisation of venous obstruction and guide stent sizing/position.",
+              "topic": "Venous intervention",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir05-c1q4",
+              "type": "single",
+              "question": "After successful intervention, anticoagulation:",
+              "options": [
+                "Usually remains an important component of treatment unless contraindicated",
+                "Is always stopped immediately",
+                "Is replaced by antacids",
+                "Is never used for DVT"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Endovascular therapy does not routinely remove the need for appropriate antithrombotic treatment.",
+              "topic": "Venous intervention",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir05-c1q5",
+              "type": "single",
+              "question": "When placing an iliac venous stent, which technical principle is important for durable patency?",
+              "options": [
+                "Secure adequate inflow and outflow and cover the obstructive lesion appropriately",
+                "Leave a severe untreated inflow lesion",
+                "Terminate the stent within the tightest stenosis",
+                "Avoid assessing the contralateral venous anatomy"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Durable venous reconstruction depends on treating the entire relevant obstruction while preserving adequate inflow and outflow.",
+              "topic": "Venous intervention",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate",
+          "requiresImage": false,
+          "images": [
+            {
+              "imageKey": "ebir05-case1-media",
+              "imageQuery": "May Thurner iliac vein stent venography"
+            }
+          ]
+        },
+        {
+          "id": "ebir05-case2",
+          "title": "Dysfunctional haemodialysis fistula",
+          "stem": "A haemodialysis patient has falling access flows and elevated venous pressures. Ultrasound shows a significant outflow stenosis in an AV fistula.",
+          "questions": [
+            {
+              "id": "ebir05-c2q1",
+              "type": "single",
+              "question": "What is the role of fistulography?",
+              "options": [
+                "Define stenoses and venous outflow anatomy",
+                "Assess pulmonary function only",
+                "Diagnose cholecystitis",
+                "Measure portal pressure"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Fistulography maps the access circuit and identifies lesions amenable to endovascular treatment.",
+              "topic": "Portal, hepatic & dialysis access",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir05-c2q2",
+              "type": "single",
+              "question": "A focal significant stenosis is demonstrated. What is the usual first treatment?",
+              "options": [
+                "Balloon angioplasty",
+                "Permanent embolisation of the fistula",
+                "Mandatory systemic thrombolysis",
+                "Nephrostomy"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Balloon angioplasty is the principal treatment for many haemodialysis-access stenoses.",
+              "topic": "Portal, hepatic & dialysis access",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir05-c2q3",
+              "type": "single",
+              "question": "When may a stent or stent-graft be considered?",
+              "options": [
+                "Recoil, rupture or selected recurrent lesions depending on location",
+                "Every mild stenosis",
+                "Never in dialysis access",
+                "Only in coronary arteries"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Stent-grafts have specific indications, including selected recurrent stenoses and treatment of rupture.",
+              "topic": "Portal, hepatic & dialysis access",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir05-c2q4",
+              "type": "single",
+              "question": "What should technical success include?",
+              "options": [
+                "Improved angiographic and haemodynamic flow through the access",
+                "Complete absence of venous return",
+                "Occlusion of the arterial inflow",
+                "Intentional thrombosis of the access"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "The goal is restoration of useful access flow with correction of the culprit lesion.",
+              "topic": "Portal, hepatic & dialysis access",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir05-c2q5",
+              "type": "single",
+              "question": "Why must the underlying stenosis be treated when declotting a thrombosed dialysis access?",
+              "options": [
+                "Untreated outflow or anastomotic stenosis predisposes to early rethrombosis",
+                "Thrombectomy permanently cures every access lesion",
+                "Stenosis improves flow after thrombectomy",
+                "The stenosis is unrelated to thrombosis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Successful declotting requires treatment of the lesion responsible for stasis or access dysfunction.",
+              "topic": "Portal, hepatic & dialysis access",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Portal, hepatic & dialysis access",
+          "difficulty": "Intermediate",
+          "requiresImage": false,
+          "images": [
+            {
+              "imageKey": "ebir05-case2-media",
+              "imageQuery": "hemodialysis fistula angioplasty fistulogram"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general-practice",
+      "title": "General clinical practice",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "ebir05-g1",
+          "type": "single",
+          "question": "A major advantage of stenting in severe malignant superior vena cava syndrome is:",
+          "options": [
+            "Rapid relief of venous obstruction",
+            "Histological treatment of the tumour",
+            "Cure of all metastases",
+            "Avoidance of all oncological therapy"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Stenting can rapidly improve venous congestion and symptoms.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir05-g2",
+          "type": "single",
+          "question": "A retrievable IVC filter should generally be:",
+          "options": [
+            "Removed when the indication has resolved and retrieval is technically feasible",
+            "Left permanently in every patient",
+            "Placed before every operation",
+            "Used instead of anticoagulation in all DVT"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Retrieval when no longer required reduces long-term filter-related complications.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir05-g3",
+          "type": "single",
+          "question": "The objective of recanalising a chronic venous occlusion is to:",
+          "options": [
+            "Restore a continuous lumen with adequate inflow and outflow",
+            "Embolise all collaterals before crossing the lesion",
+            "Occlude the vena cava",
+            "Increase limb oedema"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "A durable venous reconstruction requires satisfactory inflow, conduit and outflow.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir05-g4",
+          "type": "single",
+          "question": "Sclerotherapy is an appropriate percutaneous treatment for:",
+          "options": [
+            "Selected low-flow venous malformations",
+            "Every high-flow AVM without haemodynamic assessment",
+            "Systemic arterial thrombosis",
+            "Any lesion without evaluating drainage"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Low-flow venous malformations may respond to image-guided sclerotherapy; flow characteristics must be established first.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir05-g5",
+          "type": "single",
+          "question": "Before treating a high-flow arteriovenous malformation, which feature must be understood?",
+          "options": [
+            "Nidus architecture and venous drainage",
+            "Skin colour only",
+            "HbA1c",
+            "Ureteric length"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "The angioarchitecture and haemodynamics determine access, embolic strategy and risk.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir05-g6",
+          "type": "single",
+          "question": "Real-time ultrasound guidance for vascular access allows the operator to:",
+          "options": [
+            "Visualise the target vessel, needle and adjacent structures",
+            "Eliminate the need for sterile technique",
+            "Guarantee zero complications",
+            "Replace informed consent"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Direct visualisation improves procedural accuracy and reduces mechanical complications.",
+          "topic": "Fundamentals & patient safety",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir05-g7",
+          "type": "single",
+          "question": "When thrombectomy of a haemodialysis access is performed, what else is important?",
+          "options": [
+            "Identify and treat the underlying causative stenosis",
+            "Permanently close every access",
+            "Avoid imaging of the circuit",
+            "Use unlimited contrast"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Failure to correct the underlying lesion predisposes to early rethrombosis.",
+          "topic": "Portal, hepatic & dialysis access",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir05-g8",
+          "type": "single",
+          "question": "Which angiographic sign suggests venous rupture during angioplasty?",
+          "options": [
+            "Contrast extravasation",
+            "Normal opacification of the vein",
+            "Absence of pain",
+            "Arterial calcification"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Extravasation indicates loss of vessel-wall integrity and may require balloon tamponade or stent-graft treatment.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir05-g9",
+          "type": "single",
+          "question": "Which feature makes a venous intervention more likely to fail if left untreated?",
+          "options": [
+            "Poor inflow or persistent outflow obstruction",
+            "A widely patent inflow vessel",
+            "Adequate stent expansion",
+            "Appropriate anticoagulation when indicated"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Venous reconstruction requires adequate inflow and outflow; residual obstructive disease compromises patency.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir05-g10",
+          "type": "single",
+          "question": "Which lesion is a typical indication for image-guided musculoskeletal biopsy?",
+          "options": [
+            "An indeterminate bone or soft-tissue mass where histology will influence management",
+            "A simple asymptomatic bone island with classic imaging",
+            "Normal muscle",
+            "An uncomplicated healed fracture"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Biopsy is indicated when tissue diagnosis will change management and a safe route is available.",
+          "topic": "Musculoskeletal intervention",
+          "difficulty": "Intermediate"
+        }
+      ]
+    }
+  ]
+}

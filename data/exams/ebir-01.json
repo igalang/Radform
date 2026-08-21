@@ -1,0 +1,407 @@
+{
+  "id": "ebir-01",
+  "kind": "ebir",
+  "title": "EBIR Practice Set 1 · vascular emergencies",
+  "subtitle": "Radform original question bank · English · used for adaptive practice sessions",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro original de Radform basado en la estructura y currículo publicados por CIRSE. No contiene preguntas oficiales ni bancos protegidos.",
+  "sections": [
+    {
+      "id": "clinical-scenarios",
+      "title": "Clinical case scenarios",
+      "type": "sequential",
+      "cases": [
+        {
+          "id": "ebir01-case1",
+          "title": "Recurrent variceal bleeding and TIPS",
+          "stem": "A 56-year-old man with cirrhosis has recurrent variceal bleeding despite optimal pharmacological and endoscopic therapy. TIPS is being considered.",
+          "questions": [
+            {
+              "id": "ebir01-c1q1",
+              "type": "single",
+              "question": "What is the principal haemodynamic aim of a TIPS?",
+              "options": [
+                "Increase portal pressure",
+                "Create a portosystemic shunt that reduces the portal pressure gradient",
+                "Occlude the main portal vein",
+                "Increase hepatic arterial flow"
+              ],
+              "correct": [
+                1
+              ],
+              "explanation": "TIPS creates a low-resistance communication between the portal and systemic venous circulations to decompress portal hypertension.",
+              "topic": "Portal, hepatic & dialysis access",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir01-c1q2",
+              "type": "single",
+              "question": "Which pre-procedural assessment is particularly important when estimating the risk of post-TIPS decompensation?",
+              "options": [
+                "Cardiac function and evidence of right-sided heart failure",
+                "Carotid Doppler ultrasound",
+                "Bone mineral density",
+                "Audiometry"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "TIPS increases venous return and may precipitate cardiac decompensation; cardiopulmonary assessment is therefore important.",
+              "newInfo": "There is no active infection and renal function is preserved.",
+              "topic": "Portal, hepatic & dialysis access",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir01-c1q3",
+              "type": "single",
+              "question": "During creation of the TIPS tract, which structures are usually connected?",
+              "options": [
+                "A hepatic vein and a portal vein branch",
+                "The hepatic artery and portal vein",
+                "The inferior vena cava and renal artery",
+                "The splenic vein and inferior mesenteric vein"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "The intraparenchymal tract connects a hepatic vein with a portal vein branch.",
+              "imageFile": "Fluoroscopic image of transjugular intrahepatic portosystemic shunt (TIPS) in progress.jpg",
+              "imageKey": "ebir-tips-tract",
+              "topic": "Portal, hepatic & dialysis access",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir01-c1q4",
+              "type": "single",
+              "question": "The patient develops severe refractory hepatic encephalopathy after TIPS. Which interventional option may be considered?",
+              "options": [
+                "Increase the effective shunt diameter",
+                "Reduce the effective TIPS diameter",
+                "Embolise the common hepatic artery",
+                "Occlude the portal vein routinely"
+              ],
+              "correct": [
+                1
+              ],
+              "explanation": "TIPS reduction can decrease excessive portosystemic shunting in selected patients with refractory encephalopathy.",
+              "topic": "Portal, hepatic & dialysis access",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir01-c1q5",
+              "type": "single",
+              "question": "Which post-procedural finding most directly supports adequate portal decompression after TIPS?",
+              "options": [
+                "A clinically relevant fall in the portosystemic pressure gradient",
+                "An increase in portal venous pressure",
+                "Complete occlusion of the portal vein",
+                "New hepatic arterial thrombosis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Technical haemodynamic success is assessed by a meaningful reduction in the portosystemic pressure gradient.",
+              "topic": "Portal, hepatic & dialysis access",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Portal, hepatic & dialysis access",
+          "difficulty": "Intermediate",
+          "requiresImage": false,
+          "images": [
+            {
+              "imageKey": "ebir01-case1-media",
+              "imageQuery": "transjugular intrahepatic portosystemic shunt fluoroscopy"
+            }
+          ]
+        },
+        {
+          "id": "ebir01-case2",
+          "title": "Pelvic trauma embolisation",
+          "stem": "A haemodynamically unstable patient has an unstable pelvic fracture and arterial contrast extravasation on CT despite ongoing resuscitation.",
+          "questions": [
+            {
+              "id": "ebir01-c2q1",
+              "type": "single",
+              "question": "Which finding most strongly supports urgent angiography and embolisation?",
+              "options": [
+                "A stable haematoma without extravasation",
+                "Active arterial extravasation with persistent transfusion requirement",
+                "An isolated pelvic fracture in a stable patient",
+                "Pelvic pain without evidence of bleeding"
+              ],
+              "correct": [
+                1
+              ],
+              "explanation": "Active arterial bleeding with haemodynamic compromise is a classic indication for urgent endovascular haemostasis.",
+              "topic": "Embolisation & haemorrhage control",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir01-c2q2",
+              "type": "single",
+              "question": "A focal bleeding branch of the internal iliac artery is identified. What is the main advantage of selective embolisation when feasible?",
+              "options": [
+                "It treats the culprit vessel while limiting non-target ischaemia",
+                "It requires embolisation of the entire abdominal aorta",
+                "It avoids the need for angiographic confirmation",
+                "It guarantees that rebleeding cannot occur"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Selective treatment aims to control the culprit branch while preserving as much uninvolved pelvic circulation as possible.",
+              "topic": "Embolisation & haemorrhage control",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir01-c2q3",
+              "type": "multiple",
+              "question": "Which embolic agents may be appropriate depending on anatomy and bleeding pattern? Choose all that apply.",
+              "options": [
+                "Coils",
+                "Absorbable gelatin",
+                "Liquid embolic agents in selected situations",
+                "Room air as a standard embolic agent"
+              ],
+              "correct": [
+                0,
+                1,
+                2
+              ],
+              "explanation": "Coils, gelatin and selected liquid agents may all be appropriate; room air is not a standard therapeutic embolic agent.",
+              "topic": "Embolisation & haemorrhage control",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir01-c2q4",
+              "type": "order",
+              "question": "Place the following steps in a reasonable procedural order.",
+              "options": [
+                "Initial diagnostic angiography",
+                "Arterial access",
+                "Selective catheterisation of the suspected vessel",
+                "Embolisation followed by completion angiography"
+              ],
+              "correct": [
+                1,
+                0,
+                2,
+                3
+              ],
+              "explanation": "A logical sequence is arterial access, diagnostic angiography, selective catheterisation, then embolisation and completion angiography.",
+              "topic": "Embolisation & haemorrhage control",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir01-c2q5",
+              "type": "single",
+              "question": "Diffuse pelvic arterial bleeding persists without a single dominant culprit vessel. Which strategy may be reasonable in an unstable patient?",
+              "options": [
+                "More proximal internal iliac embolisation with a temporary agent when appropriate",
+                "Routine embolisation of the abdominal aorta",
+                "No treatment because no single branch is seen",
+                "Systemic thrombolysis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "In diffuse life-threatening pelvic arterial haemorrhage, less selective embolisation with a temporary agent can be appropriate when selective control is not feasible.",
+              "topic": "Embolisation & haemorrhage control",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Embolisation & haemorrhage control",
+          "difficulty": "Intermediate",
+          "requiresImage": false,
+          "images": [
+            {
+              "imageKey": "ebir01-case2-media",
+              "imageQuery": "pelvic arterial embolization angiography trauma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general-practice",
+      "title": "General clinical practice",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "ebir01-g1",
+          "type": "single",
+          "question": "For renovascular hypertension caused by renal artery fibromuscular dysplasia, the usual first-line endovascular treatment is:",
+          "options": [
+            "Balloon angioplasty without routine stenting",
+            "Routine covered stent placement",
+            "Total renal embolisation",
+            "Systemic thrombolysis"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Balloon angioplasty is usually preferred; stenting is reserved for selected complications or inadequate results.",
+          "topic": "Genitourinary & renal intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir01-g2",
+          "type": "single",
+          "question": "Which finding supports clinically relevant May-Thurner syndrome?",
+          "options": [
+            "Left common iliac vein compression with ipsilateral thrombosis and venous collaterals",
+            "An isolated right popliteal artery aneurysm",
+            "Superior mesenteric artery stenosis",
+            "Isolated internal jugular vein thrombosis"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Anatomical compression becomes clinically meaningful when accompanied by venous obstruction, thrombosis or collateralisation.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir01-g3",
+          "type": "single",
+          "question": "In life-threatening haemoptysis, the bleeding source most commonly arises from:",
+          "options": [
+            "The systemic bronchial circulation",
+            "The pulmonary artery in every case",
+            "The coronary circulation",
+            "The portal venous system"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Most severe haemoptysis treated by embolisation originates from hypertrophied bronchial or non-bronchial systemic arteries.",
+          "topic": "Embolisation & haemorrhage control",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir01-g4",
+          "type": "single",
+          "question": "The primary objective of uterine artery embolisation for fibroids is to:",
+          "options": [
+            "Occlude the proximal internal iliac arteries permanently",
+            "Reduce perfusion of the fibroid bed while avoiding non-target embolisation",
+            "Embolise both renal arteries",
+            "Perform uterine thrombolysis"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "UAE targets the uterine/fibroid arterial supply while preserving non-target pelvic territories.",
+          "topic": "Embolisation & haemorrhage control",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir01-g5",
+          "type": "single",
+          "question": "Catheter-directed therapy for acute iliofemoral DVT is most appropriately considered in:",
+          "options": [
+            "All patients with isolated distal DVT",
+            "Selected patients with extensive symptomatic iliofemoral DVT and low bleeding risk",
+            "Every patient receiving anticoagulation",
+            "Patients with chronic bilateral ankle oedema and no thrombosis"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Endovascular thrombus removal is reserved for selected patients; it does not routinely replace anticoagulation.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir01-g6",
+          "type": "single",
+          "question": "Which complication should be specifically considered after percutaneous thermal ablation of a renal tumour?",
+          "options": [
+            "Haemorrhage and thermal injury to adjacent structures",
+            "Otitis media",
+            "Routine splenic rupture",
+            "Expected carotid thrombosis"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Bleeding and injury to bowel, ureter or other adjacent structures are important procedure-related risks.",
+          "topic": "Interventional oncology",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir01-g7",
+          "type": "single",
+          "question": "In an infected obstructed collecting system, the immediate purpose of percutaneous nephrostomy is to:",
+          "options": [
+            "Decompress the collecting system",
+            "Perform definitive stone fragmentation in every case",
+            "Occlude the ureter",
+            "Close the renal pelvis"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Urgent drainage controls obstruction and infection; definitive treatment of the cause usually follows after stabilisation.",
+          "imageFile": "Nephrostomy, case 1, X-ray 2.jpg",
+          "imageKey": "ebir-nephrostomy",
+          "topic": "Non-vascular GI & hepatobiliary",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir01-g8",
+          "type": "single",
+          "question": "Which measure reduces occupational radiation exposure during fluoroscopic intervention?",
+          "options": [
+            "Maximise fluoroscopy time",
+            "Stand close to the X-ray tube whenever possible",
+            "Use collimation, shielding and distance appropriately",
+            "Remove protective shielding to improve access"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "Time, distance, shielding and collimation are fundamental principles of radiation protection.",
+          "topic": "Fundamentals & patient safety",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir01-g9",
+          "type": "single",
+          "question": "Which fluoroscopic practice most effectively reduces operator dose without compromising the procedure?",
+          "options": [
+            "Maximise distance from the X-ray source and use shielding appropriately",
+            "Place the operator closer to the tube",
+            "Use continuous fluoroscopy at the highest frame rate",
+            "Remove ceiling-suspended shielding"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Time, distance and shielding remain fundamental principles of radiation protection.",
+          "topic": "Fundamentals & patient safety",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir01-g10",
+          "type": "single",
+          "question": "For a painful osteoid osteoma, a commonly used image-guided treatment is:",
+          "options": [
+            "Percutaneous thermal ablation of the nidus",
+            "Portal vein embolisation",
+            "Biliary drainage",
+            "IVC filter placement"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Percutaneous thermal ablation is an established minimally invasive treatment for osteoid osteoma.",
+          "topic": "Musculoskeletal intervention",
+          "difficulty": "Intermediate"
+        }
+      ]
+    }
+  ]
+}

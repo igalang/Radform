@@ -1,0 +1,651 @@
+{
+  "id": "edir-01",
+  "kind": "edir",
+  "title": "EDiR Practice Set 1 · emergency and general radiology",
+  "subtitle": "Radform original question bank · English · used for adaptive practice sessions",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro original de Radform basado en la estructura publicada del EDiR. No contiene preguntas oficiales ni bancos de pago.",
+  "sections": [
+    {
+      "id": "mrq",
+      "title": "Multiple Response Questions",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "edir01-m1",
+          "type": "multiple",
+          "question": "Which CT findings support acute appendicitis? Choose all that apply.",
+          "options": [
+            "Dilated inflamed appendix",
+            "Periappendiceal fat stranding",
+            "An appendicolith may be present",
+            "Periappendiceal inflammation must always be absent"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Appendiceal enlargement and surrounding inflammatory change are typical; an appendicolith may be present.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m2",
+          "type": "multiple",
+          "question": "Which findings may occur in cardiogenic pulmonary oedema? Choose all that apply.",
+          "options": [
+            "Cardiomegaly",
+            "Bilateral perihilar air-space opacity",
+            "Pleural effusions",
+            "An isolated stable calcified granuloma"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Cardiomegaly, interstitial/alveolar oedema and pleural effusions may coexist.",
+          "topic": "Chest / thorax",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m3",
+          "type": "single",
+          "question": "Marked diffusion restriction with low ADC is most typical of:",
+          "options": [
+            "Acute ischaemic infarction",
+            "Simple arachnoid cyst",
+            "Physiological choroid plexus calcification",
+            "Subcutaneous lipoma"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Acute cytotoxic oedema characteristically restricts diffusion.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m4",
+          "type": "single",
+          "question": "Which feature of a solid renal mass increases concern for renal cell carcinoma?",
+          "options": [
+            "Enhancement after contrast administration",
+            "Macroscopic fat typical of a classic angiomyolipoma",
+            "A stable simple cyst appearance",
+            "Pure water attenuation with no enhancement"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Enhancement confirms vascularised solid tissue and raises concern for neoplasm.",
+          "topic": "Urogenital",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m5",
+          "type": "multiple",
+          "question": "Which mammographic findings warrant further assessment? Choose all that apply.",
+          "options": [
+            "Grouped pleomorphic microcalcifications",
+            "Architectural distortion",
+            "A new spiculated mass",
+            "A stable axillary node with a preserved fatty hilum as the only finding"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Suspicious calcification morphology, distortion and a spiculated mass require diagnostic work-up.",
+          "topic": "Breast",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m6",
+          "type": "single",
+          "question": "STIR imaging is particularly useful for:",
+          "options": [
+            "Suppressing fat and increasing conspicuity of oedema",
+            "Quantifying coronary calcium",
+            "Measuring bone mineral density on CT",
+            "Generating digital subtraction angiography"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "STIR suppresses fat signal and highlights fluid-rich abnormalities such as oedema.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m7",
+          "type": "single",
+          "question": "The direct CT pulmonary angiography sign of acute pulmonary embolism is:",
+          "options": [
+            "An intraluminal pulmonary arterial filling defect",
+            "Isolated splenomegaly",
+            "Pneumobilia",
+            "Diffuse bladder wall thickening"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Acute thrombus appears as a filling defect within an opacified pulmonary artery.",
+          "topic": "Chest / thorax",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m8",
+          "type": "multiple",
+          "question": "Which measures reduce radiation dose in paediatric CT? Choose all that apply.",
+          "options": [
+            "Adjust kVp/mAs to patient size",
+            "Limit scan length",
+            "Use iterative reconstruction when appropriate",
+            "Repeat multiphase acquisitions without clinical indication"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Patient-size adaptation, limiting coverage and modern reconstruction reduce unnecessary dose.",
+          "topic": "Paediatric",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m9",
+          "type": "multiple",
+          "question": "Which CT findings may indicate mechanical small-bowel obstruction? Choose all that apply.",
+          "options": [
+            "Dilated proximal small bowel",
+            "A transition point",
+            "Collapsed distal bowel",
+            "Uniformly normal calibre bowel with no transition"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Mechanical obstruction commonly produces proximal dilatation, a transition point and decompressed distal bowel.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m10",
+          "type": "single",
+          "question": "In acute subarachnoid haemorrhage, non-contrast CT most commonly demonstrates:",
+          "options": [
+            "Hyperattenuating blood in basal cisterns or sulci",
+            "Diffuse macroscopic fat in the ventricles",
+            "Isolated pleural thickening",
+            "A renal filling defect"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Acute subarachnoid blood is hyperattenuating on non-contrast CT and follows CSF spaces.",
+          "topic": "Neuroradiology",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m11",
+          "type": "single",
+          "question": "Which pulmonary nodule feature increases suspicion of malignancy?",
+          "options": [
+            "Spiculated margin",
+            "Dense central benign-pattern calcification only",
+            "Long-term stability over many years",
+            "Macroscopic fat typical of hamartoma"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Spiculation is a classic suspicious morphological feature.",
+          "topic": "Chest / thorax",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m12",
+          "type": "multiple",
+          "question": "Which strategies can reduce CT radiation dose? Choose all that apply.",
+          "options": [
+            "Automatic tube-current modulation",
+            "Appropriate reduction of scan length",
+            "Iterative reconstruction",
+            "Routine multiphase imaging without indication"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Dose optimisation includes limiting coverage/phases and using modern exposure modulation and reconstruction.",
+          "topic": "Imaging physics & radiation safety",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m13",
+          "type": "single",
+          "question": "A patient develops bronchospasm and hypotension immediately after iodinated contrast. The priority is:",
+          "options": [
+            "Recognise a severe immediate hypersensitivity reaction and begin emergency treatment",
+            "Continue contrast injection",
+            "Send the patient home without observation",
+            "Administer oral barium"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Airway, breathing and circulation take priority in a severe immediate contrast reaction.",
+          "topic": "Imaging pharmacology & contrast media",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m14",
+          "type": "single",
+          "question": "Which action is part of safe radiology management when a significant discrepancy is discovered after a final report?",
+          "options": [
+            "Communicate the corrected finding promptly and document the amendment",
+            "Delete the original study",
+            "Avoid informing the clinical team",
+            "Change the images"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Significant report amendments should be communicated and documented through a transparent process.",
+          "topic": "Management",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir01-m15",
+          "type": "single",
+          "question": "Which is an appropriate principle when administering iodinated contrast to a patient with previous severe immediate hypersensitivity?",
+          "options": [
+            "Reassess necessity, alternatives and risk-reduction strategy before proceeding",
+            "Repeat the same contrast without review",
+            "Assume all contrast agents are risk-free",
+            "Withhold all imaging permanently"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Previous severe reactions require individual risk assessment, consideration of alternatives and an appropriate prevention/emergency plan.",
+          "topic": "Imaging pharmacology & contrast media",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "short-cases",
+      "title": "Short Cases",
+      "type": "shortcases",
+      "cases": [
+        {
+          "id": "edir01-short1",
+          "title": "Right upper quadrant pain",
+          "stem": "A patient presents with fever and right upper quadrant pain. Ultrasound demonstrates gallstones, gallbladder wall thickening and pericholecystic fluid.",
+          "questions": [
+            {
+              "id": "edir01-s1q1",
+              "type": "single",
+              "question": "What is the most likely diagnosis?",
+              "options": [
+                "Acute cholecystitis",
+                "Acute appendicitis",
+                "Sigmoid diverticulitis",
+                "Chronic pancreatitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "The combination of gallstones, wall thickening and inflammatory change is typical of acute cholecystitis.",
+              "imageQuery": "acute cholecystitis ultrasound",
+              "imageKey": "edir-chole-us",
+              "topic": "Urogenital",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "edir01-s1q2",
+              "type": "single",
+              "question": "Which additional ultrasound finding would further support the diagnosis?",
+              "options": [
+                "A positive sonographic Murphy sign",
+                "A normal non-tender gallbladder",
+                "Absent gallstones with no inflammation",
+                "A simple renal cyst"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A focal sonographic Murphy sign is a useful supportive feature in the appropriate clinical setting.",
+              "topic": "Urogenital",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Urogenital",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir01-short1-media",
+              "imageQuery": "acute cholecystitis ultrasound gallbladder wall"
+            }
+          ]
+        },
+        {
+          "id": "edir01-short2",
+          "title": "Acute pleuritic chest pain",
+          "stem": "A young adult presents with sudden pleuritic chest pain and dyspnoea. Chest radiography is performed.",
+          "questions": [
+            {
+              "id": "edir01-s2q1",
+              "type": "single",
+              "question": "A visible visceral pleural line with absent peripheral lung markings indicates:",
+              "options": [
+                "Pneumothorax",
+                "Pulmonary oedema",
+                "Subpulmonic effusion",
+                "Round atelectasis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A pleural line with no lung markings peripheral to it is the classic radiographic appearance of pneumothorax.",
+              "imageFile": "Chest X-ray of pneumothorax.png",
+              "imageKey": "edir-pneumothorax",
+              "topic": "Chest / thorax",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "edir01-s2q2",
+              "type": "single",
+              "question": "Which radiographic feature would raise concern for tension physiology?",
+              "options": [
+                "Mediastinal shift away from a large pneumothorax in the appropriate clinical context",
+                "A small stable apical bleb",
+                "A calcified hilar node",
+                "Mild scoliosis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A large pneumothorax with contralateral mediastinal displacement may indicate tension physiology and requires urgent clinical action.",
+              "topic": "Chest / thorax",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Chest / thorax",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir01-short2-media",
+              "imageQuery": "pneumothorax chest x ray pleural line"
+            }
+          ]
+        },
+        {
+          "id": "edir01-short3",
+          "title": "Sudden severe headache",
+          "stem": "A 54-year-old patient presents with thunderclap headache and neck stiffness. Non-contrast head CT is performed.",
+          "topic": "Neuroradiology",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir-sc-sah",
+              "imageQuery": "subarachnoid hemorrhage CT basal cisterns"
+            }
+          ],
+          "questions": [
+            {
+              "id": "edir01-s5",
+              "type": "single",
+              "question": "What is the key abnormality?",
+              "options": [
+                "Acute subarachnoid haemorrhage",
+                "Chronic lacunar infarcts only",
+                "Normal basal cisterns",
+                "Diffuse cerebral fat"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Hyperattenuating blood within the basal cisterns/sulci is typical of acute SAH.",
+              "topic": "Neuroradiology"
+            },
+            {
+              "id": "edir01-s6",
+              "type": "single",
+              "question": "What should be recommended next in an appropriate clinical pathway?",
+              "options": [
+                "Urgent vascular assessment for an aneurysmal source",
+                "Routine annual chest radiograph",
+                "No further evaluation",
+                "Bone scintigraphy"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Aneurysmal SAH requires urgent vascular evaluation and multidisciplinary management.",
+              "topic": "Neuroradiology"
+            }
+          ]
+        },
+        {
+          "id": "edir01-short4",
+          "title": "Acute dyspnoea after immobilisation",
+          "stem": "A 68-year-old patient develops sudden dyspnoea after prolonged immobilisation. CT pulmonary angiography is performed.",
+          "topic": "Chest / thorax",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir-sc-pe",
+              "imageQuery": "pulmonary embolism CT angiography filling defect"
+            }
+          ],
+          "questions": [
+            {
+              "id": "edir01-s7",
+              "type": "single",
+              "question": "What is the most likely diagnosis?",
+              "options": [
+                "Acute pulmonary embolism",
+                "Aortic coarctation",
+                "Pneumoperitoneum",
+                "Pericardial cyst"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "An intraluminal pulmonary arterial filling defect is diagnostic of pulmonary embolism.",
+              "topic": "Chest / thorax"
+            },
+            {
+              "id": "edir01-s8",
+              "type": "single",
+              "question": "Which additional CT feature is relevant for risk stratification?",
+              "options": [
+                "Evidence of right-ventricular strain",
+                "Gallbladder sludge",
+                "Renal cortical scarring",
+                "Thyroid calcification"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "CT signs of RV strain can indicate haemodynamic impact and should be reported.",
+              "topic": "Chest / thorax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "CORE Cases",
+      "type": "core",
+      "cases": [
+        {
+          "id": "edir01-core1",
+          "title": "Acute aortic syndrome",
+          "stem": "A 64-year-old man presents with sudden severe chest pain radiating to the back. CTA of the aorta is performed.",
+          "questions": [
+            {
+              "id": "edir01-core1q1",
+              "type": "single",
+              "question": "An intimal flap separating true and false lumina indicates:",
+              "options": [
+                "Aortic dissection",
+                "Subsegmental pulmonary embolism",
+                "Pericarditis",
+                "Ventricular aneurysm"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "An intimal flap defining two channels is diagnostic of aortic dissection.",
+              "weight": 3,
+              "imageQuery": "aortic dissection CT",
+              "imageKey": "edir-aortic-dissection",
+              "topic": "Chest / thorax",
+              "difficulty": "Intermediate",
+              "domain": "Observation"
+            },
+            {
+              "id": "edir01-core1q2",
+              "type": "single",
+              "question": "If the ascending aorta is involved, the Stanford classification is:",
+              "options": [
+                "Type A",
+                "Type B",
+                "Type C",
+                "Unclassifiable"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Any dissection involving the ascending aorta is Stanford type A.",
+              "weight": 3,
+              "topic": "Chest / thorax",
+              "difficulty": "Intermediate",
+              "domain": "Interpretation"
+            },
+            {
+              "id": "edir01-core1q3",
+              "type": "single",
+              "question": "Which response would be potentially unsafe?",
+              "options": [
+                "Urgently communicate a Stanford type A dissection",
+                "Recommend urgent cardiothoracic surgical assessment",
+                "Describe the finding as incidental and clinically insignificant",
+                "Assess for branch-vessel malperfusion"
+              ],
+              "correct": [
+                2
+              ],
+              "explanation": "Failure to recognise and communicate a type A dissection may have catastrophic consequences.",
+              "weight": 4,
+              "unsafeOptions": [
+                2
+              ],
+              "topic": "Chest / thorax",
+              "difficulty": "Intermediate",
+              "domain": "Management & safety"
+            }
+          ],
+          "topic": "Chest / thorax",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir01-core1-media",
+              "imageQuery": "aortic dissection CT intimal flap"
+            }
+          ]
+        },
+        {
+          "id": "edir01-core2",
+          "title": "Acute focal neurological deficit",
+          "stem": "A 72-year-old woman presents 80 minutes after onset of aphasia and right-sided weakness.",
+          "questions": [
+            {
+              "id": "edir01-core2q1",
+              "type": "single",
+              "question": "What is the primary purpose of the initial non-contrast CT?",
+              "options": [
+                "Exclude intracranial haemorrhage and assess early ischaemic change",
+                "Diagnose multiple sclerosis",
+                "Assess renal perfusion",
+                "Exclude ureteric calculi"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Non-contrast CT rapidly excludes haemorrhage and provides information on early ischaemic change.",
+              "weight": 3,
+              "topic": "Abdominal",
+              "difficulty": "Intermediate",
+              "domain": "Observation"
+            },
+            {
+              "id": "edir01-core2q2",
+              "type": "single",
+              "question": "A left M1 occlusion on CTA would be concordant with:",
+              "options": [
+                "Aphasia and right hemiparesis",
+                "Isolated left leg weakness from a spinal lesion",
+                "Isolated sixth nerve palsy",
+                "Low back pain"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A dominant left middle cerebral artery occlusion can cause aphasia and contralateral motor deficit.",
+              "weight": 3,
+              "topic": "Abdominal",
+              "difficulty": "Intermediate",
+              "domain": "Interpretation"
+            },
+            {
+              "id": "edir01-core2q3",
+              "type": "single",
+              "question": "Which radiology action would be potentially unsafe?",
+              "options": [
+                "Rapidly communicating a proximal large-vessel occlusion",
+                "Deliberately delaying the report for several hours despite a treatment window",
+                "Assessing collateral circulation",
+                "Integrating non-contrast CT and CTA findings"
+              ],
+              "correct": [
+                1
+              ],
+              "explanation": "Avoidable delay can remove access to time-dependent reperfusion therapy.",
+              "weight": 4,
+              "unsafeOptions": [
+                1
+              ],
+              "topic": "Abdominal",
+              "difficulty": "Intermediate",
+              "domain": "Management & safety"
+            }
+          ],
+          "topic": "Abdominal",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir01-core2-media",
+              "imageQuery": "acute ischemic stroke CT angiography large vessel occlusion"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

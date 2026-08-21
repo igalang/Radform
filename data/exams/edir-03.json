@@ -1,0 +1,647 @@
+{
+  "id": "edir-03",
+  "kind": "edir",
+  "title": "EDiR Practice Set 3 · neuro, chest and oncologic imaging",
+  "subtitle": "Radform original question bank · English · used for adaptive practice sessions",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro original de Radform basado en la estructura publicada del EDiR. No contiene preguntas oficiales ni bancos de pago.",
+  "sections": [
+    {
+      "id": "mrq",
+      "title": "Multiple Response Questions",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "edir03-m1",
+          "type": "multiple",
+          "question": "Which findings support a hilar cholangiocarcinoma? Choose all that apply.",
+          "options": [
+            "Irregular hilar biliary stricture",
+            "Upstream intrahepatic duct dilatation",
+            "Delayed fibrous enhancement may occur",
+            "A simple renal cyst"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "An irregular hilar stricture with upstream dilatation and fibrous enhancement is typical.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m2",
+          "type": "multiple",
+          "question": "Which features suggest an aggressive bone lesion? Choose all that apply.",
+          "options": [
+            "Wide zone of transition",
+            "Cortical destruction",
+            "Aggressive periosteal reaction",
+            "A thin stable sclerotic rim as the only finding"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "A wide transition zone, cortical destruction and aggressive periosteal response indicate aggressive biology.",
+          "topic": "Musculoskeletal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m3",
+          "type": "single",
+          "question": "Material that is high signal on T1 and suppresses on fat-saturated imaging is most likely:",
+          "options": [
+            "Fat",
+            "Free water",
+            "Calcium",
+            "Air"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Fat is typically T1 hyperintense and suppresses with fat-suppression techniques.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m4",
+          "type": "single",
+          "question": "Which finding is particularly concerning in invasive fungal sinusitis?",
+          "options": [
+            "Extrasinus spread with orbital or vascular involvement",
+            "Mild isolated mucosal thickening",
+            "Simple septal deviation",
+            "Turbinate hypertrophy without invasion"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Extrasinus extension and vascular/orbital invasion are signs of aggressive invasive disease.",
+          "topic": "Head & neck",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m5",
+          "type": "multiple",
+          "question": "Which findings are compatible with aortic coarctation? Choose all that apply.",
+          "options": [
+            "Focal narrowing at the aortic isthmus",
+            "Enlarged intercostal collaterals",
+            "Inferior rib notching in longstanding cases",
+            "A cerebral aneurysm is mandatory"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Isthmic narrowing and systemic collateralisation are classic features.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m6",
+          "type": "single",
+          "question": "In a cirrhotic liver, a focal lesion with non-rim arterial hyperenhancement and washout should raise concern for:",
+          "options": [
+            "Hepatocellular carcinoma",
+            "Simple cyst",
+            "A classic haemangioma in every case",
+            "Abscess by definition"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "In an appropriate high-risk population, this enhancement pattern is characteristic of HCC.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m7",
+          "type": "single",
+          "question": "Portal venous gas in a patient with severe abdominal pain and CT signs of bowel ischaemia:",
+          "options": [
+            "May indicate advanced ischaemic injury and requires urgent assessment",
+            "Is always benign",
+            "Excludes bowel necrosis",
+            "Should not be communicated"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Portal venous gas can be a serious finding when combined with clinical and imaging evidence of bowel ischaemia.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m8",
+          "type": "multiple",
+          "question": "Which approaches can reduce metal artefact on CT? Choose all that apply.",
+          "options": [
+            "Higher photon energy in selected cases",
+            "Dedicated metal artefact reduction reconstruction",
+            "Optimised patient positioning",
+            "Always reducing mAs to the lowest possible value regardless of noise"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Acquisition optimisation and dedicated reconstruction can reduce metal artefact.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m9",
+          "type": "multiple",
+          "question": "Which ultrasound findings support ileocolic intussusception in a child? Choose all that apply.",
+          "options": [
+            "Target or doughnut sign",
+            "Concentric bowel rings",
+            "Pseudokidney appearance longitudinally",
+            "A completely normal bowel wall pattern"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Characteristic concentric rings and the longitudinal pseudokidney appearance support intussusception.",
+          "topic": "Paediatric",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m10",
+          "type": "single",
+          "question": "A radiologist identifies a critical unexpected intracranial haemorrhage. Appropriate management includes:",
+          "options": [
+            "Prompt direct communication to the responsible clinical team and documentation",
+            "Waiting for the routine report to be read the following week",
+            "Deleting the finding from the report",
+            "Communicating only if the patient calls"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Critical findings require timely communication through an appropriate closed-loop process.",
+          "topic": "Management",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m11",
+          "type": "single",
+          "question": "Which is a recognised complication of percutaneous transthoracic lung biopsy?",
+          "options": [
+            "Pneumothorax",
+            "Portal vein thrombosis in every case",
+            "Acute appendicitis",
+            "Biliary obstruction"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Pneumothorax is one of the most common complications of transthoracic lung biopsy.",
+          "topic": "Interventional & vascular",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m12",
+          "type": "multiple",
+          "question": "Which HRCT findings support a usual interstitial pneumonia pattern? Choose all that apply.",
+          "options": [
+            "Basal and subpleural reticulation",
+            "Traction bronchiectasis",
+            "Honeycombing",
+            "Diffuse centrilobular nodules as the dominant pattern"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "UIP is characterised by basal/subpleural fibrotic change, traction bronchiectasis and often honeycombing.",
+          "topic": "Chest / thorax",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m13",
+          "type": "single",
+          "question": "On CT venography, a filling defect within a dural venous sinus with compatible symptoms suggests:",
+          "options": [
+            "Cerebral venous sinus thrombosis",
+            "Normal arachnoid granulation in every circumstance",
+            "Acute cholecystitis",
+            "Pulmonary embolism"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Venous sinus thrombosis may appear as a filling defect and requires clinical/imaging correlation.",
+          "topic": "Neuroradiology",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m14",
+          "type": "multiple",
+          "question": "Before an image-guided biopsy, which factors should be reviewed? Choose all that apply.",
+          "options": [
+            "A safe access route",
+            "Bleeding risk and antithrombotic medication",
+            "Whether tissue sampling will change management",
+            "The patient’s shoe size"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Appropriateness, access planning and haemostatic risk are core pre-procedural considerations.",
+          "topic": "Interventional & vascular",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir03-m15",
+          "type": "single",
+          "question": "Which process best reduces the risk of wrong-patient or wrong-site radiological procedures?",
+          "options": [
+            "Structured identity, procedure and site verification before intervention",
+            "Relying only on room number",
+            "Skipping consent and imaging review",
+            "Using an unlabelled specimen"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Standardised pre-procedural verification reduces preventable procedural errors.",
+          "topic": "Management",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "short-cases",
+      "title": "Short Cases",
+      "type": "shortcases",
+      "cases": [
+        {
+          "id": "edir03-short1",
+          "title": "Obstructing ureteric stone",
+          "stem": "Non-contrast CT shows a distal ureteric calculus with ipsilateral hydroureteronephrosis.",
+          "questions": [
+            {
+              "id": "edir03-s1q1",
+              "type": "single",
+              "question": "What is the principal imaging diagnosis?",
+              "options": [
+                "Obstructive uropathy due to a ureteric calculus",
+                "Isolated cystitis",
+                "Hepatitis",
+                "Pancreatitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A ureteric calculus with proximal collecting-system dilatation indicates obstruction.",
+              "topic": "Urogenital",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "edir03-s1q2",
+              "type": "single",
+              "question": "Which additional CT finding would increase concern for an infected obstructed system?",
+              "options": [
+                "Perinephric inflammatory change in a febrile patient",
+                "A simple contralateral renal cyst",
+                "Normal bladder filling",
+                "A phlebolith remote from the ureter"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Inflammatory change combined with clinical sepsis increases concern for infected obstruction.",
+              "topic": "Urogenital",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Urogenital",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir03-short1-media",
+              "imageQuery": "ureteric stone CT hydronephrosis"
+            }
+          ]
+        },
+        {
+          "id": "edir03-short2",
+          "title": "Displaced femoral neck fracture",
+          "stem": "An elderly patient has a displaced intracapsular fracture of the femoral neck.",
+          "questions": [
+            {
+              "id": "edir03-s2q1",
+              "type": "single",
+              "question": "Which important complication is associated with this injury?",
+              "options": [
+                "Avascular necrosis of the femoral head",
+                "Shoulder dislocation",
+                "Splenic rupture",
+                "Cholangitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Disruption of retinacular blood supply places the femoral head at risk of avascular necrosis.",
+              "topic": "Head & neck",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "edir03-s2q2",
+              "type": "single",
+              "question": "Why does the intracapsular location matter?",
+              "options": [
+                "The blood supply to the femoral head may be disrupted",
+                "It guarantees union",
+                "It excludes displacement",
+                "It prevents haemarthrosis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Intracapsular fractures may disrupt the vessels supplying the femoral head and also carry a risk of non-union.",
+              "topic": "Head & neck",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Head & neck",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir03-short2-media",
+              "imageQuery": "femoral neck fracture x ray displaced"
+            }
+          ]
+        },
+        {
+          "id": "edir03-short3",
+          "title": "Vomiting and abdominal distension",
+          "stem": "An adult presents with colicky abdominal pain, vomiting and distension. Contrast-enhanced CT is performed.",
+          "topic": "Abdominal",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir-sc-sbo",
+              "imageQuery": "small bowel obstruction CT transition point"
+            }
+          ],
+          "questions": [
+            {
+              "id": "edir03-s5",
+              "type": "single",
+              "question": "What is the principal diagnosis?",
+              "options": [
+                "Mechanical small-bowel obstruction",
+                "Acute cholecystitis",
+                "Renal infarction",
+                "Simple ascites"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Dilated proximal small bowel with a transition to decompressed bowel indicates mechanical obstruction.",
+              "topic": "Abdominal"
+            },
+            {
+              "id": "edir03-s6",
+              "type": "single",
+              "question": "Which finding would raise concern for strangulation?",
+              "options": [
+                "Reduced mural enhancement with mesenteric congestion",
+                "A simple hepatic cyst",
+                "Normal mesenteric vessels",
+                "An uncomplicated diverticulum"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Reduced enhancement and mesenteric/venous abnormalities can indicate compromised perfusion.",
+              "topic": "Abdominal"
+            }
+          ]
+        },
+        {
+          "id": "edir03-short4",
+          "title": "Sudden focal deficit and headache",
+          "stem": "A patient presents with acute neurological symptoms. Non-contrast CT shows an extra-axial hyperdense collection.",
+          "topic": "Neuroradiology",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir-sc-subdural",
+              "imageQuery": "acute subdural hematoma CT crescentic"
+            }
+          ],
+          "questions": [
+            {
+              "id": "edir03-s7",
+              "type": "single",
+              "question": "A crescentic extra-axial collection is most consistent with:",
+              "options": [
+                "Subdural haematoma",
+                "Epidural haematoma",
+                "Intraventricular tumour",
+                "Arachnoid cyst"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Subdural blood spreads along the cerebral convexity and is typically crescentic.",
+              "topic": "Neuroradiology"
+            },
+            {
+              "id": "edir03-s8",
+              "type": "single",
+              "question": "Which feature should be specifically reported?",
+              "options": [
+                "Mass effect and midline shift",
+                "Gallbladder wall thickness",
+                "Renal artery anatomy",
+                "Pulmonary nodule size"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Mass effect and shift influence urgency and neurosurgical management.",
+              "topic": "Neuroradiology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "CORE Cases",
+      "type": "core",
+      "cases": [
+        {
+          "id": "edir03-core1",
+          "title": "Acute mesenteric ischaemia",
+          "stem": "A 75-year-old patient with atrial fibrillation has sudden severe abdominal pain and an elevated lactate. CTA is performed.",
+          "questions": [
+            {
+              "id": "edir03-core1q1",
+              "type": "single",
+              "question": "A proximal superior mesenteric artery filling defect most strongly supports:",
+              "options": [
+                "Acute arterial mesenteric ischaemia",
+                "Chronic ulcerative colitis",
+                "Appendicitis",
+                "Autoimmune pancreatitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Acute arterial occlusion in this clinical context is highly suspicious for embolic mesenteric ischaemia.",
+              "weight": 3,
+              "topic": "Abdominal",
+              "difficulty": "Intermediate",
+              "domain": "Observation"
+            },
+            {
+              "id": "edir03-core1q2",
+              "type": "single",
+              "question": "Which bowel finding most increases concern for infarction?",
+              "options": [
+                "Absent mural enhancement with pneumatosis and portal venous gas in the appropriate context",
+                "Normal homogeneous bowel enhancement",
+                "Stool in the colon",
+                "Uncomplicated diverticulosis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Loss of enhancement and intramural/portal gas are worrying signs of advanced bowel ischaemia.",
+              "weight": 3,
+              "topic": "Abdominal",
+              "difficulty": "Intermediate",
+              "domain": "Interpretation"
+            },
+            {
+              "id": "edir03-core1q3",
+              "type": "single",
+              "question": "Which report would be potentially unsafe?",
+              "options": [
+                "Calling the arterial occlusion an incidental chronic finding despite acute symptoms",
+                "Urgently communicating the vascular occlusion",
+                "Describing bowel viability signs",
+                "Looking for additional embolic events"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Failure to recognise acute mesenteric ischaemia can lead to bowel loss and death.",
+              "weight": 4,
+              "unsafeOptions": [
+                0
+              ],
+              "topic": "Abdominal",
+              "difficulty": "Intermediate",
+              "domain": "Management & safety"
+            }
+          ],
+          "topic": "Abdominal",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir03-core1-media",
+              "imageQuery": "acute mesenteric ischemia CT angiography SMA occlusion"
+            }
+          ]
+        },
+        {
+          "id": "edir03-core2",
+          "title": "Posterior fossa mass in a child",
+          "stem": "A 9-year-old child presents with headache and vomiting. Imaging shows hydrocephalus and a posterior fossa mass.",
+          "questions": [
+            {
+              "id": "edir03-core2q1",
+              "type": "single",
+              "question": "A posterior fossa mass obstructing the fourth ventricle can cause:",
+              "options": [
+                "Obstructive hydrocephalus",
+                "Portal hypertension",
+                "Hydronephrosis",
+                "Pneumothorax"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Obstruction of CSF pathways at the fourth ventricle can cause upstream hydrocephalus.",
+              "weight": 3,
+              "topic": "Neuroradiology",
+              "difficulty": "Intermediate",
+              "domain": "Observation"
+            },
+            {
+              "id": "edir03-core2q2",
+              "type": "single",
+              "question": "Which features should be specifically assessed in the report?",
+              "options": [
+                "Mass effect, hydrocephalus, herniation and tumour extent",
+                "Only maxillary sinus size",
+                "Renal dimensions",
+                "Lumbar bone density"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "These findings determine urgency and surgical planning.",
+              "weight": 3,
+              "topic": "Neuroradiology",
+              "difficulty": "Intermediate",
+              "domain": "Interpretation"
+            },
+            {
+              "id": "edir03-core2q3",
+              "type": "single",
+              "question": "Which omission would be potentially unsafe?",
+              "options": [
+                "Failing to mention imaging signs of impending herniation",
+                "Communicating marked hydrocephalus",
+                "Describing brainstem compression",
+                "Recommending urgent specialist assessment"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Omission of impending herniation may delay emergency treatment.",
+              "weight": 4,
+              "unsafeOptions": [
+                0
+              ],
+              "topic": "Neuroradiology",
+              "difficulty": "Intermediate",
+              "domain": "Management & safety"
+            }
+          ],
+          "topic": "Neuroradiology",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir03-core2-media",
+              "imageQuery": "posterior fossa tumor child MRI"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

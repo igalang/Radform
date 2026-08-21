@@ -1,0 +1,648 @@
+{
+  "id": "edir-05",
+  "kind": "edir",
+  "title": "EDiR Practice Set 5 · musculoskeletal, paediatric and urogenital imaging",
+  "subtitle": "Radform original question bank · English · used for adaptive practice sessions",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro original de Radform basado en la estructura publicada del EDiR. No contiene preguntas oficiales ni bancos de pago.",
+  "sections": [
+    {
+      "id": "mrq",
+      "title": "Multiple Response Questions",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "edir05-m1",
+          "type": "multiple",
+          "question": "Which MRI findings support vertebral osteomyelitis/discitis? Choose all that apply.",
+          "options": [
+            "Endplate marrow oedema",
+            "Abnormal adjacent disc signal",
+            "Paravertebral enhancement",
+            "An epidural abscess may coexist"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Infection may involve endplates, disc and paravertebral/epidural soft tissues.",
+          "topic": "Neuroradiology",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m2",
+          "type": "multiple",
+          "question": "Which ultrasound findings may occur in ovarian torsion? Choose all that apply.",
+          "options": [
+            "Enlarged ovary",
+            "Peripheral follicles",
+            "Reduced or absent flow, although preserved flow does not exclude torsion",
+            "Twisted vascular pedicle"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Torsion is diagnosed by integrating ovarian morphology, vascular findings and clinical presentation.",
+          "topic": "Urogenital",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m3",
+          "type": "single",
+          "question": "Ultrasound is useful in paediatric hydronephrosis primarily to:",
+          "options": [
+            "Assess collecting-system dilatation and renal parenchyma",
+            "Quantify coronary calcium",
+            "Diagnose pulmonary embolism",
+            "Assess the knee meniscus"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Ultrasound provides a radiation-free assessment of the urinary tract.",
+          "topic": "Paediatric",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m4",
+          "type": "single",
+          "question": "Early stress injury of bone is often most sensitively detected with:",
+          "options": [
+            "MRI",
+            "Plain radiography within the first few hours in every case",
+            "Mammography",
+            "ERCP"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "MRI can detect marrow oedema before a fracture line becomes radiographically visible.",
+          "topic": "Musculoskeletal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m5",
+          "type": "multiple",
+          "question": "Which ultrasound features favour a simple ovarian cyst? Choose all that apply.",
+          "options": [
+            "Anechoic content",
+            "Thin smooth wall",
+            "Posterior acoustic enhancement",
+            "No solid component"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "These are typical benign sonographic features of a simple cyst.",
+          "topic": "Urogenital",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m6",
+          "type": "single",
+          "question": "PI-RADS assessment of the prostate principally integrates:",
+          "options": [
+            "T2-weighted imaging, diffusion and dynamic contrast according to zone/context",
+            "Plain radiography only",
+            "Bone PET only",
+            "Abdominal ultrasound only"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Multiparametric prostate MRI relies primarily on T2 and DWI, with DCE used in defined circumstances.",
+          "topic": "Urogenital",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m7",
+          "type": "single",
+          "question": "Whole-body MRI is particularly sensitive for detecting:",
+          "options": [
+            "Bone marrow infiltration by metastatic disease",
+            "Gallstones",
+            "Pneumothorax",
+            "Appendicitis"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "MRI is highly sensitive to marrow replacement and can survey the skeleton without ionising radiation.",
+          "topic": "Imaging physics & radiation safety",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m8",
+          "type": "multiple",
+          "question": "Which ultrasound appearances are typical of intussusception? Choose all that apply.",
+          "options": [
+            "Target/doughnut sign",
+            "Pseudokidney appearance longitudinally",
+            "Concentric bowel wall layers",
+            "Portal venous gas is mandatory"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Characteristic concentric and pseudokidney appearances support the diagnosis.",
+          "topic": "Paediatric",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m9",
+          "type": "single",
+          "question": "Which Doppler finding most strongly supports acute testicular torsion?",
+          "options": [
+            "Reduced or absent intratesticular flow compared with the contralateral side",
+            "Markedly increased symmetric flow in both testes",
+            "Isolated simple hydrocele",
+            "A normal epididymis with no symptoms"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Reduced perfusion is a critical finding, although preserved flow does not completely exclude torsion.",
+          "topic": "Urogenital",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m10",
+          "type": "single",
+          "question": "Ultrasound findings of hypertrophic pyloric stenosis include:",
+          "options": [
+            "Thickened elongated pyloric muscle with impaired gastric emptying",
+            "Target sign in the right colon",
+            "Absent bladder filling",
+            "Dilated common bile duct"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Pyloric muscle hypertrophy and elongation are characteristic.",
+          "topic": "Paediatric",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m11",
+          "type": "single",
+          "question": "MRI findings that support septic arthritis may include:",
+          "options": [
+            "Joint effusion, synovial enhancement and adjacent marrow/soft-tissue inflammation",
+            "Only a chronic osteophyte",
+            "A normal joint with no effusion",
+            "Isolated meniscal degeneration"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Septic arthritis can produce effusion, synovitis and adjacent inflammatory change.",
+          "topic": "Musculoskeletal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m12",
+          "type": "multiple",
+          "question": "MR enterography features of active Crohn disease may include: Choose all that apply.",
+          "options": [
+            "Mural hyperenhancement",
+            "Wall thickening",
+            "Restricted diffusion and comb sign",
+            "Uniformly thin non-enhancing bowel wall"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Active inflammation can produce thickening, hyperenhancement, diffusion restriction and engorged vasa recta.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m13",
+          "type": "single",
+          "question": "An incidental adrenal mass containing macroscopic fat is most consistent with:",
+          "options": [
+            "Myelolipoma",
+            "Pheochromocytoma by definition",
+            "Metastasis in every case",
+            "Simple renal cyst"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Macroscopic fat is characteristic of adrenal myelolipoma.",
+          "topic": "Abdominal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m14",
+          "type": "single",
+          "question": "A diagnostic error is identified during multidisciplinary review. A constructive quality-improvement response is to:",
+          "options": [
+            "Analyse contributing factors and use the case for system learning",
+            "Hide the case from audit",
+            "Alter the images retrospectively",
+            "Avoid documenting any correction"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Learning systems focus on transparent review, contributing factors and prevention.",
+          "topic": "Management",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir05-m15",
+          "type": "single",
+          "question": "For a symptomatic abscess amenable to image-guided drainage, a basic interventional principle is to:",
+          "options": [
+            "Choose the safest effective percutaneous route and provide source control",
+            "Traverse uninvolved bowel intentionally whenever possible",
+            "Ignore coagulation status",
+            "Use no imaging guidance"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Percutaneous drainage requires safe access planning and effective source control.",
+          "topic": "Interventional & vascular",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "short-cases",
+      "title": "Short Cases",
+      "type": "shortcases",
+      "cases": [
+        {
+          "id": "edir05-short1",
+          "title": "Distal ureteric obstruction",
+          "stem": "Non-contrast CT shows a distal ureteric stone and ipsilateral hydroureteronephrosis.",
+          "questions": [
+            {
+              "id": "edir05-s1q1",
+              "type": "single",
+              "question": "What is the principal diagnosis?",
+              "options": [
+                "Obstructive uropathy due to ureteric calculus",
+                "Isolated cystitis",
+                "Hepatitis",
+                "Meningitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A ureteric stone with upstream dilatation indicates obstruction.",
+              "topic": "Urogenital",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "edir05-s1q2",
+              "type": "single",
+              "question": "Which CT feature would suggest a complication requiring urgent clinical attention in the appropriate context?",
+              "options": [
+                "Marked perinephric inflammatory change in a febrile septic patient",
+                "A tiny contralateral renal cyst",
+                "Normal bowel gas",
+                "A pelvic phlebolith"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Infection combined with obstruction is a urological emergency.",
+              "topic": "Urogenital",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Urogenital",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir05-short1-media",
+              "imageQuery": "ureteric calculus CT hydronephrosis"
+            }
+          ]
+        },
+        {
+          "id": "edir05-short2",
+          "title": "Acute paediatric scrotum",
+          "stem": "A 15-year-old boy presents with sudden severe unilateral testicular pain and nausea. Doppler ultrasound is performed.",
+          "questions": [
+            {
+              "id": "edir05-s2q1",
+              "type": "single",
+              "question": "Which finding most strongly supports testicular torsion?",
+              "options": [
+                "Markedly reduced intratesticular flow compared with the contralateral testis",
+                "A small simple hydrocele alone",
+                "A normal epididymis",
+                "Symmetric hyperaemia"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Reduced perfusion in the appropriate clinical setting is highly concerning for torsion.",
+              "imageQuery": "testicular torsion ultrasound Doppler",
+              "imageKey": "edir05-torsion",
+              "topic": "Paediatric",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "edir05-s2q2",
+              "type": "single",
+              "question": "Which additional sign may be seen?",
+              "options": [
+                "Twisted spermatic cord (whirlpool sign)",
+                "Gallbladder wall thickening",
+                "Portal venous gas",
+                "Carotid intimal flap"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "The whirlpool sign of a twisted cord is a direct sign of torsion.",
+              "topic": "Paediatric",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Paediatric",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir05-short2-media",
+              "imageQuery": "testicular torsion ultrasound absent blood flow"
+            }
+          ]
+        },
+        {
+          "id": "edir05-short3",
+          "title": "Intermittent crying and red currant jelly stool",
+          "stem": "An infant presents with episodic abdominal pain and vomiting. Ultrasound is performed.",
+          "topic": "Paediatric",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir-sc-intussusception",
+              "imageQuery": "intussusception ultrasound target sign child"
+            }
+          ],
+          "questions": [
+            {
+              "id": "edir05-s5",
+              "type": "single",
+              "question": "What is the most likely diagnosis?",
+              "options": [
+                "Intussusception",
+                "Hypertrophic pyloric stenosis",
+                "Acute appendicitis",
+                "Volvulus of the sigmoid colon"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "The target/doughnut appearance is characteristic of intussusception.",
+              "topic": "Paediatric"
+            },
+            {
+              "id": "edir05-s6",
+              "type": "single",
+              "question": "In an uncomplicated ileocolic case, image-guided treatment commonly consists of:",
+              "options": [
+                "Pneumatic or hydrostatic reduction according to local practice",
+                "Routine nephrostomy",
+                "Bronchial artery embolisation",
+                "No treatment"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Non-operative enema reduction is standard in suitable uncomplicated ileocolic intussusception.",
+              "topic": "Paediatric"
+            }
+          ]
+        },
+        {
+          "id": "edir05-short4",
+          "title": "Nocturnal focal bone pain relieved by NSAIDs",
+          "stem": "A young adult has focal nocturnal tibial pain. CT demonstrates a small cortical lucent nidus with surrounding sclerosis.",
+          "topic": "Musculoskeletal",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir-sc-osteoid",
+              "imageQuery": "osteoid osteoma CT nidus tibia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "edir05-s7",
+              "type": "single",
+              "question": "What is the most likely diagnosis?",
+              "options": [
+                "Osteoid osteoma",
+                "Osteosarcoma",
+                "Bone infarct",
+                "Simple bone cyst"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A small nidus with reactive sclerosis and typical pain is characteristic of osteoid osteoma.",
+              "topic": "Musculoskeletal"
+            },
+            {
+              "id": "edir05-s8",
+              "type": "single",
+              "question": "Which modality best demonstrates the nidus for procedural planning?",
+              "options": [
+                "Thin-section CT",
+                "Chest radiography",
+                "Mammography",
+                "Fluoroscopy without prior cross-sectional imaging"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "CT depicts the nidus accurately and is commonly used for planning percutaneous treatment.",
+              "topic": "Musculoskeletal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "CORE Cases",
+      "type": "core",
+      "cases": [
+        {
+          "id": "edir05-core1",
+          "title": "Testicular torsion",
+          "stem": "An adolescent presents with sudden testicular pain. Ultrasound shows an enlarged heterogeneous testis with markedly reduced perfusion.",
+          "questions": [
+            {
+              "id": "edir05-core1q1",
+              "type": "single",
+              "question": "What is the most likely diagnosis?",
+              "options": [
+                "Testicular torsion",
+                "Varicocele",
+                "Simple hydrocele",
+                "Chronic epididymitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Acute pain with markedly reduced perfusion is highly suspicious for torsion.",
+              "weight": 3,
+              "topic": "Urogenital",
+              "difficulty": "Intermediate",
+              "domain": "Observation"
+            },
+            {
+              "id": "edir05-core1q2",
+              "type": "single",
+              "question": "What is the appropriate reporting priority?",
+              "options": [
+                "Immediate communication because testicular viability is time-dependent",
+                "Routine annual follow-up",
+                "No communication required",
+                "MRI in six months"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Torsion requires urgent surgical assessment.",
+              "weight": 3,
+              "topic": "Urogenital",
+              "difficulty": "Intermediate",
+              "domain": "Interpretation"
+            },
+            {
+              "id": "edir05-core1q3",
+              "type": "single",
+              "question": "Which response would be potentially unsafe?",
+              "options": [
+                "Reporting the examination as normal despite clear signs of torsion",
+                "Urgently contacting the clinical team",
+                "Comparing bilateral perfusion",
+                "Describing testicular morphology"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A missed torsion can result in irreversible testicular infarction.",
+              "weight": 4,
+              "unsafeOptions": [
+                0
+              ],
+              "topic": "Urogenital",
+              "difficulty": "Intermediate",
+              "domain": "Management & safety"
+            }
+          ],
+          "topic": "Urogenital",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir05-core1-media",
+              "imageQuery": "testicular torsion doppler ultrasound"
+            }
+          ]
+        },
+        {
+          "id": "edir05-core2",
+          "title": "Spinal epidural abscess",
+          "stem": "A diabetic patient has fever, severe back pain and progressive leg weakness. MRI shows an enhancing epidural collection.",
+          "questions": [
+            {
+              "id": "edir05-core2q1",
+              "type": "single",
+              "question": "What is the principal diagnosis?",
+              "options": [
+                "Spinal epidural abscess",
+                "Simple disc protrusion",
+                "Vertebral haemangioma",
+                "Renal cyst"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "An epidural collection with infection and neurological deficit is highly concerning for abscess.",
+              "weight": 3,
+              "topic": "Neuroradiology",
+              "difficulty": "Intermediate",
+              "domain": "Observation"
+            },
+            {
+              "id": "edir05-core2q2",
+              "type": "single",
+              "question": "Which features should be assessed?",
+              "options": [
+                "Neural compression, craniocaudal extent and associated spondylodiscitis",
+                "Only dental alignment",
+                "Biliary anatomy",
+                "Pulmonary arteries"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Extent and neural compromise determine urgency and treatment planning.",
+              "weight": 3,
+              "topic": "Neuroradiology",
+              "difficulty": "Intermediate",
+              "domain": "Interpretation"
+            },
+            {
+              "id": "edir05-core2q3",
+              "type": "single",
+              "question": "Which omission would be potentially unsafe?",
+              "options": [
+                "Failing to communicate cord/cauda equina compression from an epidural abscess",
+                "Describing the extent",
+                "Recommending urgent specialist assessment",
+                "Looking for spondylodiscitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Neurological injury may become irreversible if decompression/treatment is delayed.",
+              "weight": 4,
+              "unsafeOptions": [
+                0
+              ],
+              "topic": "Neuroradiology",
+              "difficulty": "Intermediate",
+              "domain": "Management & safety"
+            }
+          ],
+          "topic": "Neuroradiology",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir05-core2-media",
+              "imageQuery": "spinal epidural abscess MRI"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

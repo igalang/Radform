@@ -1,0 +1,399 @@
+{
+  "id": "ebir-02",
+  "kind": "ebir",
+  "title": "EBIR Practice Set 2 · peripheral vascular and non-vascular IR",
+  "subtitle": "Radform original question bank · English · used for adaptive practice sessions",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro original de Radform basado en la estructura y currículo publicados por CIRSE. No contiene preguntas oficiales ni bancos protegidos.",
+  "sections": [
+    {
+      "id": "clinical-scenarios",
+      "title": "Clinical case scenarios",
+      "type": "sequential",
+      "cases": [
+        {
+          "id": "ebir02-case1",
+          "title": "Acute limb ischaemia",
+          "stem": "A patient presents with sudden severe leg pain, coolness and progressive sensory loss. CTA shows an acute femoropopliteal occlusion.",
+          "questions": [
+            {
+              "id": "ebir02-c1q1",
+              "type": "single",
+              "question": "Which clinical feature most increases the urgency of revascularisation?",
+              "options": [
+                "Stable claudication for several months",
+                "Progressive sensory or motor deficit",
+                "Bilateral chronic ankle oedema",
+                "Pain only after walking 500 metres"
+              ],
+              "correct": [
+                1
+              ],
+              "explanation": "Neurological deficit indicates threatened limb viability and requires urgent revascularisation.",
+              "topic": "Arterial & aortic intervention",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir02-c1q2",
+              "type": "single",
+              "question": "In a threatened but salvageable limb, which endovascular option may provide rapid thrombus removal in selected patients?",
+              "options": [
+                "Mechanical or aspiration thrombectomy",
+                "Observation for several weeks without anticoagulation",
+                "Proximal femoral artery embolisation",
+                "External compression only"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Percutaneous thrombectomy can rapidly restore flow in appropriate anatomy and clinical settings.",
+              "topic": "Arterial & aortic intervention",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir02-c1q3",
+              "type": "single",
+              "question": "Which factor strongly argues against catheter-directed thrombolysis?",
+              "options": [
+                "Recent intracranial surgery",
+                "Well-controlled hypertension",
+                "Age 55 years",
+                "Normal haemoglobin"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Recent major intracranial intervention confers a high risk of catastrophic bleeding.",
+              "topic": "Arterial & aortic intervention",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir02-c1q4",
+              "type": "single",
+              "question": "After thrombus removal, a severe underlying stenosis is demonstrated. What should be done?",
+              "options": [
+                "Ignore it in every case",
+                "Assess and treat it when it is the likely cause and treatment is technically appropriate",
+                "Embolise the distal artery with particles",
+                "Treat it with antibiotics"
+              ],
+              "correct": [
+                1
+              ],
+              "explanation": "Treating the underlying causal lesion may reduce the risk of immediate or recurrent thrombosis.",
+              "topic": "Arterial & aortic intervention",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir02-c1q5",
+              "type": "single",
+              "question": "After successful revascularisation of a severely ischaemic limb, which complication requires active surveillance?",
+              "options": [
+                "Reperfusion compartment syndrome",
+                "Biliary sepsis",
+                "Portal hypertension",
+                "Pneumoperitoneum"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Reperfusion can produce tissue oedema and compartment syndrome after prolonged limb ischaemia.",
+              "topic": "Arterial & aortic intervention",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Arterial & aortic intervention",
+          "difficulty": "Intermediate",
+          "requiresImage": false,
+          "images": [
+            {
+              "imageKey": "ebir02-case1-media",
+              "imageQuery": "acute limb ischemia angiography thrombectomy"
+            }
+          ]
+        },
+        {
+          "id": "ebir02-case2",
+          "title": "Percutaneous biliary drainage",
+          "stem": "A patient has cholangitis due to malignant hilar obstruction. Endoscopic drainage has failed and percutaneous drainage is requested.",
+          "questions": [
+            {
+              "id": "ebir02-c2q1",
+              "type": "single",
+              "question": "What is the principal indication for percutaneous transhepatic biliary drainage in this setting?",
+              "options": [
+                "Decompress an obstructed biliary system when endoscopic drainage is not feasible or has failed",
+                "Treat gastritis",
+                "Diagnose uncomplicated gallstones",
+                "Replace elective cholecystectomy"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Percutaneous drainage is an established route for biliary decompression when endoscopic management is not possible or unsuccessful.",
+              "topic": "Non-vascular GI & hepatobiliary",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir02-c2q2",
+              "type": "single",
+              "question": "Which factors should be reviewed before puncture?",
+              "options": [
+                "Biliary anatomy, coagulation status and relevant ascites",
+                "Only HbA1c",
+                "Audiometry",
+                "Fundoscopy"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Anatomical planning and bleeding/infection risk are central to safe percutaneous access.",
+              "topic": "Non-vascular GI & hepatobiliary",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir02-c2q3",
+              "type": "single",
+              "question": "When the biliary system is infected, which procedural principle is important?",
+              "options": [
+                "Achieve effective drainage while avoiding unnecessary high-pressure contrast injection",
+                "Maximise intrabiliary pressure",
+                "Inject repeated large-volume contrast boluses under pressure",
+                "Clamp the drain immediately"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Overpressurising an infected system may promote bacteraemia and sepsis; decompression is the priority.",
+              "topic": "Non-vascular GI & hepatobiliary",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir02-c2q4",
+              "type": "single",
+              "question": "Which is a recognised complication of percutaneous biliary drainage?",
+              "options": [
+                "Haemobilia or sepsis",
+                "Cataract",
+                "Shoulder dislocation",
+                "Otitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Bleeding and infection/sepsis are important complications of transhepatic biliary intervention.",
+              "topic": "Non-vascular GI & hepatobiliary",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir02-c2q5",
+              "type": "single",
+              "question": "After successful biliary decompression for cholangitis, what is an appropriate immediate management principle?",
+              "options": [
+                "Ensure effective external/internal drainage and monitor for sepsis or haemorrhage",
+                "Clamp every drain immediately",
+                "Inject large volumes under pressure to prove patency",
+                "Remove the catheter before clinical improvement"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Effective low-pressure drainage and close monitoring are central after decompression of an infected biliary system.",
+              "topic": "Non-vascular GI & hepatobiliary",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Non-vascular GI & hepatobiliary",
+          "difficulty": "Intermediate",
+          "requiresImage": false,
+          "images": [
+            {
+              "imageKey": "ebir02-case2-media",
+              "imageQuery": "percutaneous transhepatic biliary drainage fluoroscopy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general-practice",
+      "title": "General clinical practice",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "ebir02-g1",
+          "type": "single",
+          "question": "A type I endoleak after EVAR represents:",
+          "options": [
+            "Failure of seal at a proximal or distal attachment zone",
+            "Retrograde filling from lumbar arteries only",
+            "Transient graft porosity",
+            "Femoral vein thrombosis"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Type I endoleak is a high-pressure sealing failure and usually requires correction.",
+          "imageQuery": "type I endoleak EVAR CT angiography",
+          "imageKey": "ebir02-endoleak",
+          "topic": "Arterial & aortic intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir02-g2",
+          "type": "single",
+          "question": "A type II endoleak is typically caused by:",
+          "options": [
+            "Retrograde flow from branch vessels such as lumbar arteries or the inferior mesenteric artery",
+            "Proximal graft migration in every case",
+            "A mandatory aortocaval fistula",
+            "Bilateral renal thrombosis"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Collateral branch vessels can maintain retrograde flow into the aneurysm sac.",
+          "topic": "Embolisation & haemorrhage control",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir02-g3",
+          "type": "single",
+          "question": "For a suitable post-catheterisation femoral pseudoaneurysm, a common percutaneous treatment is:",
+          "options": [
+            "Ultrasound-guided thrombin injection",
+            "Bilateral iliac artery embolisation",
+            "TIPS",
+            "Percutaneous nephrostomy"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Ultrasound-guided thrombin injection is highly effective in appropriately selected pseudoaneurysms.",
+          "topic": "Embolisation & haemorrhage control",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir02-g4",
+          "type": "single",
+          "question": "Which is an important relative contraindication to percutaneous biopsy?",
+          "options": [
+            "Uncorrected coagulopathy",
+            "A lesion visible on imaging",
+            "A clinical need for histology",
+            "Informed consent"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Coagulopathy increases haemorrhagic risk and should be optimised whenever possible.",
+          "topic": "Non-vascular GI & hepatobiliary",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir02-g5",
+          "type": "single",
+          "question": "Pre-treatment angiographic planning for hepatic radioembolisation is primarily used to:",
+          "options": [
+            "Identify extrahepatic branches and assess hepatopulmonary shunting",
+            "Measure renal length only",
+            "Occlude both common femoral arteries",
+            "Avoid vascular mapping"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Planning helps prevent non-target microsphere deposition and quantify lung shunt.",
+          "topic": "Embolisation & haemorrhage control",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir02-g6",
+          "type": "single",
+          "question": "An intraprocedural advantage of cryoablation is:",
+          "options": [
+            "The ice ball can be visualised on imaging",
+            "Pain is absent in every patient",
+            "Adjacent structures do not need monitoring",
+            "There is no bleeding risk"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Visualisation of the ice ball helps assess the ablation zone and relationship to adjacent structures.",
+          "topic": "Interventional oncology",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir02-g7",
+          "type": "single",
+          "question": "Ultrasound guidance for central venous access primarily reduces:",
+          "options": [
+            "Mechanical complications and failed attempts",
+            "The need for asepsis",
+            "The need for tip-position assessment when indicated",
+            "Thrombosis risk to zero"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Real-time ultrasound improves first-pass success and reduces mechanical complications.",
+          "topic": "Portal, hepatic & dialysis access",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir02-g8",
+          "type": "single",
+          "question": "The best way to reduce non-target embolisation is to use:",
+          "options": [
+            "Selective catheterisation, careful angiographic mapping and flow control",
+            "Rapid injection without angiography",
+            "The largest possible embolic volume",
+            "No intraprocedural monitoring"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Precise vascular mapping and controlled delivery are essential to minimise non-target embolisation.",
+          "topic": "Embolisation & haemorrhage control",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir02-g9",
+          "type": "single",
+          "question": "A haemodynamically stable patient has a contained iatrogenic common femoral artery perforation after angioplasty. Which endovascular option may be considered when anatomy is suitable?",
+          "options": [
+            "Covered stent placement",
+            "Systemic thrombolysis",
+            "Portal vein embolisation",
+            "Percutaneous nephrostomy"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "A covered stent can seal an arterial perforation while maintaining vessel patency in selected anatomy.",
+          "topic": "Arterial & aortic intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir02-g10",
+          "type": "single",
+          "question": "During vertebral augmentation, which complication is specifically related to cement injection?",
+          "options": [
+            "Cement leakage with possible neural or venous consequences",
+            "Acute cholecystitis",
+            "Portal vein thrombosis in every patient",
+            "Bronchial artery spasm"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Cement extravasation is a procedure-specific risk of vertebral augmentation.",
+          "topic": "Musculoskeletal intervention",
+          "difficulty": "Intermediate"
+        }
+      ]
+    }
+  ]
+}

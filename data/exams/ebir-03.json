@@ -1,0 +1,401 @@
+{
+  "id": "ebir-03",
+  "kind": "ebir",
+  "title": "EBIR Practice Set 3 · interventional oncology and thoracic IR",
+  "subtitle": "Radform original question bank · English · used for adaptive practice sessions",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro original de Radform basado en la estructura y currículo publicados por CIRSE. No contiene preguntas oficiales ni bancos protegidos.",
+  "sections": [
+    {
+      "id": "clinical-scenarios",
+      "title": "Clinical case scenarios",
+      "type": "sequential",
+      "cases": [
+        {
+          "id": "ebir03-case1",
+          "title": "Life-threatening haemoptysis",
+          "stem": "A patient with bronchiectasis has large-volume haemoptysis and a falling haemoglobin. CTA shows hypertrophied bronchial arteries.",
+          "questions": [
+            {
+              "id": "ebir03-c1q1",
+              "type": "single",
+              "question": "Which arterial territory is the most likely initial embolisation target?",
+              "options": [
+                "Bronchial and relevant non-bronchial systemic arteries",
+                "Renal arteries",
+                "Inferior vena cava",
+                "Middle cerebral artery"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "The systemic bronchial circulation is the most common source of severe haemoptysis.",
+              "topic": "Embolisation & haemorrhage control",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir03-c1q2",
+              "type": "single",
+              "question": "Before embolising a bronchial artery, which branch must be actively sought because inadvertent embolisation can cause a catastrophic complication?",
+              "options": [
+                "Spinal arterial branches",
+                "Digital arteries of the hand",
+                "Portal venous branches",
+                "Ophthalmic artery in every case"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Recognition of spinal arterial supply is critical to avoid spinal cord ischaemia.",
+              "imageFile": "Lung - Therapeutic Bronchial Artery Embolization With Spherical Microspheres (49160126541).jpg",
+              "imageKey": "ebir-bronchial-embolization",
+              "topic": "Embolisation & haemorrhage control",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir03-c1q3",
+              "type": "single",
+              "question": "Which embolic material is commonly suitable for distal bronchial artery embolisation?",
+              "options": [
+                "Appropriately sized particles",
+                "Room air",
+                "Iodinated contrast as the embolic agent",
+                "Normal saline"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Particles are widely used for bronchial artery embolisation; exact choice depends on anatomy and operator strategy.",
+              "topic": "Embolisation & haemorrhage control",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir03-c1q4",
+              "type": "single",
+              "question": "Why can haemoptysis recur after technically successful embolisation?",
+              "options": [
+                "Recanalisation or recruitment of new systemic collaterals",
+                "The underlying lung disease is always cured",
+                "Systemic collateral vessels cannot redevelop",
+                "Recurrence is caused only by pneumothorax"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Persistent underlying disease may lead to recanalisation or development of new collateral arterial supply.",
+              "topic": "Embolisation & haemorrhage control",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir03-c1q5",
+              "type": "single",
+              "question": "What is a key angiographic safety principle during bronchial artery embolisation?",
+              "options": [
+                "Avoid embolisation if a spinal arterial branch cannot be safely excluded or protected",
+                "Always use the largest particles available",
+                "Embolise the pulmonary artery first in every case",
+                "Ignore collateral supply once one bronchial artery is treated"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Identification of spinal arterial supply is critical because non-target embolisation can cause spinal cord ischaemia.",
+              "topic": "Embolisation & haemorrhage control",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Embolisation & haemorrhage control",
+          "difficulty": "Intermediate",
+          "requiresImage": false,
+          "images": [
+            {
+              "imageKey": "ebir03-case1-media",
+              "imageQuery": "bronchial artery embolization angiography"
+            }
+          ]
+        },
+        {
+          "id": "ebir03-case2",
+          "title": "Percutaneous ablation of a liver metastasis",
+          "stem": "A patient has a solitary small liver metastasis, away from the hilum, and is selected for image-guided thermal ablation.",
+          "questions": [
+            {
+              "id": "ebir03-c2q1",
+              "type": "single",
+              "question": "What is the oncological objective of percutaneous thermal ablation?",
+              "options": [
+                "Destroy the tumour with an adequate ablation margin when feasible",
+                "Perform biopsy without treatment",
+                "Embolise the inferior vena cava",
+                "Reduce coagulation"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "The aim is complete tumour destruction together with an adequate circumferential margin when anatomy allows.",
+              "topic": "Interventional oncology",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir03-c2q2",
+              "type": "single",
+              "question": "A lesion lies close to vulnerable bowel. Which adjunct may improve safety?",
+              "options": [
+                "Hydrodissection or another protective displacement technique",
+                "Uncontrolled escalation of energy",
+                "Removal of image guidance",
+                "Intentional bowel contact"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Hydrodissection can physically separate heat-sensitive structures from the ablation zone.",
+              "imageFile": "RFA CT Leber 001.jpg",
+              "imageKey": "ebir-liver-rfa",
+              "topic": "Interventional oncology",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir03-c2q3",
+              "type": "single",
+              "question": "Which phenomenon can reduce radiofrequency ablation efficacy adjacent to a large vessel?",
+              "options": [
+                "Heat-sink effect",
+                "Portal venous enhancement",
+                "Dental artefact",
+                "Physiological pneumoperitoneum"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Blood flow in a large vessel can dissipate thermal energy and reduce tissue heating.",
+              "topic": "Interventional oncology",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir03-c2q4",
+              "type": "single",
+              "question": "Which immediate imaging finding supports technical success?",
+              "options": [
+                "The ablation zone completely covers the tumour with an adequate margin and no residual enhancing tumour",
+                "Persistent nodular tumour enhancement",
+                "Active haemorrhage",
+                "Unplanned extensive portal vein thrombosis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Complete coverage and absence of residual viable enhancement support successful ablation.",
+              "topic": "Interventional oncology",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "ebir03-c2q5",
+              "type": "single",
+              "question": "When technically feasible, what ablation margin is generally sought around a liver metastasis to reduce local tumour progression?",
+              "options": [
+                "A circumferential safety margin beyond the visible tumour",
+                "No margin at all",
+                "Only the tumour centre needs treatment",
+                "A margin confined to the portal vein lumen"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Ablation should encompass the tumour plus an adequate circumferential margin when anatomy permits.",
+              "topic": "Interventional oncology",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Interventional oncology",
+          "difficulty": "Intermediate",
+          "requiresImage": false,
+          "images": [
+            {
+              "imageKey": "ebir03-case2-media",
+              "imageQuery": "liver tumor thermal ablation CT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general-practice",
+      "title": "General clinical practice",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "ebir03-g1",
+          "type": "single",
+          "question": "In severe malignant superior vena cava obstruction, venous stenting can provide:",
+          "options": [
+            "Rapid relief of venous obstruction in selected patients",
+            "Universal oncological cure",
+            "Treatment of portal hypertension",
+            "Complete tumour ablation"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Stenting can relieve venous congestion rapidly while oncological treatment addresses the underlying cause.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir03-g2",
+          "type": "single",
+          "question": "A transhepatic portal venous approach may be used for:",
+          "options": [
+            "Selected portal venous interventions when other routes are unsuitable",
+            "Coronary angioplasty",
+            "Simple pleural drainage",
+            "Skin biopsy"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Transhepatic access provides a percutaneous route to the portal venous system for selected procedures.",
+          "topic": "Portal, hepatic & dialysis access",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir03-g3",
+          "type": "single",
+          "question": "Percutaneous drainage is usually appropriate for an intra-abdominal abscess when:",
+          "options": [
+            "The collection is clinically significant and safely accessible",
+            "Every collection is less than 5 mm",
+            "There is no infection or symptom",
+            "It consists only of normal bowel gas"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Image-guided drainage is effective for many clinically important accessible collections.",
+          "topic": "Non-vascular GI & hepatobiliary",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir03-g4",
+          "type": "single",
+          "question": "During drainage of an infected collection, which principle reduces septic complications?",
+          "options": [
+            "Controlled manipulation and effective decompression",
+            "Repeated high-pressure contrast injection",
+            "Immediate catheter clamping",
+            "Avoiding indicated antibiotics"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Gentle manipulation and effective drainage reduce the risk of forcing infected material into the circulation.",
+          "topic": "Non-vascular GI & hepatobiliary",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir03-g5",
+          "type": "single",
+          "question": "An inferior vena cava filter is mainly considered when:",
+          "options": [
+            "There is a selected indication such as acute VTE with a major contraindication to anticoagulation",
+            "Every distal DVT is diagnosed",
+            "Every patient has atrial fibrillation",
+            "Every abdominal operation is planned"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "IVC filters are not routine and should be reserved for specific clinical indications.",
+          "topic": "Venous intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir03-g6",
+          "type": "single",
+          "question": "When crossing a chronic arterial occlusion, the choice between intraluminal and subintimal techniques depends on:",
+          "options": [
+            "Lesion anatomy, length, calcification and re-entry strategy",
+            "Blood group only",
+            "Patient age alone",
+            "Skin colour"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Crossing strategy is determined by lesion morphology, access and available re-entry options.",
+          "topic": "Arterial & aortic intervention",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir03-g7",
+          "type": "single",
+          "question": "Which complication is specific to prostatic artery embolisation?",
+          "options": [
+            "Non-target embolisation to vesical, rectal or penile branches",
+            "Pneumothorax in every patient",
+            "Mandatory cerebral thrombosis",
+            "Pancreatitis by definition"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Complex pelvic anastomoses create a recognised risk of non-target embolisation.",
+          "topic": "Embolisation & haemorrhage control",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir03-g8",
+          "type": "single",
+          "question": "Valid informed consent for an IR procedure should include:",
+          "options": [
+            "Relevant benefits, material risks and reasonable alternatives",
+            "Only the procedure name",
+            "Only the financial cost",
+            "A statement that complications are impossible"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Consent should provide the information required for an informed decision, including alternatives and important risks.",
+          "topic": "Fundamentals & patient safety",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir03-g9",
+          "type": "single",
+          "question": "For a small renal tumour being considered for percutaneous ablation, which factor most strongly influences technical planning?",
+          "options": [
+            "Tumour size, location and proximity to vulnerable structures",
+            "Hair colour",
+            "Dominant hand",
+            "Serum sodium alone"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Size and anatomical relationships determine access, modality, protective manoeuvres and expected margins.",
+          "topic": "Interventional oncology",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "ebir03-g10",
+          "type": "single",
+          "question": "Percutaneous ablation of a painful bone metastasis may be combined with cementoplasty when the aim is to:",
+          "options": [
+            "Treat tumour-related pain and improve structural support in selected lesions",
+            "Create portal decompression",
+            "Treat biliary obstruction",
+            "Recanalise a dialysis fistula"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Ablation can address painful tumour while cement augmentation may provide mechanical stabilisation in selected cases.",
+          "topic": "Musculoskeletal intervention",
+          "difficulty": "Intermediate"
+        }
+      ]
+    }
+  ]
+}

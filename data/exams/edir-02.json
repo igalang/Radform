@@ -1,0 +1,644 @@
+{
+  "id": "edir-02",
+  "kind": "edir",
+  "title": "EDiR Practice Set 2 · abdomen, musculoskeletal and women's imaging",
+  "subtitle": "Radform original question bank · English · used for adaptive practice sessions",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro original de Radform basado en la estructura publicada del EDiR. No contiene preguntas oficiales ni bancos de pago.",
+  "sections": [
+    {
+      "id": "mrq",
+      "title": "Multiple Response Questions",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "edir02-m1",
+          "type": "multiple",
+          "question": "Which enterography findings suggest active Crohn disease? Choose all that apply.",
+          "options": [
+            "Mural thickening",
+            "Stratified mural enhancement",
+            "Mural oedema",
+            "Comb sign"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "These findings reflect active intestinal inflammation and hypervascularity.",
+          "topic": "Interventional & vascular",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m2",
+          "type": "multiple",
+          "question": "Which CT features favour a benign adrenal lesion? Choose all that apply.",
+          "options": [
+            "Low unenhanced attenuation consistent with a lipid-rich adenoma",
+            "Washout characteristics of an adenoma",
+            "Macroscopic fat in a myelolipoma",
+            "Rapid infiltrative growth"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Low attenuation, characteristic washout and macroscopic fat can support benign diagnoses.",
+          "topic": "Urogenital",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m3",
+          "type": "single",
+          "question": "Developmental dysplasia of the hip in a young infant is initially assessed primarily with:",
+          "options": [
+            "Ultrasound",
+            "Multiphase CT",
+            "PET-CT",
+            "Dental radiography"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Ultrasound evaluates the largely cartilaginous infant hip without ionising radiation.",
+          "topic": "Paediatric",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m4",
+          "type": "single",
+          "question": "Cardiac MRI in hypertrophic cardiomyopathy may demonstrate:",
+          "options": [
+            "Asymmetric hypertrophy and late gadolinium enhancement",
+            "Renal agenesis",
+            "Ureteric dilatation",
+            "Gallbladder calcification"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "CMR characterises ventricular hypertrophy and myocardial fibrosis.",
+          "topic": "Cardiac",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m5",
+          "type": "multiple",
+          "question": "Which Doppler ultrasound findings support testicular torsion? Choose all that apply.",
+          "options": [
+            "Reduced or absent intratesticular flow",
+            "Testicular enlargement",
+            "Heterogeneous echotexture in advanced torsion",
+            "Symmetrically increased arterial flow in every case"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Reduced perfusion and progressive morphological change support torsion; preserved flow does not always exclude early/intermittent torsion.",
+          "topic": "Urogenital",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m6",
+          "type": "single",
+          "question": "MRI findings typical of spondylodiscitis include:",
+          "options": [
+            "Abnormal adjacent vertebral endplates and disc",
+            "A normal disc in every case",
+            "Only ligamentum flavum calcification",
+            "Pneumothorax"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Infection commonly involves the disc and adjacent endplates, often with paravertebral inflammatory change.",
+          "topic": "Musculoskeletal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m7",
+          "type": "single",
+          "question": "Basal subpleural honeycombing with traction bronchiectasis on HRCT suggests:",
+          "options": [
+            "A UIP pattern",
+            "Isolated cardiogenic oedema",
+            "Simple lobar pneumonia",
+            "Asthma"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Typical UIP is characterised by basal/subpleural reticulation, traction bronchiectasis and honeycombing.",
+          "topic": "Chest / thorax",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m8",
+          "type": "multiple",
+          "question": "Which statements about iodinated contrast are correct? Choose all that apply.",
+          "options": [
+            "Previous contrast reactions should be reviewed",
+            "Contrast should be used for an appropriate clinical indication",
+            "Renal function matters in selected at-risk patients",
+            "Every patient has zero risk"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Contrast administration requires individual assessment of indication, allergy history and relevant renal risk.",
+          "topic": "Urogenital",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m9",
+          "type": "single",
+          "question": "A small painful cortical lesion with a central nidus and surrounding sclerosis is most characteristic of:",
+          "options": [
+            "Osteoid osteoma",
+            "Simple bone cyst",
+            "Multiple myeloma",
+            "Osteochondroma"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "CT is particularly useful for demonstrating the nidus of an osteoid osteoma.",
+          "topic": "Musculoskeletal",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m10",
+          "type": "single",
+          "question": "Which mammographic calcification morphology is most suspicious?",
+          "options": [
+            "Fine pleomorphic or fine linear branching calcifications",
+            "Coarse popcorn calcification in an involuting fibroadenoma",
+            "Vascular calcification",
+            "Skin calcification with lucent centre"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Fine pleomorphic and fine linear/branching calcifications are suspicious morphologies.",
+          "topic": "Breast",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m11",
+          "type": "single",
+          "question": "Subepicardial or mid-wall late gadolinium enhancement in a non-coronary distribution is a recognised pattern of:",
+          "options": [
+            "Myocarditis",
+            "Typical transmural myocardial infarction",
+            "Simple pericardial effusion only",
+            "Aortic coarctation"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Myocarditis often produces non-ischaemic subepicardial or mid-wall enhancement.",
+          "topic": "Cardiac",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m12",
+          "type": "single",
+          "question": "A Bosniak III cystic renal mass is characterised by:",
+          "options": [
+            "Indeterminate enhancing thick walls or septa requiring management according to clinical context",
+            "A simple imperceptible wall with water attenuation",
+            "Macroscopic fat diagnostic of angiomyolipoma",
+            "No enhancement and no septa"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Bosniak III lesions have enhancing thickened/irregular walls or septa and carry substantial malignancy risk.",
+          "topic": "Urogenital",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m13",
+          "type": "single",
+          "question": "MRI is particularly useful for assessing perineural tumour spread because it can demonstrate:",
+          "options": [
+            "Nerve enlargement and abnormal enhancement along expected neural pathways",
+            "Only pulmonary calcification",
+            "Only gallstones",
+            "Only cortical bone density"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Perineural spread is suggested by abnormal nerve enhancement/enlargement and foraminal changes.",
+          "topic": "Head & neck",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m14",
+          "type": "single",
+          "question": "A radiology department receives a critical result that has not been acknowledged. The safest system is:",
+          "options": [
+            "Closed-loop communication with confirmation that the responsible clinician received the result",
+            "A note hidden in the report only",
+            "Waiting until the next clinic visit",
+            "No documentation of communication"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Critical-result systems should ensure timely delivery and acknowledgement.",
+          "topic": "Management",
+          "difficulty": "Intermediate"
+        },
+        {
+          "id": "edir02-m15",
+          "type": "single",
+          "question": "Which late gadolinium-enhancement pattern is typical of myocardial infarction?",
+          "options": [
+            "Subendocardial or transmural enhancement in a coronary distribution",
+            "Only subepicardial enhancement in a non-coronary distribution",
+            "No myocardial enhancement in any infarct",
+            "Enhancement confined to the pericardial fluid"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Ischaemic scar begins in the subendocardium and may become transmural within a vascular territory.",
+          "topic": "Cardiac",
+          "difficulty": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "short-cases",
+      "title": "Short Cases",
+      "type": "shortcases",
+      "cases": [
+        {
+          "id": "edir02-short1",
+          "title": "Extra-axial brain mass",
+          "stem": "MRI demonstrates an avidly enhancing extra-axial mass with a broad dural attachment.",
+          "questions": [
+            {
+              "id": "edir02-s1q1",
+              "type": "single",
+              "question": "What is the most likely diagnosis?",
+              "options": [
+                "Meningioma",
+                "Intraventricular glioblastoma",
+                "Lacunar infarct",
+                "Simple arachnoid cyst"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "An extra-axial avidly enhancing dural-based mass is typical of a meningioma.",
+              "imageQuery": "meningioma MRI contrast",
+              "imageKey": "edir02-meningioma",
+              "topic": "Neuroradiology",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "edir02-s1q2",
+              "type": "single",
+              "question": "Which additional finding would support an extra-axial origin?",
+              "options": [
+                "CSF cleft and inward displacement of cortex",
+                "Central diffusion restriction within an acute infarct",
+                "A purely intraventricular attachment",
+                "No mass effect"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A CSF cleft and displacement rather than infiltration of cortex support an extra-axial lesion.",
+              "topic": "Neuroradiology",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Neuroradiology",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir02-short1-media",
+              "imageQuery": "meningioma MRI dural based mass"
+            }
+          ]
+        },
+        {
+          "id": "edir02-short2",
+          "title": "Suspicious thyroid nodule",
+          "stem": "Thyroid ultrasound shows a markedly hypoechoic solid nodule with irregular margins and punctate echogenic foci.",
+          "questions": [
+            {
+              "id": "edir02-s2q1",
+              "type": "single",
+              "question": "How should this nodule be regarded?",
+              "options": [
+                "Suspicious and requiring risk stratification under the applicable system",
+                "Definitely benign",
+                "A simple cyst",
+                "Not worth describing"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Marked hypoechogenicity, irregular margins and punctate echogenic foci are suspicious features.",
+              "topic": "Head & neck",
+              "difficulty": "Intermediate"
+            },
+            {
+              "id": "edir02-s2q2",
+              "type": "single",
+              "question": "What is the most appropriate next imaging-related step?",
+              "options": [
+                "Assign a structured ultrasound risk category and use size/clinical context to guide FNA recommendation",
+                "Label it benign without measurement",
+                "Recommend PET-CT for every nodule",
+                "Ignore cervical lymph nodes"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Structured risk stratification and size thresholds guide biopsy recommendations.",
+              "topic": "Head & neck",
+              "difficulty": "Intermediate"
+            }
+          ],
+          "topic": "Head & neck",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir02-short2-media",
+              "imageQuery": "thyroid nodule ultrasound suspicious microcalcifications"
+            }
+          ]
+        },
+        {
+          "id": "edir02-short3",
+          "title": "Snuffbox tenderness after a fall",
+          "stem": "A young adult has persistent anatomical snuffbox tenderness after a fall. Dedicated wrist radiographs are obtained.",
+          "topic": "Musculoskeletal",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir-sc-scaphoid",
+              "imageQuery": "scaphoid fracture x ray wrist"
+            }
+          ],
+          "questions": [
+            {
+              "id": "edir02-s5",
+              "type": "single",
+              "question": "Which injury should be actively sought?",
+              "options": [
+                "Scaphoid fracture",
+                "Achilles tendon rupture",
+                "Patellar dislocation",
+                "Clavicular osteolysis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Clinical snuffbox tenderness raises suspicion for a scaphoid fracture.",
+              "topic": "Musculoskeletal"
+            },
+            {
+              "id": "edir02-s6",
+              "type": "single",
+              "question": "If initial radiographs are negative but suspicion remains high, an appropriate next test is:",
+              "options": [
+                "MRI or CT depending on local pathway",
+                "Mammography",
+                "ERCP",
+                "No further imaging under any circumstance"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Cross-sectional imaging can detect occult scaphoid fracture.",
+              "topic": "Musculoskeletal"
+            }
+          ]
+        },
+        {
+          "id": "edir02-short4",
+          "title": "Enhancing renal mass",
+          "stem": "A 62-year-old patient has an incidental solid renal cortical mass on contrast-enhanced CT.",
+          "topic": "Urogenital",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir-sc-rcc",
+              "imageQuery": "renal cell carcinoma contrast enhanced CT mass"
+            }
+          ],
+          "questions": [
+            {
+              "id": "edir02-s7",
+              "type": "single",
+              "question": "Which feature confirms that the lesion is solid vascularised tissue rather than a simple cyst?",
+              "options": [
+                "Enhancement after contrast",
+                "Water attenuation without enhancement",
+                "A thin imperceptible wall",
+                "No internal soft tissue"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Enhancement demonstrates vascularised tissue.",
+              "topic": "Urogenital"
+            },
+            {
+              "id": "edir02-s8",
+              "type": "single",
+              "question": "What is the most appropriate radiological interpretation?",
+              "options": [
+                "Suspicious renal neoplasm requiring urological staging/management",
+                "Simple Bosniak I cyst",
+                "Normal renal variant",
+                "Hydronephrosis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "An enhancing solid renal cortical mass is suspicious for renal neoplasm.",
+              "topic": "Urogenital"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "CORE Cases",
+      "type": "core",
+      "cases": [
+        {
+          "id": "edir02-core1",
+          "title": "Blunt splenic trauma",
+          "stem": "A haemodynamically stable trauma patient has a splenic laceration and a focal arterial contrast blush on CT.",
+          "questions": [
+            {
+              "id": "edir02-core1q1",
+              "type": "single",
+              "question": "The arterial-phase blush most likely represents:",
+              "options": [
+                "Active vascular injury or pseudoaneurysm",
+                "A simple splenic cyst",
+                "Granulomatous calcification",
+                "Dental artefact"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A focal arterial contrast collection outside normal vessels indicates a vascular injury.",
+              "weight": 3,
+              "topic": "Abdominal",
+              "difficulty": "Intermediate",
+              "domain": "Observation"
+            },
+            {
+              "id": "edir02-core1q2",
+              "type": "single",
+              "question": "In a stable patient, an appropriate management option may be:",
+              "options": [
+                "Splenic artery embolisation according to injury pattern and clinical context",
+                "Mandatory laparotomy in every case",
+                "Immediate discharge",
+                "Full-dose anticoagulation because a blush is present"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Angiography and embolisation can support non-operative splenic preservation in selected stable patients.",
+              "weight": 3,
+              "topic": "Abdominal",
+              "difficulty": "Intermediate",
+              "domain": "Interpretation"
+            },
+            {
+              "id": "edir02-core1q3",
+              "type": "single",
+              "question": "Which reporting error would be potentially unsafe?",
+              "options": [
+                "Failing to mention obvious active arterial bleeding",
+                "Describing the injury grade",
+                "Communicating a vascular injury urgently",
+                "Assessing haemoperitoneum"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Omission of active bleeding can delay haemostatic treatment.",
+              "weight": 4,
+              "unsafeOptions": [
+                0
+              ],
+              "topic": "Abdominal",
+              "difficulty": "Intermediate",
+              "domain": "Management & safety"
+            }
+          ],
+          "topic": "Abdominal",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir02-core1-media",
+              "imageQuery": "splenic laceration trauma CT contrast extravasation"
+            }
+          ]
+        },
+        {
+          "id": "edir02-core2",
+          "title": "Complex adnexal mass",
+          "stem": "A postmenopausal woman has a complex adnexal mass on ultrasound and MRI.",
+          "questions": [
+            {
+              "id": "edir02-core2q1",
+              "type": "single",
+              "question": "Which feature most increases suspicion for malignancy?",
+              "options": [
+                "Enhancing solid papillary projections",
+                "A thin-walled unilocular simple cyst",
+                "A normal follicle",
+                "No solid component"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Enhancing solid tissue and papillary projections are suspicious features.",
+              "weight": 3,
+              "topic": "Urogenital",
+              "difficulty": "Intermediate",
+              "domain": "Observation"
+            },
+            {
+              "id": "edir02-core2q2",
+              "type": "single",
+              "question": "Ascites and peritoneal implants should:",
+              "options": [
+                "Increase concern for advanced malignant disease",
+                "Be considered physiological without comment",
+                "Exclude malignancy",
+                "Be interpreted as osteoarthritis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Ascites with peritoneal implants indicates possible peritoneal dissemination.",
+              "weight": 3,
+              "topic": "Urogenital",
+              "difficulty": "Intermediate",
+              "domain": "Interpretation"
+            },
+            {
+              "id": "edir02-core2q3",
+              "type": "single",
+              "question": "Which interpretation would be potentially unsafe?",
+              "options": [
+                "Calling the mass a benign functional cyst while ignoring peritoneal implants",
+                "Describing peritoneal disease",
+                "Recommending appropriate oncological assessment",
+                "Assessing nodal disease"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Minimising clearly suspicious findings can delay diagnosis and treatment.",
+              "weight": 4,
+              "unsafeOptions": [
+                0
+              ],
+              "topic": "Urogenital",
+              "difficulty": "Intermediate",
+              "domain": "Management & safety"
+            }
+          ],
+          "topic": "Urogenital",
+          "difficulty": "Intermediate",
+          "requiresImage": true,
+          "images": [
+            {
+              "imageKey": "edir02-core2-media",
+              "imageQuery": "ovarian malignancy complex adnexal mass MRI CT"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

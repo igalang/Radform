@@ -1,0 +1,189 @@
+{
+  "version": 3,
+  "legalNotice": "Todos los ejercicios EBIR y EDiR de Radform son material educativo original. No son preguntas oficiales de CIRSE/EBIR ni de EBR/EDiR, no reproducen bancos de pago ni contenido de examen compartido por candidatos. Las sesiones cortas respetan los formatos publicados de cada examen, pero no equivalen a una evaluación certificada. Las imágenes integradas proceden de fuentes abiertas y conservan la atribución disponible.",
+  "ebir": {
+    "name": "EBIR",
+    "fullName": "European Board of Interventional Radiology",
+    "scope": "Radiología intervencionista",
+    "menuOrder": 1,
+    "languageNote": "Los simulacros Radform están deliberadamente en inglés para entrenar terminología internacional. CIRSE ofrece actualmente el EBIR en inglés y, en determinadas convocatorias, también en español y otros idiomas. Las reglas y explicaciones generales de esta sección se muestran en español.",
+    "officialSummary": [
+      "Dos partes en un mismo día; duración total aproximada de 4 horas, con una pausa de 30 minutos.",
+      "Clinical case scenario examination: 10 casos secuenciales, cada uno con 4–6 preguntas relacionadas.",
+      "En los casos secuenciales puede haber single best answer, choose all that apply y place in order. Al avanzar no se puede volver a la pregunta anterior.",
+      "General clinical practice examination: aproximadamente 50 preguntas independientes de single best answer; en esta parte sí se puede volver a preguntas anteriores.",
+      "El contenido se basa en el European Curriculum and Syllabus for Interventional Radiology."
+    ],
+    "officialLinks": [
+      {
+        "label": "Estructura oficial EBIR · CIRSE",
+        "url": "https://www.cirse.org/certification/ebir/exam-structure/"
+      },
+      {
+        "label": "Muestras oficiales CIRSE · inglés/español",
+        "url": "https://www.cirse.org/certification/ebir/how-to-prepare/"
+      },
+      {
+        "label": "EBIR en español · CIRSE",
+        "url": "https://www.cirse.org/certification/ebir/ebir-spanish-language-version/"
+      },
+      {
+        "label": "Curriculum oficial de IR · CIRSE",
+        "url": "https://www.cirse.org/certification/curricula/"
+      }
+    ],
+    "examFiles": [
+      "ebir-01.json",
+      "ebir-02.json",
+      "ebir-03.json",
+      "ebir-04.json",
+      "ebir-05.json",
+      "ebir-06.json"
+    ],
+    "topics": [
+      "Fundamentals & patient safety",
+      "Arterial & aortic intervention",
+      "Venous intervention",
+      "Portal, hepatic & dialysis access",
+      "Embolisation & haemorrhage control",
+      "Non-vascular GI & hepatobiliary",
+      "Genitourinary & renal intervention",
+      "Musculoskeletal intervention",
+      "Interventional oncology"
+    ],
+    "practiceModes": [
+      {
+        "id": "mixed",
+        "label": "Mixed practice",
+        "description": "Clinical case scenario + General clinical practice"
+      },
+      {
+        "id": "clinical",
+        "label": "Clinical Case Scenarios",
+        "description": "Sequential cases; no backtracking inside a case"
+      },
+      {
+        "id": "general",
+        "label": "General Clinical Practice",
+        "description": "Standalone single-best-answer questions"
+      },
+      {
+        "id": "images",
+        "label": "Image Challenge",
+        "description": "Image-led IR questions from the open-media cache"
+      },
+      {
+        "id": "topic",
+        "label": "By curriculum topic",
+        "description": "Focused practice by IR curriculum area"
+      }
+    ],
+    "officialScale": {
+      "clinicalCases": 10,
+      "clinicalQuestionsApprox": 50,
+      "generalQuestionsApprox": 50,
+      "overallMinutesApprox": 240,
+      "breakMinutes": 30
+    }
+  },
+  "edir": {
+    "name": "EDiR",
+    "fullName": "European Diploma in Radiology",
+    "scope": "Radiodiagnóstico general",
+    "menuOrder": 2,
+    "languageNote": "El EDiR se realiza oficialmente en inglés, salvo que EBR anuncie una excepción específica para un país durante la inscripción. Por ese motivo, los simulacros Radform están en inglés; las reglas y explicaciones generales se muestran en español.",
+    "officialSummary": [
+      "78 Multiple Response Questions (MRQ) en 95 minutos.",
+      "24 Short Cases en 90 minutos.",
+      "10 CORE Cases en 90 minutos; hay una pausa de 15 minutos entre componentes.",
+      "La parte escrita se pondera 70% MRQ + 30% Short Cases. Las MRQ de múltiples respuestas utilizan puntuación proporcional sin negative marking final.",
+      "Cada CORE case tiene un máximo de 10 puntos y es valorado por examinadores; determinados errores catastróficos pueden recibir la calificación unsafe.",
+      "El umbral de aprobado depende de la convocatoria, por lo que Radform muestra puntuación de entrenamiento y no declara aprobado/suspenso."
+    ],
+    "officialLinks": [
+      {
+        "label": "Estructura y scoring oficial EDiR · EBR",
+        "url": "https://www.myebr.org/edir/all-about-the-examination"
+      },
+      {
+        "label": "Términos, idioma y scoring · EBR",
+        "url": "https://www.myebr.org/edir-terms-and-conditions"
+      },
+      {
+        "label": "Recursos y self-assessment oficiales · EBR",
+        "url": "https://www.myebr.org/edir/practice-makes-best"
+      }
+    ],
+    "examFiles": [
+      "edir-01.json",
+      "edir-02.json",
+      "edir-03.json",
+      "edir-04.json",
+      "edir-05.json",
+      "edir-06.json"
+    ],
+    "topics": [
+      "Abdominal",
+      "Breast",
+      "Cardiac",
+      "Chest / thorax",
+      "Head & neck",
+      "Imaging physics & radiation safety",
+      "Imaging pharmacology & contrast media",
+      "Interventional & vascular",
+      "Management",
+      "Musculoskeletal",
+      "Paediatric",
+      "Urogenital",
+      "Neuroradiology"
+    ],
+    "practiceModes": [
+      {
+        "id": "mixed",
+        "label": "Mixed practice",
+        "description": "MRQ + Short Cases + CORE"
+      },
+      {
+        "id": "mrq",
+        "label": "MRQ",
+        "description": "Multiple Response Questions"
+      },
+      {
+        "id": "short",
+        "label": "Short Cases",
+        "description": "Visual short clinical cases"
+      },
+      {
+        "id": "core",
+        "label": "CORE Cases",
+        "description": "Clinically oriented reasoning and safety"
+      },
+      {
+        "id": "images",
+        "label": "Image Challenge",
+        "description": "Image-led questions across components"
+      },
+      {
+        "id": "topic",
+        "label": "By organ system",
+        "description": "Focused practice across the 13 official categories"
+      }
+    ],
+    "officialScale": {
+      "mrq": 78,
+      "mrqMinutes": 95,
+      "shortCases": 24,
+      "shortCasesMinutes": 90,
+      "coreCases": 10,
+      "coreMinutes": 90,
+      "breakMinutes": 15
+    }
+  },
+  "productModel": "practice-center",
+  "defaultDurationMinutes": 20,
+  "durationsMinutes": [
+    10,
+    20,
+    40
+  ]
+}
