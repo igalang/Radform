@@ -17,6 +17,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -40,28 +41,33 @@ jobs:
           node --check openi.js
           node --check multicare.js
           node --check mir-open.js
-          node --check patch-v8.js
+          node --check patch.js
           node --check sw.js
 
       - name: Assemble static site
         run: |
           mkdir -p _site
-          cp -a index.html 404.html styles.css patch-v8.css app.js patch-v8.js supabase-client.js commons.js openi.js multicare.js mir-open.js sw.js manifest.webmanifest og.png assets data .nojekyll _site/
+          cp -a index.html 404.html styles.css patch.css app.js patch.js supabase-client.js commons.js openi.js multicare.js mir-open.js sw.js manifest.webmanifest og.png assets data .nojekyll _site/
           if [ -d generated ]; then cp -a generated _site/; fi
           if [ -f GENERATED_MEDIA.md ]; then cp -a GENERATED_MEDIA.md _site/; fi
 
-      - name: Inject Radform UX patch
+      - name: Inject Radform patch
         run: |
           python - <<'PY'
           from pathlib import Path
+
           p = Path('_site/index.html')
           s = p.read_text(encoding='utf-8')
-          css = '<link rel="stylesheet" href="./patch-v8.css" />'
-          js = '<script type="module" src="./patch-v8.js"></script>'
+
+          css = '<link rel="stylesheet" href="./patch.css" />'
+          js = '<script type="module" src="./patch.js"></script>'
+
           if css not in s:
               s = s.replace('</head>', f'  {css}\n</head>')
+
           if js not in s:
               s = s.replace('</body>', f'  {js}\n</body>')
+
           p.write_text(s, encoding='utf-8')
           PY
 
@@ -79,6 +85,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
