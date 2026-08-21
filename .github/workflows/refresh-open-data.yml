@@ -1,0 +1,54 @@
+name: Actualizar biblioteca médica
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Una vez por semana: domingo 04:15 UTC
+    - cron: '15 4 * * 0'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radform-open-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Actualizar contenido externo
+        run: |
+          python scripts/refresh_external_content.py
+
+      - name: Validar banco de casos
+        run: |
+          python scripts/validate_cases.py
+          python scripts/validate_atlas.py
+          python scripts/validate_mir.py
+
+      - name: Guardar contenido actualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios nuevos que guardar."
+          else
+            git commit -m "Update Radform medical library"
+            git push
+          fi
