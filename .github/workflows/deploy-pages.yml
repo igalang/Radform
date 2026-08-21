@@ -42,16 +42,26 @@ jobs:
           node --check multicare.js
           node --check mir-open.js
           node --check patch.js
+          node --check exam-prep.js
           node --check sw.js
+
+      - name: Validate exam JSON
+        run: |
+          python - <<'PY'
+          import json, glob
+          for path in glob.glob('data/exams/*.json'):
+              json.load(open(path, encoding='utf-8'))
+              print('OK', path)
+          PY
 
       - name: Assemble static site
         run: |
           mkdir -p _site
-          cp -a index.html 404.html styles.css patch.css app.js patch.js supabase-client.js commons.js openi.js multicare.js mir-open.js sw.js manifest.webmanifest og.png assets data .nojekyll _site/
+          cp -a index.html 404.html styles.css patch.css exam-prep.css app.js patch.js exam-prep.js supabase-client.js commons.js openi.js multicare.js mir-open.js sw.js manifest.webmanifest og.png assets data .nojekyll _site/
           if [ -d generated ]; then cp -a generated _site/; fi
           if [ -f GENERATED_MEDIA.md ]; then cp -a GENERATED_MEDIA.md _site/; fi
 
-      - name: Inject Radform patch
+      - name: Inject Radform modules
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -59,14 +69,15 @@ jobs:
           p = Path('_site/index.html')
           s = p.read_text(encoding='utf-8')
 
-          css = '<link rel="stylesheet" href="./patch.css" />'
-          js = '<script type="module" src="./patch.js"></script>'
+          for css in ['./patch.css','./exam-prep.css']:
+              tag = f'<link rel="stylesheet" href="{css}" />'
+              if tag not in s:
+                  s = s.replace('</head>', f'  {tag}\n</head>')
 
-          if css not in s:
-              s = s.replace('</head>', f'  {css}\n</head>')
-
-          if js not in s:
-              s = s.replace('</body>', f'  {js}\n</body>')
+          for js in ['./patch.js','./exam-prep.js']:
+              tag = f'<script type="module" src="{js}"></script>'
+              if tag not in s:
+                  s = s.replace('</body>', f'  {tag}\n</body>')
 
           p.write_text(s, encoding='utf-8')
           PY
