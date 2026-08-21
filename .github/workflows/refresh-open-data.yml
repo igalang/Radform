@@ -32,6 +32,7 @@ jobs:
       - name: Actualizar contenido externo
         run: |
           python scripts/refresh_external_content.py
+          python scripts/refresh_exam_images.py
 
       - name: Validar banco de casos
         run: |
