@@ -1,0 +1,279 @@
+{
+  "id": "ebir-02",
+  "kind": "ebir",
+  "title": "Simulacro EBIR 2 · vascular periférico y no vascular",
+  "subtitle": "Simulacro Radform · contenido original · formato abreviado",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro educativo original de Radform basado en la estructura y el currículo del EBIR. No contiene preguntas oficiales ni reproduce bancos protegidos. El formato es abreviado para entrenamiento.",
+  "sections": [
+    {
+      "id": "clinical-scenarios",
+      "title": "Escenarios clínicos secuenciales",
+      "type": "sequential",
+      "cases": [
+        {
+          "id": "ebir02-case1",
+          "title": "Isquemia aguda de extremidad",
+          "stem": "Paciente con dolor súbito, frialdad y déficit sensitivo en miembro inferior. La angio-TC muestra oclusión femoropoplítea aguda.",
+          "questions": [
+            {
+              "id": "ebir02-c1q1",
+              "type": "single",
+              "question": "¿Qué dato clínico aumenta la urgencia de revascularización? ",
+              "options": [
+                "Dolor crónico estable de meses",
+                "Déficit motor o sensitivo progresivo",
+                "Claudicación a 500 metros",
+                "Edema maleolar bilateral crónico"
+              ],
+              "correct": [
+                1
+              ],
+              "explanation": "La pérdida sensitivo-motora indica amenaza inmediata de la extremidad."
+            },
+            {
+              "id": "ebir02-c1q2",
+              "type": "single",
+              "question": "En un miembro amenazado, una estrategia endovascular puede incluir:",
+              "options": [
+                "Trombectomía mecánica o aspirativa en pacientes seleccionados",
+                "Esperar varias semanas sin anticoagulación",
+                "Embolización proximal de la arteria femoral común",
+                "Solo compresión externa"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "La trombectomía percutánea puede restablecer flujo rápidamente en anatomía adecuada."
+            },
+            {
+              "id": "ebir02-c1q3",
+              "type": "single",
+              "question": "¿Qué factor pesa especialmente contra una trombólisis dirigida por catéter?",
+              "options": [
+                "Cirugía intracraneal reciente",
+                "Hipertensión bien controlada",
+                "Edad de 55 años",
+                "Ausencia de anemia"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "El riesgo hemorrágico mayor/reciente puede contraindicar trombólisis."
+            },
+            {
+              "id": "ebir02-c1q4",
+              "type": "single",
+              "question": "Tras recuperar flujo, una estenosis subyacente significativa debe:",
+              "options": [
+                "Ignorarse siempre",
+                "Evaluarse y tratarse si explica la trombosis y es técnicamente apropiado",
+                "Embolizarse con partículas",
+                "Tratarse con antibiótico"
+              ],
+              "correct": [
+                1
+              ],
+              "explanation": "La corrección de la lesión causal reduce riesgo de retrombosis."
+            }
+          ]
+        },
+        {
+          "id": "ebir02-case2",
+          "title": "Drenaje biliar percutáneo",
+          "stem": "Paciente con colangitis y obstrucción hiliar maligna no resuelta por vía endoscópica.",
+          "questions": [
+            {
+              "id": "ebir02-c2q1",
+              "type": "single",
+              "question": "La indicación principal del drenaje biliar percutáneo es:",
+              "options": [
+                "Descomprimir un árbol biliar obstruido cuando el abordaje endoscópico no es posible o ha fallado",
+                "Tratar una gastritis",
+                "Diagnosticar litiasis vesicular sin obstrucción",
+                "Sustituir una colecistectomía electiva"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "El drenaje percutáneo es una alternativa de descompresión cuando la vía endoscópica no es viable."
+            },
+            {
+              "id": "ebir02-c2q2",
+              "type": "single",
+              "question": "Antes de la punción, es esencial revisar:",
+              "options": [
+                "Anatomía biliar, coagulación y posible ascitis",
+                "Solo hemoglobina glicosilada",
+                "Audiometría",
+                "Fondo de ojo"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Planificación anatómica y riesgo hemorrágico son claves."
+            },
+            {
+              "id": "ebir02-c2q3",
+              "type": "single",
+              "question": "Si existe infección, una prioridad técnica es:",
+              "options": [
+                "Drenaje efectivo con manipulación razonable del sistema infectado",
+                "Aumentar al máximo la presión intrabiliar",
+                "Inyectar grandes volúmenes de contraste a presión",
+                "Cerrar el drenaje inmediatamente"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "La descompresión eficaz y evitar sobrepresurización del sistema infectado reducen sepsis."
+            },
+            {
+              "id": "ebir02-c2q4",
+              "type": "single",
+              "question": "Una complicación relevante del drenaje biliar es:",
+              "options": [
+                "Hemobilia o sepsis",
+                "Catarata",
+                "Luxación de hombro",
+                "Otitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Hemorragia y sepsis son complicaciones reconocidas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general-practice",
+      "title": "Práctica clínica general",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "ebir02-g1",
+          "type": "single",
+          "question": "En una endofuga tipo I tras EVAR, el problema fundamental es:",
+          "options": [
+            "Sellado inadecuado en una zona de anclaje",
+            "Flujo retrógrado lumbar aislado",
+            "Porosidad transitoria del injerto",
+            "Trombosis venosa femoral"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La endofuga tipo I implica fallo de sellado proximal o distal y suele requerir corrección."
+        },
+        {
+          "id": "ebir02-g2",
+          "type": "single",
+          "question": "La endofuga tipo II se asocia típicamente a:",
+          "options": [
+            "Flujo retrógrado desde ramas como lumbares o mesentérica inferior",
+            "Rotura inmediata del stent en todos los casos",
+            "Fístula aortocava obligatoria",
+            "Trombosis renal bilateral"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Las ramas colaterales pueden mantener perfusión retrógrada del saco."
+        },
+        {
+          "id": "ebir02-g3",
+          "type": "single",
+          "question": "En una pseudoaneurisma femoral postcateterismo, una opción percutánea habitual en anatomía favorable es:",
+          "options": [
+            "Inyección ecoguiada de trombina",
+            "Embolización de ambas ilíacas",
+            "TIPS",
+            "Nefrostomía"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La inyección de trombina es eficaz en pseudoaneurismas apropiados."
+        },
+        {
+          "id": "ebir02-g4",
+          "type": "single",
+          "question": "¿Cuál es una contraindicación relativa importante para biopsia percutánea?",
+          "options": [
+            "Coagulopatía no corregida",
+            "Lesión accesible por imagen",
+            "Necesidad de diagnóstico histológico",
+            "Consentimiento informado"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La coagulopatía aumenta el riesgo hemorrágico y debe optimizarse."
+        },
+        {
+          "id": "ebir02-g5",
+          "type": "single",
+          "question": "En radioembolización hepática, la planificación vascular busca especialmente:",
+          "options": [
+            "Detectar ramas extrahepáticas y estimar shunt pulmonar",
+            "Medir únicamente el tamaño renal",
+            "Ocluir ambas femorales",
+            "Evitar cualquier angiografía"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La planificación reduce depósito no diana y evalúa shunt."
+        },
+        {
+          "id": "ebir02-g6",
+          "type": "single",
+          "question": "La crioablación ofrece como ventaja intraprocedimiento:",
+          "options": [
+            "Visualización del ice-ball en imagen",
+            "Ausencia total de dolor en todos los casos",
+            "No requiere control de estructuras vecinas",
+            "No tiene riesgo hemorrágico"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "El ice-ball puede visualizarse, ayudando a monitorizar el margen de ablación."
+        },
+        {
+          "id": "ebir02-g7",
+          "type": "single",
+          "question": "En acceso venoso central, la ecografía reduce principalmente:",
+          "options": [
+            "Complicaciones mecánicas y número de intentos",
+            "Necesidad de asepsia",
+            "Necesidad de confirmar posición cuando procede",
+            "Riesgo trombótico a cero"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La guía ecográfica mejora éxito y reduce complicaciones de punción."
+        },
+        {
+          "id": "ebir02-g8",
+          "type": "single",
+          "question": "Una embolización no diana se previene mejor mediante:",
+          "options": [
+            "Cateterización selectiva, conocimiento anatómico y control del flujo",
+            "Inyección rápida sin angiografía",
+            "Uso del mayor volumen posible",
+            "Eliminar toda monitorización"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La selección adecuada y el control angiográfico son esenciales."
+        }
+      ]
+    }
+  ]
+}

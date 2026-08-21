@@ -1,0 +1,279 @@
+{
+  "id": "ebir-03",
+  "kind": "ebir",
+  "title": "Simulacro EBIR 3 · oncología intervencionista y tórax",
+  "subtitle": "Simulacro Radform · contenido original · formato abreviado",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro educativo original de Radform basado en la estructura y el currículo del EBIR. No contiene preguntas oficiales ni reproduce bancos protegidos. El formato es abreviado para entrenamiento.",
+  "sections": [
+    {
+      "id": "clinical-scenarios",
+      "title": "Escenarios clínicos secuenciales",
+      "type": "sequential",
+      "cases": [
+        {
+          "id": "ebir03-case1",
+          "title": "Hemoptisis amenazante",
+          "stem": "Paciente con bronquiectasias, hemoptisis abundante y descenso de hemoglobina. Angio-TC con arterias bronquiales hipertrofiadas.",
+          "questions": [
+            {
+              "id": "ebir03-c1q1",
+              "type": "single",
+              "question": "¿Cuál es el territorio diana inicial más probable?",
+              "options": [
+                "Arterias bronquiales y sistémicas no bronquiales relevantes",
+                "Arteria renal",
+                "Vena cava inferior",
+                "Arteria cerebral media"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "La circulación bronquial sistémica es la fuente más frecuente."
+            },
+            {
+              "id": "ebir03-c1q2",
+              "type": "single",
+              "question": "Antes de embolizar una arteria bronquial debe buscarse de forma cuidadosa:",
+              "options": [
+                "Ramas espinales",
+                "Arterias digitales de la mano",
+                "Arteria oftálmica exclusivamente",
+                "Vena porta"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "La identificación de ramas espinales es crítica para evitar isquemia medular."
+            },
+            {
+              "id": "ebir03-c1q3",
+              "type": "single",
+              "question": "¿Qué material es habitualmente apropiado para la embolización distal de arterias bronquiales?",
+              "options": [
+                "Partículas calibradas apropiadas",
+                "Aire",
+                "Contraste yodado como embolizante",
+                "Suero fisiológico"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Las partículas son materiales habituales; la elección depende de anatomía y práctica."
+            },
+            {
+              "id": "ebir03-c1q4",
+              "type": "single",
+              "question": "La recurrencia de hemoptisis tras embolización puede deberse a:",
+              "options": [
+                "Recanalización o reclutamiento de nuevas colaterales",
+                "Curación universal del proceso pulmonar",
+                "Ausencia de cualquier vascularización sistémica",
+                "Obligatoriamente a neumotórax"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "La enfermedad subyacente puede generar recanalización o nuevas colaterales."
+            }
+          ]
+        },
+        {
+          "id": "ebir03-case2",
+          "title": "Ablación de metástasis hepática",
+          "stem": "Paciente con metástasis hepática única de pequeño tamaño, alejada del hilio, candidato a tratamiento percutáneo.",
+          "questions": [
+            {
+              "id": "ebir03-c2q1",
+              "type": "single",
+              "question": "El objetivo oncológico de una ablación térmica es:",
+              "options": [
+                "Destruir el tumor con margen ablativo adecuado cuando es posible",
+                "Biopsiar sin tratar",
+                "Embolizar la vena cava",
+                "Reducir la coagulación"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "La ablación pretende lograr necrosis completa con margen de seguridad."
+            },
+            {
+              "id": "ebir03-c2q2",
+              "type": "single",
+              "question": "Una lesión adyacente a una estructura vulnerable puede requerir:",
+              "options": [
+                "Técnicas de protección como hidrodissección",
+                "Aumentar energía sin control",
+                "Eliminar la monitorización por imagen",
+                "Evitar cualquier anestesia"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "La protección térmica de estructuras vecinas es un componente importante."
+            },
+            {
+              "id": "ebir03-c2q3",
+              "type": "single",
+              "question": "¿Qué factor limita la eficacia de radiofrecuencia cerca de vasos de gran calibre?",
+              "options": [
+                "Efecto heat-sink",
+                "Aumento de contraste portal",
+                "Artefacto dental",
+                "Neumoperitoneo fisiológico"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "El flujo sanguíneo puede disipar calor y reducir eficacia."
+            },
+            {
+              "id": "ebir03-c2q4",
+              "type": "single",
+              "question": "En el control inmediato, un hallazgo deseable es:",
+              "options": [
+                "Cobertura completa de la lesión por la zona de ablación sin realce tumoral residual",
+                "Realce nodular persistente central",
+                "Hemorragia activa",
+                "Trombosis portal extensa no planificada"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "La ausencia de realce residual y un margen adecuado apoyan respuesta técnica."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general-practice",
+      "title": "Práctica clínica general",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "ebir03-g1",
+          "type": "single",
+          "question": "En síndrome de vena cava superior maligno sintomático, el stent venoso puede proporcionar:",
+          "options": [
+            "Alivio rápido de la obstrucción en pacientes seleccionados",
+            "Curación oncológica universal",
+            "Tratamiento de la hipertensión portal",
+            "Ablación tumoral completa"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "El stent puede aliviar rápidamente la congestión venosa."
+        },
+        {
+          "id": "ebir03-g2",
+          "type": "single",
+          "question": "El acceso transhepático portal se utiliza, entre otras indicaciones, para:",
+          "options": [
+            "Procedimientos portales seleccionados cuando otras vías no son adecuadas",
+            "Angioplastia coronaria",
+            "Drenaje pleural simple",
+            "Biopsia cutánea"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Es una vía de acceso a intervenciones portales seleccionadas."
+        },
+        {
+          "id": "ebir03-g3",
+          "type": "single",
+          "question": "En un absceso intraabdominal, el drenaje percutáneo suele indicarse cuando:",
+          "options": [
+            "Existe colección accesible y clínicamente significativa",
+            "Toda colección mide menos de 5 mm",
+            "No hay infección ni síntomas",
+            "El contenido es exclusivamente gas intestinal fisiológico"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Las colecciones relevantes y accesibles pueden tratarse mediante drenaje."
+        },
+        {
+          "id": "ebir03-g4",
+          "type": "single",
+          "question": "Para evitar sepsis durante drenaje de una colección infectada es importante:",
+          "options": [
+            "Manipulación controlada y drenaje eficaz",
+            "Inyectar contraste a gran presión repetidamente",
+            "Cerrar el catéter desde el inicio",
+            "Evitar antibióticos cuando están indicados"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La descompresión y manipulación prudente reducen bacteriemia/sobrepresión."
+        },
+        {
+          "id": "ebir03-g5",
+          "type": "single",
+          "question": "Un filtro de vena cava inferior se considera principalmente cuando:",
+          "options": [
+            "Existe indicación seleccionada y la anticoagulación está contraindicada o ha fallado en contextos concretos",
+            "Toda TVP distal",
+            "Toda fibrilación auricular",
+            "Toda cirugía abdominal"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Los filtros no son rutinarios y se reservan a indicaciones concretas."
+        },
+        {
+          "id": "ebir03-g6",
+          "type": "single",
+          "question": "En una oclusión arterial crónica, la elección entre vía intraluminal y subintimal depende de:",
+          "options": [
+            "Anatomía, longitud de lesión, calcificación y estrategia de reentrada",
+            "Grupo sanguíneo únicamente",
+            "Edad aislada",
+            "Color de la piel"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La estrategia endovascular depende de características anatómicas y técnicas."
+        },
+        {
+          "id": "ebir03-g7",
+          "type": "single",
+          "question": "¿Qué complicación específica puede aparecer tras embolización prostática?",
+          "options": [
+            "Embolización no diana de ramas vesicales, rectales o peneanas",
+            "Neumotórax en todos los pacientes",
+            "Trombosis cerebral obligatoria",
+            "Pancreatitis por definición"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La anatomía pélvica exige evitar embolización no diana."
+        },
+        {
+          "id": "ebir03-g8",
+          "type": "single",
+          "question": "El consentimiento informado en intervencionismo debe incluir:",
+          "options": [
+            "Alternativas, beneficios, riesgos relevantes y posibilidad de conversión/cambio de estrategia",
+            "Solo el nombre del procedimiento",
+            "Solo el coste",
+            "Ninguna complicación posible"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "El consentimiento debe cubrir información material suficiente para una decisión informada."
+        }
+      ]
+    }
+  ]
+}

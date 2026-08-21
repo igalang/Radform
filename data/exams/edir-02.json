@@ -1,0 +1,331 @@
+{
+  "id": "edir-02",
+  "kind": "edir",
+  "title": "Simulacro EDiR 2 · abdomen, músculo-esquelético y mujer",
+  "subtitle": "Simulacro Radform · contenido original · formato abreviado",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro educativo original de Radform basado en la estructura publicada del EDiR. No contiene preguntas oficiales ni reproduce bancos de pago. El scoring mostrado por Radform es orientativo y no replica el algoritmo oficial del EBR.",
+  "sections": [
+    {
+      "id": "mrq",
+      "title": "Multiple Response Questions",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "edir02-m1",
+          "type": "multiple",
+          "question": "En enfermedad de Crohn, ¿qué hallazgos de enterografía por TC/RM sugieren actividad?",
+          "options": [
+            "Engrosamiento mural",
+            "Realce estratificado",
+            "Edema mural",
+            "Úlcera profunda o comb sign"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Estos hallazgos apoyan inflamación activa."
+        },
+        {
+          "id": "edir02-m2",
+          "type": "multiple",
+          "question": "¿Qué características favorecen benignidad de un nódulo suprarrenal en TC?",
+          "options": [
+            "Baja atenuación sin contraste compatible con adenoma rico en lípidos",
+            "Washout compatible con adenoma",
+            "Grasa macroscópica en mielolipoma",
+            "Crecimiento rápido infiltrativo"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Atenuación baja, washout característico y grasa macroscópica pueden ser benignos."
+        },
+        {
+          "id": "edir02-m3",
+          "type": "single",
+          "question": "La displasia del desarrollo de cadera pediátrica se evalúa inicialmente en lactantes pequeños principalmente con:",
+          "options": [
+            "Ecografía",
+            "TC multifásica",
+            "PET-TC",
+            "Radiografía dental"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La ecografía permite evaluar caderas no osificadas."
+        },
+        {
+          "id": "edir02-m4",
+          "type": "single",
+          "question": "En miocardiopatía hipertrófica, la RM cardiaca puede mostrar:",
+          "options": [
+            "Hipertrofia asimétrica y realce tardío",
+            "Agenesia renal",
+            "Dilatación ureteral",
+            "Calcificaciones biliares"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La RM caracteriza hipertrofia y fibrosis."
+        },
+        {
+          "id": "edir02-m5",
+          "type": "multiple",
+          "question": "¿Qué hallazgos favorecen torsión testicular en ecografía Doppler?",
+          "options": [
+            "Disminución o ausencia de flujo intratesticular",
+            "Aumento de tamaño",
+            "Heterogeneidad en fases avanzadas",
+            "Flujo arterial aumentado simétrico siempre"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "La reducción del flujo y cambios morfológicos apoyan torsión."
+        },
+        {
+          "id": "edir02-m6",
+          "type": "single",
+          "question": "En espondilodiscitis, la RM suele mostrar:",
+          "options": [
+            "Alteración de platillos vertebrales y disco adyacente",
+            "Integridad completa del disco en todos los casos",
+            "Solo calcificación del ligamento amarillo",
+            "Neumotórax"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La afectación discal y de platillos es típica."
+        },
+        {
+          "id": "edir02-m7",
+          "type": "single",
+          "question": "En TC de alta resolución, panalización subpleural basal con bronquiectasias de tracción sugiere patrón:",
+          "options": [
+            "UIP",
+            "Edema cardiogénico aislado",
+            "Neumonía lobar simple",
+            "Asma"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "El patrón UIP típico incluye reticulación basal/subpleural, tracción y panalización."
+        },
+        {
+          "id": "edir02-m8",
+          "type": "multiple",
+          "question": "¿Qué principios son correctos respecto al contraste yodado?",
+          "options": [
+            "Valorar antecedentes de reacciones previas",
+            "Usar indicación clínica y dosis apropiada",
+            "Considerar función renal en pacientes de riesgo",
+            "Asumir riesgo cero en cualquier paciente"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "La evaluación individual de riesgo y beneficio es esencial."
+        }
+      ]
+    },
+    {
+      "id": "short-cases",
+      "title": "Short Cases",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "edir02-s1",
+          "type": "single",
+          "question": "Una masa extraaxial con cola dural y realce intenso sugiere con mayor probabilidad:",
+          "options": [
+            "Meningioma",
+            "Glioblastoma intraventricular",
+            "Infarto lacunar",
+            "Quiste aracnoideo simple"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "La localización extraaxial, cola dural y realce son típicos de meningioma."
+        },
+        {
+          "id": "edir02-s2",
+          "type": "single",
+          "question": "En ecografía tiroidea, un nódulo marcadamente hipoecoico con márgenes irregulares y microcalcificaciones es:",
+          "options": [
+            "Sospechoso y requiere estratificación según sistema aplicable",
+            "Definitivamente benigno",
+            "Compatible con quiste simple",
+            "No requiere descripción"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Son rasgos ecográficos sospechosos."
+        },
+        {
+          "id": "edir02-s3",
+          "type": "single",
+          "question": "En radiografía de mano, erosiones marginales y osteopenia periarticular simétrica sugieren:",
+          "options": [
+            "Artritis reumatoide",
+            "Artrosis primaria exclusivamente",
+            "Gota tofácea siempre",
+            "Osteomielitis aguda multifocal"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "El patrón inflamatorio simétrico y erosivo es típico de artritis reumatoide."
+        },
+        {
+          "id": "edir02-s4",
+          "type": "single",
+          "question": "Un quiste renal simple Bosniak I se caracteriza por:",
+          "options": [
+            "Pared fina, contenido líquido y sin realce",
+            "Nódulo mural con realce",
+            "Septos gruesos irregulares",
+            "Componente sólido vascular"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Bosniak I corresponde a quiste simple."
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "CORE Cases",
+      "type": "sequential",
+      "cases": [
+        {
+          "id": "edir02-core1",
+          "title": "Trauma abdominal",
+          "stem": "Paciente politraumatizado estable. TC con lesión esplénica y blush de contraste.",
+          "questions": [
+            {
+              "id": "edir02-core1q1",
+              "type": "single",
+              "question": "El blush arterial en el bazo representa:",
+              "options": [
+                "Sangrado vascular activo/pseudoaneurisma",
+                "Quiste simple",
+                "Calcificación granulomatosa",
+                "Artefacto dental"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "El foco de contraste arterial fuera del patrón vascular habitual indica lesión vascular."
+            },
+            {
+              "id": "edir02-core1q2",
+              "type": "single",
+              "question": "En paciente estable, una opción de manejo puede incluir:",
+              "options": [
+                "Embolización esplénica según lesión y contexto",
+                "Laparotomía obligatoria en todos",
+                "Alta sin observación",
+                "Anticoagulación plena inmediata por el blush"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "La embolización es una opción de preservación esplénica en pacientes seleccionados."
+            },
+            {
+              "id": "edir02-core1q3",
+              "type": "single",
+              "question": "¿Qué informe sería potencialmente inseguro?",
+              "options": [
+                "Omitir un sangrado arterial activo claramente visible",
+                "Describir grado de lesión",
+                "Comunicar hallazgo vascular",
+                "Valorar hemoperitoneo"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "No comunicar sangrado activo puede retrasar tratamiento urgente.",
+              "unsafeOptions": [
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edir02-core2",
+          "title": "Masa anexial",
+          "stem": "Mujer posmenopáusica con masa anexial compleja en ecografía y RM.",
+          "questions": [
+            {
+              "id": "edir02-core2q1",
+              "type": "single",
+              "question": "¿Qué hallazgo aumenta sospecha de malignidad?",
+              "options": [
+                "Proyecciones papilares sólidas con realce",
+                "Quiste unilocular anecoico de pared fina",
+                "Folículo simple",
+                "Ausencia total de componente sólido"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Componente sólido/papilar con realce aumenta sospecha."
+            },
+            {
+              "id": "edir02-core2q2",
+              "type": "single",
+              "question": "La presencia de ascitis y implantes peritoneales debe:",
+              "options": [
+                "Elevar la sospecha de enfermedad avanzada",
+                "Considerarse fisiológica sin más",
+                "Excluir malignidad",
+                "Interpretarse como artrosis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Ascitis e implantes son hallazgos de extensión peritoneal."
+            },
+            {
+              "id": "edir02-core2q3",
+              "type": "single",
+              "question": "Sería potencialmente inseguro:",
+              "options": [
+                "Informar como quiste funcional benigno sin mencionar los implantes",
+                "Recomendar correlación oncológica",
+                "Describir extensión peritoneal",
+                "Valorar ganglios"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Minimizar hallazgos claramente sospechosos puede retrasar diagnóstico.",
+              "unsafeOptions": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
