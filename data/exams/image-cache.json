@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T12:40:34Z",
+  "generated_at": "2026-08-21T14:00:07Z",
   "results": [
     {
       "key": "ebir-tips-tract",
@@ -13,6 +13,28 @@
       "originalTitle": "Fluoroscopic image of transjugular intrahepatic portosystemic shunt (TIPS) in progress.jpg"
     },
     {
+      "key": "ebir01-case1-media",
+      "query": "transjugular intrahepatic portosystemic shunt fluoroscopy",
+      "imageUrl": "./generated/exams/ebir01-case1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fluoroscopic_image_of_transjugular_intrahepatic_portosystemic_shunt_(TIPS)_in_progress.jpg",
+      "author": "Samir",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Fluoroscopic image of transjugular intrahepatic portosystemic shunt (TIPS) in progress. A catheter has been passed into the hepatic vein and after needle puncture, a guidewire was passed into a portal vein branch. The tract was dilated with a balloon, and contrast injected. A self-expandable metallic stent has yet to be placed over the wire. I ordered this investigation. A signed consent from the patient has been obtained.",
+      "originalTitle": "Fluoroscopic image of transjugular intrahepatic portosystemic shunt (TIPS) in progress.jpg"
+    },
+    {
+      "key": "ebir01-case2-media",
+      "query": "pelvic arterial embolization angiography trauma",
+      "imageUrl": "./generated/exams/ebir01-case2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Buffalo_medical_journal_(1905)_(14781534454).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Identifier : buffalomedicaljo6119unse ( find matches ) Title : Buffalo medical journal Year : 1906 ( 1900s ) Authors : Subjects : Medicine Publisher : Buffalo, N.Y. : (s.n.) Contributing Library : The College of Physicians of Philadelphia Historical Medical Library Digitizing Sponsor : The College of Physicians of Philadelphia and the National Endowment for the Humanities View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: Circulation and respira-tion are normal with the exception of slight arterial sclerosis. Onstanding the uterus, the vagina, the broad and round ligaments,the rectum, the bladder, and a considerable portion of the smallintestine form a large oval-shaped protrusion, extending almostto the knees. On the cervix there is extensive ulceration. Themucous membrane is greatly thickened and hardened and is theseat of chronic inflammation. The first operation consisted of an amputation of the cervix,and a reduction of the hernia with extensive anterior and pos-terior plastic operations upon the vaginal wall, together with asextensive a repair of the perineum as was possible. The diffi-culty in doing this portion of the operation was due to the almostcomplete disappearance of the rectovaginal septum, with markedstretching of all the parts in the extensive descent of the hernia. 1. Read at the meeting: of the Clinical and Pathologfical Section of the Academy ofMedicine of Cleveland, March 3.1905. Text Appearing After Image: Fig. 2.—Showing relations of pelvic structures in pelvic hernia. Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+      "originalTitle": "Buffalo medical journal (1905) (14781534454).jpg"
+    },
+    {
       "key": "ebir-nephrostomy",
       "query": "Nephrostomy, case 1, X-ray 2.jpg",
       "imageUrl": "./generated/exams/ebir-nephrostomy.jpg",
@@ -22,6 +44,28 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "description": "Left kidney nephrostomy. 50-years-old woman. After contrast injection.",
       "originalTitle": "Nephrostomy, case 1, X-ray 2.jpg"
+    },
+    {
+      "key": "ebir02-case1-media",
+      "query": "acute limb ischemia angiography thrombectomy",
+      "imageUrl": "./generated/exams/ebir02-case1-media.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Acuteoccluisionaxartery.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Acute occlusion of the axillary artery resulting in an ischemic limb",
+      "originalTitle": "Acuteoccluisionaxartery.png"
+    },
+    {
+      "key": "ebir02-case2-media",
+      "query": "percutaneous transhepatic biliary drainage fluoroscopy",
+      "imageUrl": "./generated/exams/ebir02-case2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Perkutan_transhepatische_Cholangiographie.jpg",
+      "author": "J. Guntau at German Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Perkutan transhepatische Cholangiographie Albertinen-Krankenhaus Hamburg II.Medizin 2006",
+      "originalTitle": "Perkutan transhepatische Cholangiographie.jpg"
     },
     {
       "key": "ebir02-endoleak",
@@ -46,6 +90,17 @@
       "originalTitle": "Lung - Therapeutic Bronchial Artery Embolization With Spherical Microspheres (49160126541).jpg"
     },
     {
+      "key": "ebir03-case1-media",
+      "query": "bronchial artery embolization angiography",
+      "imageUrl": "./generated/exams/ebir03-case1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lung_-_Therapeutic_Bronchial_Artery_Embolization_With_Spherical_Microspheres_(49160126541).jpg",
+      "author": "Atlas of Medical Foreign Bodies",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Therapeutic embolization is a procedure in interventional radiology that is most commonly used to treat arteriovenous malformations hypervascular tumors , including uterine fibroids and hepatoma and symptomatic BPH. A wide variety of agents, both temporary and permanent, are available and each has its own place and use. This image shows spherical microspheres, permanent agents, that are manufactured from synthetic materials that vary in diameter according to the size of the vessels that one is seeking to occlude. This is a case of cystic fibrosis-associated bronchiectasis complicated by hemoptysis that was treated with bronchial artery embolization. Image contributed by Dr. Sanjay Mukhopadhyay - @smlungpathguy",
+      "originalTitle": "Lung - Therapeutic Bronchial Artery Embolization With Spherical Microspheres (49160126541).jpg"
+    },
+    {
       "key": "ebir-liver-rfa",
       "query": "RFA CT Leber 001.jpg",
       "imageUrl": "./generated/exams/ebir-liver-rfa.jpg",
@@ -55,6 +110,17 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "description": "Radiofrequenzablation eines Leberherdes. Kontrolle der Position mit ausgefahrenem Schirm. Das Bild ist als 15mm-Schicht gerechnet, um die einzelnen Schirmarme zu zeigen. Die Nadel liegt nicht genau in der Ebene des CT-Bildes, so dass die Eintrittsstelle durch die Haut nicht mit abgebildet ist.",
       "originalTitle": "RFA CT Leber 001.jpg"
+    },
+    {
+      "key": "ebir03-case2-media",
+      "query": "liver tumor thermal ablation CT",
+      "imageUrl": "./generated/exams/ebir03-case2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Secondary_tumor_deposits_in_the_liver_from_a_primary_cancer_of_the_pancreas.jpg",
+      "author": "Haymanj",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Cross section of a human liver, taken at autopsy examination, showing multiple large pale tumor deposits. The tumor is an adenocarcinoma derived from a primary lesion in the body of the pancreas.",
+      "originalTitle": "Secondary tumor deposits in the liver from a primary cancer of the pancreas.jpg"
     },
     {
       "key": "ebir04-splenic-aneurysm",
@@ -68,6 +134,28 @@
       "originalTitle": "Celiac Trunk and Branches.jpg"
     },
     {
+      "key": "ebir04-case1-media",
+      "query": "splenic artery aneurysm angiography embolization",
+      "imageUrl": "./generated/exams/ebir04-case1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Celiac_Trunk_and_Branches.jpg",
+      "author": "Dennis M DePace, PhD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "The image shows the three major branches of the celiac trunk and their subsidiary branches. The stomach is reflected cranially to expose the splenic artery and pancreaticoduodenal vessels. These form an arcade along the head of the pancreas and are an anastomosis between the celiac trunk and superior mesenteric artery.",
+      "originalTitle": "Celiac Trunk and Branches.jpg"
+    },
+    {
+      "key": "ebir04-case2-media",
+      "query": "transarterial chemoembolization hepatocellular carcinoma angiography",
+      "imageUrl": "./generated/exams/ebir04-case2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Embolic_Microspheres_-_Gallbladder_%26_Liver_(49427284867).jpg",
+      "author": "Atlas of Medical Foreign Bodies",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "These microspheres were found in the gallbladder of a patient who underwent transarterial chemoembolization (TACE) for treatment of hepatocellular carcinoma. They may induce fibrosis and a foreign body giant cell reaction. Images contributed by Dr. Zhao Chang - @zhaochang001",
+      "originalTitle": "Embolic Microspheres - Gallbladder & Liver (49427284867).jpg"
+    },
+    {
       "key": "ebir05-iliac-vein-stent",
       "query": "iliac vein compression venography stent May-Thurner",
       "imageUrl": "./generated/exams/ebir05-iliac-vein-stent.png",
@@ -77,6 +165,28 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "description": "Deep vein thrombosis of the left external iliac in a person with bladder cancer.",
       "originalTitle": "BladderCADVTleft.png"
+    },
+    {
+      "key": "ebir05-case1-media",
+      "query": "May Thurner iliac vein stent venography",
+      "imageUrl": "./generated/exams/ebir05-case1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ehrenpromotion_Martin_Thurner_Ankara.jpg",
+      "author": "Summula",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Verleihung der Würde eines Ehrendoktors (Doctor honoris causa) der Universität Ankara an Prof. Dr. Martin Thurner durch Rektor Prof. Dr. Erkan İbiş am 27. September 2018.",
+      "originalTitle": "Ehrenpromotion Martin Thurner Ankara.jpg"
+    },
+    {
+      "key": "ebir05-case2-media",
+      "query": "hemodialysis fistula angioplasty fistulogram",
+      "imageUrl": "./generated/exams/ebir05-case2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LAMAT_25_Delivers_Critical_Vascular_Surgery,_Strengthens_Readiness_in_Saint_Lucia_(8900333).jpg",
+      "author": "U.S. Air Force photo by Andrea Jenkins",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "U.S. Air Force Col. Robert Noll, 349th Medical Squadron commander and vascular surgeon, and Tech. Sgt. Michael Jones, 349th MDS surgical technician, conduct a Arteriovenous Fistula procedure on a patient during the Lesser Antilles Medical Assistance Team mission at St. Jude Hospital in Vieux Fort, Saint Lucia, March 4, 2025. A dialysis fistula is a connection that a surgeon makes between an artery and a vein to make it possible for a patient to receive hemodialysis. The LAMAT mission seeks to strengthen U.S. partnerships within Latin America and the Caribbean region by providing relief to overwhelmed medical facilities through collaboration with host nation medical practitioners and respective Ministry of Health officials. (U.S. Air Force photo by Andrea Jenkins)",
+      "originalTitle": "LAMAT 25 Delivers Critical Vascular Surgery, Strengthens Readiness in Saint Lucia (8900333).jpg"
     },
     {
       "key": "ebir06-nephrostomy",
@@ -90,9 +200,42 @@
       "originalTitle": "Nephrostomy, case 1, X-ray 1.jpg"
     },
     {
+      "key": "ebir06-case1-media",
+      "query": "percutaneous nephrostomy fluoroscopy",
+      "imageUrl": "./generated/exams/ebir06-case1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ultrasonography_of_percutaneous_nephrostomy_tube.jpg",
+      "author": "Kristoffer Lindskov Hansen, Michael Bachmann Nielsen and Caroline Ewertsen",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Percutaneous nephrostomy tube placed through a calyx in the lower pole of a kidney with hydronephrosis. (B) The pigtail catheter is placed in the dilated calyx. The tube in (A) and the pigtail in (B) are marked with white arrows. For context, see en:Renal ultrasonography",
+      "originalTitle": "Ultrasonography of percutaneous nephrostomy tube.jpg"
+    },
+    {
+      "key": "ebir06-case2-media",
+      "query": "liver abscess percutaneous drainage CT",
+      "imageUrl": "./generated/exams/ebir06-case2-media.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Emphysematous_liver_abscess_as_shown_on_CT_and_ultrasound_in_axial_view.png",
+      "author": "Cerevisae",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Emphysematous liver abscess as shown on CT and ultrasound in axial view. Left image: CT scan in axial view showing the presence of air within the segment 8 liver abscesses. Right image: Ultrasound showing echogenic air within the liver abscess. The right image was taken during an attempt to drain the liver abscess by inserting a needle through the subcoastal region.",
+      "originalTitle": "Emphysematous liver abscess as shown on CT and ultrasound in axial view.png"
+    },
+    {
       "key": "edir-chole-us",
       "query": "acute cholecystitis ultrasound",
       "imageUrl": "./generated/exams/edir-chole-us.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MildGBWallthickening(3.5mm).png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Mild gallbladder wall thickening of 3.5 mm in a person with acute cholecystitis as seen on ultrasound",
+      "originalTitle": "MildGBWallthickening(3.5mm).png"
+    },
+    {
+      "key": "edir01-short1-media",
+      "query": "acute cholecystitis ultrasound gallbladder wall",
+      "imageUrl": "./generated/exams/edir01-short1-media.png",
       "sourcePage": "https://commons.wikimedia.org/wiki/File:MildGBWallthickening(3.5mm).png",
       "author": "James Heilman, MD",
       "license": "CC BY-SA 4.0",
@@ -112,6 +255,39 @@
       "originalTitle": "Chest X-ray of pneumothorax.png"
     },
     {
+      "key": "edir01-short2-media",
+      "query": "pneumothorax chest x ray pleural line",
+      "imageUrl": "./generated/exams/edir01-short2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_American_journal_of_roentgenology,_radium_therapy_and_nuclear_medicine_(1906)_(14754432381).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Identifier : americanjournroen08ameruoft ( find matches ) Title : The American journal of roentgenology, radium therapy and nuclear medicine Year : 1906 ( 1900s ) Authors : American Radium Society American Roentgen Ray Society Subjects : Radiotherapy X-rays Publisher : Springfield, Ill. C.C. Thomas Contributing Library : Gerstein - University of Toronto Digitizing Sponsor : University of Toronto View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: hadchancre at the age of twenty-seven and ahistory of gonorrheal infection over tenyears. He complained of shortness of breath,weakness, aching between the shoulders atnight, occasional night sweats, and that hewas incapacitated for work. He had losttwenty pounds in weight in six months. 269 270 Aneurysm of the Aorta Examination revealed general adenopathy,expansion was limited on the left side of thechest; the percussion note was flat; vocalresonance and vocal fremitus were dimin-ished. The breath sounds on the left sidewere distant; there were no rales, and nochangeable dullness. The pulse was regular;a systolic murmur heard at the base and tothe left of the mid-sternal line was believed Pneumothorax did not follow these operat-ive procedures. The patient returned to his home Septem-ber 2, and word was received of his deathin November. We are indebted for the following notesto Dr. T. R. Martin, of the Duluth Clinic,who performed the necropsy. On opening the chest both pleural cavi- Text Appearing After Image: Fig. I. Case 280,177. Shows shadow bulging intoupper mediastinum. to be an accentuated second sound. The sys-tolic blood pressure was 136, the diastolic92; the hemoglobin and blood count werenormal. Examination of the sputum, theWassermann reaction, and the electrocardio-graphic findings were negative. Roentgen examination revealed a denseshadow throughout the entire area of the leftlung. This suggested fluid, but aspirationfailed to reveal it. An attempt to elicit fluidtwo days later by the same method failed anda small incision was made, deep enough toallow a few tiny bubbles of air to escape.The pleura was not appreciably thickenedbut appeared to be adherent to the lung. Fig 2. Case 8734. Shows dense shadow in areaof left luiig. ties were found to be obliterated by oldadhesions and the pericardium was adherentto the pleura on the left side. The lungsand heart were removed en masse; in strip-ping down the descending aorta the knifemet with an obstruction, which proved to bean aneury Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+      "originalTitle": "The American journal of roentgenology, radium therapy and nuclear medicine (1906) (14754432381).jpg"
+    },
+    {
+      "key": "edir-sc-sah",
+      "query": "subarachnoid hemorrhage CT basal cisterns",
+      "imageUrl": "./generated/exams/edir-sc-sah.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Subarachnoid_haemorrhage.jpg",
+      "author": "Lipothymia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "The picture shows a computer tomography slice of the human brain. In the centre, one can see hyperintense areas corresponding to blood in the subarachnoid basal cisterns, thus this patient has had an subarachnoid haemorrhage . Laterally, one can see a discrete widening of the temporal horns of the lateral ventricles , indicating that the patient has hydrocephalus .",
+      "originalTitle": "Subarachnoid haemorrhage.jpg"
+    },
+    {
+      "key": "edir-sc-pe",
+      "query": "pulmonary embolism CT angiography filling defect",
+      "imageUrl": "./generated/exams/edir-sc-pe.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pulmonary_embolism.jpg",
+      "author": "Walter Serra, Giuseppe De Iaco, Claudio Reverberi and Tiziano Gherli",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Chest Spiral CT (with and without contrast agent) showing multiples filling defects of principal branches, due to acute and chronic pulmonary embolism.",
+      "originalTitle": "Pulmonary embolism.jpg"
+    },
+    {
       "key": "edir-aortic-dissection",
       "query": "aortic dissection CT",
       "imageUrl": "./generated/exams/edir-aortic-dissection.jpg",
@@ -121,6 +297,28 @@
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "description": "CT scan of aortic dissection type Stanford A",
       "originalTitle": "AoDiss CT A-Diss.jpg"
+    },
+    {
+      "key": "edir01-core1-media",
+      "query": "aortic dissection CT intimal flap",
+      "imageUrl": "./generated/exams/edir01-core1-media.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aortic_Dissection_Inpainting.png",
+      "author": "EmmaWiki2020",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Studierfenster is an Open Science client/server-based Medical Imaging Processing (MIP) online framework The screenshot shows the inpainting of an aortic dissection with an Generative Adversarial Network (GAN) in an Computed Tomography Angiography (CTA) scan of a patient.",
+      "originalTitle": "Aortic Dissection Inpainting.png"
+    },
+    {
+      "key": "edir01-core2-media",
+      "query": "acute ischemic stroke CT angiography large vessel occlusion",
+      "imageUrl": "./generated/exams/edir01-core2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MCA-Stroke-Brain-Human-2.JPG",
+      "author": "Marvin 101",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Photograph of acute middle cerebral artery (MCA) stroke. Image taken at autopsy on 10-24-2006 MODIFIED BACKGROUND",
+      "originalTitle": "MCA-Stroke-Brain-Human-2.JPG"
     },
     {
       "key": "edir02-meningioma",
@@ -134,6 +332,138 @@
       "originalTitle": "Meningeom im Spinalkanal MRT.jpg"
     },
     {
+      "key": "edir02-short1-media",
+      "query": "meningioma MRI dural based mass",
+      "imageUrl": "./generated/exams/edir02-short1-media.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MRI_brain_of_extra-axial_lesion_at_right_frontal_lobe_with_perilesional_oedema.png",
+      "author": "Cerevisae",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "MRI Brain of extra-axial lesion at right frontal lobe with perilesional oedema. Left image: T1 weighted post gadolinium administration shows enhanced extra-axial mass with dural tail sign. Right image: T2 weighted image shows high signal intensity surrounding the lesion which signifies perilesional oedema. Meningioma is the most common differential diagnosis of this lesion.",
+      "originalTitle": "MRI brain of extra-axial lesion at right frontal lobe with perilesional oedema.png"
+    },
+    {
+      "key": "edir02-short2-media",
+      "query": "thyroid nodule ultrasound suspicious microcalcifications",
+      "imageUrl": "./generated/exams/edir02-short2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CT_and_ultrasound_of_thyroid_colloid_nodule.jpg",
+      "author": "Mnahi Bin Saeedan, Ibtisam Musallam Aljohani, Ayman Omar Khushaim, Salwa Qasim Bukhari, and Salahudin Tayeb Elnaas",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "For context, see Computed tomography of the thyroid .",
+      "originalTitle": "CT and ultrasound of thyroid colloid nodule.jpg"
+    },
+    {
+      "key": "edir-sc-scaphoid",
+      "query": "scaphoid fracture x ray wrist",
+      "imageUrl": "./generated/exams/edir-sc-scaphoid.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:American_X-ray_journal_(1897)_(14733837456).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Identifier : americanxrayjour1418unse ( find matches ) Title : American X-ray journal Year : 1899 ( 1890s ) Authors : Subjects : X-Rays Radiography Publisher : St. Louis : American X-Ray Publishing Co. Contributing Library : The College of Physicians of Philadelphia Historical Medical Library Digitizing Sponsor : Open Knowledge Commons and the National Endowment for the Humanities View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: South :and with the small but sufficient quantityof a grain of alum to the gallon of water,as recommended by Professor Leffman. ithas no injurious effects, for the simplereason that it is not there—that is. it isinstantly broken up in combination withthe impurities of the water, and falls to thebottom a new and neutral substance whichany filter will arrest. Professor Leffmanomits to mention w hat he probably knows,that not only carbonates, but all organicmatters in solution (that is to say. nitro-genous matters), enter thus into combina-tion with alum, and thus and only thus canbe filtered out of drinking water, takingwith them the microbes and other micro-scopical suspended matters present whichno sand or stone strainer could otherw isearrest.—Modern Medical Scioice. For the wave-length of the x-rays some-observers obtained v alues about one-tenththat of the extreme violet, while anotherobtained a v alue greater than that of theextreme red. II) THE A ME RICA N X-RA Y JO LIRA\\-\\ L Text Appearing After Image: Plate io. L. M. Q. Double reflector tube, high frequency coil. Exposure, two minutes, 16 inches distant. Radiograph of both forearms and wrist of a man 31 3ears of age. The palmar surfacefaced the sensitive plate. The left ulnar and radius fractured at the junction of the upper andmiddle third, and the carpal end of the radius fractured in one-half of its articular surface.The scaphoid and semi-lunar are also fractured. The wrist is almost completely ankvlosed.The injuries are two years old and were caused by falling from a scaffolding 35 feet. Theradius is bent in the shaft at the site of injury, the upper fragment leaning towards the ulnar side.The fragments being, however, in apposition, the union has kindly taken place without retainedprovisional callus, and the cancellated tissue can be seen throughout the entire shaft. The ulnarclearly shows vicious union, the cancellous tissue terminating openly at the end of each frag-ment, and a large provisional callus is thrown out and reta Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+      "originalTitle": "American X-ray journal (1897) (14733837456).jpg"
+    },
+    {
+      "key": "edir-sc-rcc",
+      "query": "renal cell carcinoma contrast enhanced CT mass",
+      "imageUrl": "./generated/exams/edir-sc-rcc.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Modern_surgery,_general_and_operative_(1914)_(14596101447).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Identifier : modernsurgerygen1914daco ( find matches ) Title : Modern surgery, general and operative Year : 1914 ( 1910s ) Authors : Da Costa, J. Chalmers (John Chalmers), 1863-1933 Subjects : Surgery Surgery, Operative Publisher : Philadelphia, London, W. B. Saunders company Contributing Library : Columbia University Libraries Digitizing Sponsor : Open Knowledge Commons View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: re was no increase of arterial tension. The patient died. Another case 1274 Diseases and Injuries of the Genito-urinary Organs was a woman of forty-five who was brought to the Jefferson Hospital. Shehad suffered from pain in the loin for months. It was paroxysmal, but lackedthe radiation of renal colic. Hematuria appeared long after the pain hadbegun. It was persistent, but small in amount. Palpation detected a tumorand the x-rays showed enlarged kidney. There was no increase of arterialtension. Recovery followed nephrectomy. In a man, aged thirty-four, in thePhiladelphia Hospital there were attacks of severe pain referred to the groin,testicle, and loin. The bleeding was profuse. A mass was palpable in the rightupper abdomen and loin. Examination of blood showed hemolysis, but therewas no hypertension. The growth was exposed in the loin. Hemorrhage wasso violent that it became necessary to open the abdomen and ligate the renalpedicle. The kidney was removed and the patient recovered. Text Appearing After Image: .—Sarcoma of kidney with metastasis (Horwitz). Very malignant cases have proved fatal within six weeks after symptomswere observed. Some patients have lived three years. A hypernephroma ofmalignant nature involves adjacent structures, and gives rise, after a time, tometastases, particularly by way of the blood. The bones are most liable tometastatic deposit, but such deposits may occur in the limgs, liver, and otherregions. In a case upon which I operated for a supposed adenomatous goiterthe condition was really metastatic hypernephroma. Hypernephromata areinfinitely more common in the kidney than anywhere else. They tend par-ticularly to occur in middle life. Sarcoma or carcinoma may arise in the kidney.Sarcoma is most common in the young, and may reach an enormous size(Fig. 849). A malignant tumor of the kidney produces hematuria, the urineoften containing blood-casts of the ureter, kidney, and pelvis, and sometimes,though rarely, characteristic cells. Pain is often present in the Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+      "originalTitle": "Modern surgery, general and operative (1914) (14596101447).jpg"
+    },
+    {
+      "key": "edir02-core1-media",
+      "query": "splenic laceration trauma CT contrast extravasation",
+      "imageUrl": "./generated/exams/edir02-core1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Thoracic_splenosis_Case_188_(5926971729).jpg",
+      "author": "Yale Rosen from USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Splenosis is autotransplantation of splenic tissue following post-traumatic splenic rupture. Splenosis is seen mostly in the abdominal cavity but if there is post-traumatic diaphragmatic rupture and/or a hiatus hernia splenic tissue may gain access to the pleural cavity and become implanted on the pleural surface or, rarely, within the lung, if there is concomitant lung laceration. Thoracic splenosis is almost always asypmtomatic and is usually diagnosed decades following the initial traumatic injury when detected as an incidental finding on a chest imaging study. It always occurs in the left pleural cavity. The splenic tissue is encapsulated and within the red pulp there are 2 lymhoid nodules (white pulp) one of which contains a germinal center.",
+      "originalTitle": "Thoracic splenosis Case 188 (5926971729).jpg"
+    },
+    {
+      "key": "edir02-core2-media",
+      "query": "ovarian malignancy complex adnexal mass MRI CT",
+      "imageUrl": "./generated/exams/edir02-core2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Transactions_of_the_Southern_Surgical_and_Gynecological_Association_(1920)_(14780496211).jpg",
+      "author": "Southern Surgical and Gynecological Association (U.S.)",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Identifier : transactionsofso3319sout ( find matches ) Title : Transactions of the Southern Surgical and Gynecological Association Year : 1920 ( 1920s ) Authors : Southern Surgical and Gynecological Association (U.S.) Subjects : Surgery Gynecology Surgery Genital Diseases, Female Publisher : (S.l.) : The Association Contributing Library : Yale University, Cushing/Whitney Medical Library Digitizing Sponsor : The College of Physicians of Philadelphia and the National Endowment for the Humanities View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: uding simple cysts, dermoids,sarcoma and carcinoma. Only two instances, however,have been previously recorded in which the condition wasoperated upon in the first year of life. That the two caseshitherto reported in young infants as well as the authorscase were simple cysts and were first noted at birth or shortlyafterwards suggests that this type of growth may reachconsiderable size in the fetus, and that the earlier in lifethese tumors make their appearance the better the chancesare that the growth is benign rather than malignant. In a resume of the 60 cases of ovarian tumors occurring inchildren ten years of age and younger reported up to 1904,Weil1 states that 21, or 35 per cent, were dermoids; 19, or 31.6per cent, cysts, single or multilocular; 15, or 25 per cent,sarcoma, and the remainder carcinomata or papillomata.Twenty-six cases under the age of ten have been recordedsince Weils report was made. Two were simple cysts, 8dermoids, and 16 malignant—either carcinoma or sarcoma. Text Appearing After Image: Fig. 2.—Appearance of patient, aged ten months, after operation. WILLIAM A. DOWNES 345 The youngest recorded case of malignancy in an infant is oneyear and eight months, and of a dermoid two years.In studying the statistics of the 60 cases reported prior to1904 it will be seen that more than 66 per cent, are classed asbenign and 32 per cent, as malignant, whereas of the 26 casesrecorded since that date, 62 per cent, are classed as malignantand 38 per cent, benign. The probable explanation for theapparent discrepancy in these findings is due to the fact thata more careful and thorough microscopical examination wasmade in the later series. Donhauser? of the Bender Labora-tory in 1906 called attention to the importance of makinga careful histologic study of all so-called simple cysts of theovary with the view of deciding the question of malignancy.A comparison of the pathologic findings in the early and lateseries of cases quoted above proves the value of this authorssuggestion. Furthe Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+      "originalTitle": "Transactions of the Southern Surgical and Gynecological Association (1920) (14780496211).jpg"
+    },
+    {
+      "key": "edir03-short1-media",
+      "query": "ureteric stone CT hydronephrosis",
+      "imageUrl": "./generated/exams/edir03-short1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:KidneyStone.JPG",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "CT of abdomen without contrast showing right proximal ureteric stone causing mild obstruction and hydronephrosis ( marked by an arrow ).",
+      "originalTitle": "KidneyStone.JPG"
+    },
+    {
+      "key": "edir03-short2-media",
+      "query": "femoral neck fracture x ray displaced",
+      "imageUrl": "./generated/exams/edir03-short2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Femurfraktur_unter_Bisphosphonattherapie_57W_-_CT_Topo_Volumen_Rendering_postoperatives_Roentgen_-_001.jpg",
+      "author": "Hellerhoff",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Right femoral shaft fracture during bisphosphonate therapy for breast cancer: There is a short, transverse fracture of proximal shaft fracture with pre-existing thickening of the outer cortex. This signifies a previous stress fracture that has not yet been displaced which is later being displaced by more than the shaft width. The pre-existing fissure and thickening can best be seen after bone fixation (right image). There is also a left proximal femoral fracture with intramedullary nail already inserted. Images from left to right: computed tomography topogram of the pelvis and bilateral femur, volume rendering of the right femur, and postoperative X-ray of the right femur after bone fixation.",
+      "originalTitle": "Femurfraktur unter Bisphosphonattherapie 57W - CT Topo Volumen Rendering postoperatives Roentgen - 001.jpg"
+    },
+    {
+      "key": "edir-sc-sbo",
+      "query": "small bowel obstruction CT transition point",
+      "imageUrl": "./generated/exams/edir-sc-sbo.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Upright_X-ray_demonstrating_small_bowel_obstruction.jpg",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "An upright Xray demonstrating a small bowel obstruction (multiple air fluid levels).",
+      "originalTitle": "Upright X-ray demonstrating small bowel obstruction.jpg"
+    },
+    {
+      "key": "edir-sc-subdural",
+      "query": "acute subdural hematoma CT crescentic",
+      "imageUrl": "./generated/exams/edir-sc-subdural.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ct-scan_of_the_brain_with_an_subdural_hematoma.jpg",
+      "author": "Lucien Monfils",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Ct-scan of the brain with an subdural hematoma",
+      "originalTitle": "Ct-scan of the brain with an subdural hematoma.jpg"
+    },
+    {
+      "key": "edir03-core1-media",
+      "query": "acute mesenteric ischemia CT angiography SMA occlusion",
+      "imageUrl": "./generated/exams/edir03-core1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:William_Maxwell_Wood.jpg",
+      "author": "U.S. Navy. Bureau of Medicine and Surgery",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "United States Navy Medical News Letter Vol. 49, No. 3, 10 February 1967 Surgeons General of the Past (The fifth in a series of brief biographies): William Maxwell Wood ... cover SPECIAL ARTICLE The Armed Forces Institute of Pathology: An Educational Opportunity ... 1 MEDICAL ARTICLES Serum Enzyme Determinations in Diagnosis of Ischemic Heart Disease ... 3 Serious Ocular Complications Associated With Blowout Fractures of the Orbit ...7 Acute Gastric Ulcers Induced by Radiation ...9 Evaluation of the Role of Neurosurgical Procedures in the Pathogenesis of Secondary Brain-Stem Haemorrhages ...12 MEDICAL ABSTRACTS Circulatory Changes During the Pain of Angina Pectoris, 1772-1965 ... Surgical Management of Complications to Arterial Puncture ...15 Cavography Following Plication of the Inferior Vena Cava ...15 Diagnostic Thoracoscopy ....16 Experience with 1,000 Fibergastroscopic Examinations of the Stomach ...16 Chronic Intestinal Ischemia ...16 AWARDS AND HONORS SECTION Silver Star, Bronze Star, Letter of Commendation, Vietnamese Medal of Honor, Navy Commendation Medal ...17 DENTAL SECTION Immediate Denture Service Designed to Preserve Oral Structures ...17 Personnel and Professional Notes ...18 PREVENTIVE MEDICINE SECTION New Public Health Service Vaccination Certificate PHS 731 ...19 Smallpox Vaccine ...20 Cold-Weather Worry: Croup ...21 Arachnidism ....23 Know Your World ...25 EDITOR'S SECTION American Board of OB-GYN ...26 Availability of NBC Teaching Team ...26 Committee in Injuries ... 27 7th Annual AFIP Lectures ... 27 Surgery at Sea ...27 Advanced Course in Nuclear Science for Medical Officers (NSMO) ...28 Old Hands Gather ... 29 Acknowledgment ... 29 Subjects: Navy Medicine magazine; Armed Forces Institute of Pathology; spiders; smallpox; awards; Pearl Harbor; Ben Dixon;",
+      "originalTitle": "William Maxwell Wood.jpg"
+    },
+    {
+      "key": "edir03-core2-media",
+      "query": "posterior fossa tumor child MRI",
+      "imageUrl": "./generated/exams/edir03-core2-media.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Postermass.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "A posterior fossa tumor causing mass effect",
+      "originalTitle": "Postermass.png"
+    },
+    {
       "key": "edir04-meningioma",
       "query": "dural based meningioma MRI",
       "imageUrl": "./generated/exams/edir04-meningioma.png",
@@ -143,6 +473,61 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
       "description": "Surface-rendered CT-based images of the cranial endocast and endosseous labyrinth of the titanosaurian sauropod Ampelosaurus sp. (MCCM-HUE-8741) from the Cretaceous of Fuentes, Spain. In right lateral (A), caudal (B), dorsal (C), and ventral (D) views. Abbreviations: CER, cerebrum; DE, dural expansion; III, oculomotor nerve; IX, glossopharyngeal nerve; LAB, labyrinth; MO, medulla oblongata; OT, olfactory tract; PFO, pituitary fossa; V, trigeminal nerve; VI, abducens nerve; VII, facial nerve; X-XI, vagoaccessory nerve; XII, hypoglossal nerve. Scale bar equals 5 cm.",
       "originalTitle": "Ampelosaurus endocast.png"
+    },
+    {
+      "key": "edir04-short1-media",
+      "query": "meningioma MRI dural tail",
+      "imageUrl": "./generated/exams/edir04-short1-media.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MRI_brain_of_extra-axial_lesion_at_right_frontal_lobe_with_perilesional_oedema.png",
+      "author": "Cerevisae",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "MRI Brain of extra-axial lesion at right frontal lobe with perilesional oedema. Left image: T1 weighted post gadolinium administration shows enhanced extra-axial mass with dural tail sign. Right image: T2 weighted image shows high signal intensity surrounding the lesion which signifies perilesional oedema. Meningioma is the most common differential diagnosis of this lesion.",
+      "originalTitle": "MRI brain of extra-axial lesion at right frontal lobe with perilesional oedema.png"
+    },
+    {
+      "key": "edir-sc-orbital-cellulitis",
+      "query": "orbital cellulitis abscess CT",
+      "imageUrl": "./generated/exams/edir-sc-orbital-cellulitis.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RtmaxobitinfectteethCT.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "A left maxillary sinusitis (dark arrow) and facial / orbital cellulitis (empty arrow)",
+      "originalTitle": "RtmaxobitinfectteethCT.png"
+    },
+    {
+      "key": "edir04-core1-media",
+      "query": "breast cancer mammography ultrasound axillary node",
+      "imageUrl": "./generated/exams/edir04-core1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Inked_Lumpectomy_Specimen_(6464023675).jpg",
+      "author": "Ed Uthman from Houston, TX, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "This excisional biopsy was was done for a palpable mass of the left breast. The lesion was considered highly suspicious for malignancy on mammography. Several years previously, the patient had invasive carcinoma of the right breast, with two positive right axillary nodes. At that time, she has an extended simple mastectomy on the right, followed by reconstruction of the right breast and a reduction mammoplasty on the left. She had normal mammograms through 2010, and the abnormality in the left breast suddenly appeared in her 2011 mammogram. Orientation was provided to the pathologist by the surgeon in the operating room. The margins are color-coded: Red-left (lateral) Green-right (medial) Yellow-superior Blue-inferior Orange-anterior Black (not shown on this view)-posterior I took this photo immediately after inking the specimen. Then, I used a squirt bottle to cover the surface with acetone. This dries out the surface and reduces the amount of ink running that occurs when you cut into it. Keep in mind that acetone is volatile and flammable. Other fluids that can be used for the same purpose are Bouin fixative, glacial acetic acid, and white vinegar. Bouin fixative contains picric acid and is therefore a toxic and explosion hazard. On section, the palpable lesion corresponded to a poorly demarcated 1.1-cm hard mass surrounded by normal-appearing tissue. As it turned out, on microscopic examination, the mass was shown to be fat necrosis, perfectly benign. I guess we ended up wasting a lot of time marking the margins on a benign lesion, but unfortunately, it's not possible to tell if a mass is benign until you cut and process it for microscopic exam. Once you cut into it, it's not possible to accurately mark the margins. Pathological and histological images courtesy of Ed Uthman at flickr.",
+      "originalTitle": "Inked Lumpectomy Specimen (6464023675).jpg"
+    },
+    {
+      "key": "edir04-core2-media",
+      "query": "carotid artery dissection CT angiography",
+      "imageUrl": "./generated/exams/edir04-core2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:US_CAROTID_DOPPLER_0001.jpg",
+      "author": "Mme Mim",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "common carotid artery dissection ultrasound",
+      "originalTitle": "US CAROTID DOPPLER 0001.jpg"
+    },
+    {
+      "key": "edir05-short1-media",
+      "query": "ureteric calculus CT hydronephrosis",
+      "imageUrl": "./generated/exams/edir05-short1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_American_journal_of_roentgenology,_radium_therapy_and_nuclear_medicine_(1906)_(14571180977).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Identifier : americanjournalo10ameruoft ( find matches ) Title : The American journal of roentgenology, radium therapy and nuclear medicine Year : 1906 ( 1900s ) Authors : American Radium Society American Roentgen Ray Society Subjects : Radiotherapy X-rays Publisher : Springfield, Ill. C.C. Thomas Contributing Library : Internet Archive Digitizing Sponsor : Internet Archive View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: in the lower left ureter. Fig. 66. Catheter in place showing the suspicious shadow apparently outside of the ureter. Same caseas shown m Fiijure 6(i. The Technique of Roentgenological Examinations of the Urinary Tract 2- two positions, we feel reasonably surethat the presence of a ureteral stone isindicated. In the case of a small calcifiedgland below the ureter, one anteriorposterior plate of the catheterized uretermay show a shadow directly in contactwith the catheter. Another exposuregiving a marked oblique or lateral view,however, may disclose a considerable spaceintervening between the shadow and the them (Fig. 6, a and h). With a problemof this kind, a ureterogram should bemade which will give the exact size of thelumen of the ureter, with the extent ofdilatation, and usually the point of con-striction (Fig. 7, a and h). This methodis much more accurate than the waxed-tip catheter, which may be introducedinto the dilated ureter, and at no timecome into contact with the calculus. Text Appearing After Image: Fig. ya. Injected ureter showing large hydro-ureter. Ureter containsboth catheter and calculus. Same case as shown in Figure 6a.; Fig. -jh. Injected ureter and kidney,shown in Figure 6a, after removal. catheter, a finding which will usually ruleout a calculus. But even a second plate isnot sufficient in all cases. Frecjuently,particularly in the case of a large calculus,the ureter becomes dilated from over-distention due to obstruction. This dis-tention may be enormous, so that theureter may measure more than an inch indiameter. With this type of case, both thecatheter and calculus may be in the ureter,with a considerable distance between When examination of the films showsno evidence of calculus, we should reportthat the roentgenological findings arenegative to calculus; but to this report weshould add the statement that in a smallper cent of cases, calculi may be presentin the ureter or kidney which will not beseen on the roentgenograms. We believethat in some cases, this lack of vi Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+      "originalTitle": "The American journal of roentgenology, radium therapy and nuclear medicine (1906) (14571180977).jpg"
     },
     {
       "key": "edir05-torsion",
@@ -156,6 +541,61 @@
       "originalTitle": "Surgical diseases of the dog and cat, with chapters on anaesthetics and obstetrics (second edition of 'Canine and feline surgery') (1906) (20726326242).jpg"
     },
     {
+      "key": "edir05-short2-media",
+      "query": "testicular torsion ultrasound absent blood flow",
+      "imageUrl": "./generated/exams/edir05-short2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Surgical_diseases_of_the_dog_and_cat,_with_chapters_on_anaesthetics_and_obstetrics_(second_edition_of_%27Canine_and_feline_surgery%27)_(1906)_(20726326242).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Title : Surgical diseases of the dog and cat, with chapters on anaesthetics and obstetrics (second edition of 'Canine and feline surgery') Identifier : cu31924001128630 ( find matches ) Year : 1906 ( 1900s ) Authors : Hobday, Frederick Thomas George, Sir, 1870-1939 Subjects : Dogs ; Cats Publisher : Chicago, W. T. Keener & Co. Contributing Library : Cornell University Library Digitizing Sponsor : MSN View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: 286 CANINE AND FELINE SURGERY Torsion of the Cord. This condition is occasionally met with in cryptorchids, and Mr. Pauer's case mentioned on p. 281 is a typical instance. Epididymis Testicular tumour Twisted vessels Vas defereus Bladd. Text Appearing After Image: Fig. 181.—Tumour of a Pug Dog's undescended Testis which had undergone Axial Rotation (J. Bland Sutton).' Mr. J. Bland Sutton, F.R.C.S., has also recorded a case in the Medico-Chirurgical Transactions for 1892 (p. 257) ' ' Surgical Diseases of the Ovaries ' (second edition). Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+      "originalTitle": "Surgical diseases of the dog and cat, with chapters on anaesthetics and obstetrics (second edition of 'Canine and feline surgery') (1906) (20726326242).jpg"
+    },
+    {
+      "key": "edir-sc-intussusception",
+      "query": "intussusception ultrasound target sign child",
+      "imageUrl": "./generated/exams/edir-sc-intussusception.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Intussusception_on_ultrasound.jpg",
+      "author": "Frank Gaillard",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "An ultrasound showing target sign which is a characteristic finding for intussusception on ultrasound , this ultrasound is for a 3 year old boy with intestinal intussusception. source: Radiopedia.org and case",
+      "originalTitle": "Intussusception on ultrasound.jpg"
+    },
+    {
+      "key": "edir-sc-osteoid",
+      "query": "osteoid osteoma CT nidus tibia",
+      "imageUrl": "./generated/exams/edir-sc-osteoid.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Osteoidosteom_Fibula_CT_KF.png",
+      "author": "Hellerhoff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Osteoid osteoma of the fibula in computed tomography (bone window). The nidus is clearly visible. (The small point dorsally in the tibia is not an OO, but a vessel canal, which is typical at this point.)",
+      "originalTitle": "Osteoidosteom Fibula CT KF.png"
+    },
+    {
+      "key": "edir05-core1-media",
+      "query": "testicular torsion doppler ultrasound",
+      "imageUrl": "./generated/exams/edir05-core1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Surgical_diseases_of_the_dog_and_cat,_with_chapters_on_anaesthetics_and_obstetrics_(second_edition_of_%27Canine_and_feline_surgery%27)_(1906)_(20726326242).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Title : Surgical diseases of the dog and cat, with chapters on anaesthetics and obstetrics (second edition of 'Canine and feline surgery') Identifier : cu31924001128630 ( find matches ) Year : 1906 ( 1900s ) Authors : Hobday, Frederick Thomas George, Sir, 1870-1939 Subjects : Dogs ; Cats Publisher : Chicago, W. T. Keener & Co. Contributing Library : Cornell University Library Digitizing Sponsor : MSN View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: 286 CANINE AND FELINE SURGERY Torsion of the Cord. This condition is occasionally met with in cryptorchids, and Mr. Pauer's case mentioned on p. 281 is a typical instance. Epididymis Testicular tumour Twisted vessels Vas defereus Bladd. Text Appearing After Image: Fig. 181.—Tumour of a Pug Dog's undescended Testis which had undergone Axial Rotation (J. Bland Sutton).' Mr. J. Bland Sutton, F.R.C.S., has also recorded a case in the Medico-Chirurgical Transactions for 1892 (p. 257) ' ' Surgical Diseases of the Ovaries ' (second edition). Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+      "originalTitle": "Surgical diseases of the dog and cat, with chapters on anaesthetics and obstetrics (second edition of 'Canine and feline surgery') (1906) (20726326242).jpg"
+    },
+    {
+      "key": "edir05-core2-media",
+      "query": "spinal epidural abscess MRI",
+      "imageUrl": "./generated/exams/edir05-core2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MRI_of_the_lumbar_spine_with_abscess_in_the_posterior_epidural_space,_causing_cauda_equina_syndrome.jpg",
+      "author": "Jing Jing Chan and Jen Jen Oh",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "MRI of the lumbar spine of a A 57-year-old woman: The collection in the posterior epidural space and the posterior disc bulge is seen compressing the thecal sac and the cauda equina",
+      "originalTitle": "MRI of the lumbar spine with abscess in the posterior epidural space, causing cauda equina syndrome.jpg"
+    },
+    {
       "key": "edir06-appendicitis",
       "query": "Appendicitis.png",
       "imageUrl": "./generated/exams/edir06-appendicitis.png",
@@ -167,6 +607,17 @@
       "originalTitle": "Appendicitis.png"
     },
     {
+      "key": "edir06-short1-media",
+      "query": "acute appendicitis CT",
+      "imageUrl": "./generated/exams/edir06-short1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Contrast-enhanced_CT_scan_(coronal)_of_abdomen_and_pelvis_showing_acute_appendicitis.jpg",
+      "author": "Goleisureintl",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Contrast-enhanced Computed Tomography (CECT) scan of the abdomen and pelvis in the coronal plane. The image demonstrates signs of acute appendicitis (such as appendiceal wall thickening and periappendiceal fat stranding). Recorded at a diagnostic center in Navi Mumbai (Vashi, Nerul, Belapur, Kharghar, etc.), Maharashtra, India. Patient identifiers have been redacted.",
+      "originalTitle": "Contrast-enhanced CT scan (coronal) of abdomen and pelvis showing acute appendicitis.jpg"
+    },
+    {
       "key": "edir06-pneumothorax",
       "query": "Chest X-ray of pneumothorax.png",
       "imageUrl": "./generated/exams/edir06-pneumothorax.png",
@@ -176,6 +627,61 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "description": "Chest X-ray at initial presentation demonstrating a right-sided pneumothorax (arrow) and resolving right-sided pneumothorax after pigtail chest tube placement for initial (a) and recurrent (b) spontaneous pneumothorax. (c) Sustained recovery from recurrent spontaneous pneumothorax two weeks after the removal of chest tubes",
       "originalTitle": "Chest X-ray of pneumothorax.png"
+    },
+    {
+      "key": "edir06-short2-media",
+      "query": "pneumothorax chest x ray",
+      "imageUrl": "./generated/exams/edir06-short2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:X-ray_and_CT_of_ground_glass_opacities_and_pneumothorax_in_pneumocystis_pneumonia.jpg",
+      "author": "Carolyn M. Allen, Hamdan H. AL-Jahdali, Klaus L. Irion, Sarah Al Ghanem, Alaa Gouda, and Ali Nawaz Khan",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Pneumocystis pneumonia : Chest X-ray and computed tomography show a left-sided ground-glass pattern and a right-sided large tension pneumothorax. Note the mediastinal shift",
+      "originalTitle": "X-ray and CT of ground glass opacities and pneumothorax in pneumocystis pneumonia.jpg"
+    },
+    {
+      "key": "edir-sc-uip",
+      "query": "usual interstitial pneumonia HRCT honeycombing",
+      "imageUrl": "./generated/exams/edir-sc-uip.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:UIP_(Usual_interstitial_pneumonia)_2.jpg",
+      "author": "Yale Rosen",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "UIP (Usual interstitial pneumonia) Several well-defined nodules of immature connective tissue with fibroblasts. These lesions are called fibroblastic foci. They are a characteristic finding in UIP and are rarely seen in other forms of idiopathic interstitial pneumonia. Their presence in UIP is indicative of ongoing disease activity. The tissue comprising these nodules is qualitatively identical to the intraalveolar Masson bodies seen in organizing pneumonia and to the intraaeveolar fibroblastic proliferation seen in the organizing/proliferative phase of diffuse alveolar damage (DAD).",
+      "originalTitle": "UIP (Usual interstitial pneumonia) 2.jpg"
+    },
+    {
+      "key": "edir-sc-pancreatitis",
+      "query": "acute necrotizing pancreatitis CT nonenhancing pancreas",
+      "imageUrl": "./generated/exams/edir-sc-pancreatitis.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Akute_exsudative_Pankreatitis_-_CT_axial.jpg",
+      "author": "Hellerhoff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Acute exudative pancreatitis on computed tomography with extensive fluid around the pancreas.",
+      "originalTitle": "Akute exsudative Pankreatitis - CT axial.jpg"
+    },
+    {
+      "key": "edir06-core1-media",
+      "query": "acute mesenteric ischemia CT angiography",
+      "imageUrl": "./generated/exams/edir06-core1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:William_Maxwell_Wood.jpg",
+      "author": "U.S. Navy. Bureau of Medicine and Surgery",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "United States Navy Medical News Letter Vol. 49, No. 3, 10 February 1967 Surgeons General of the Past (The fifth in a series of brief biographies): William Maxwell Wood ... cover SPECIAL ARTICLE The Armed Forces Institute of Pathology: An Educational Opportunity ... 1 MEDICAL ARTICLES Serum Enzyme Determinations in Diagnosis of Ischemic Heart Disease ... 3 Serious Ocular Complications Associated With Blowout Fractures of the Orbit ...7 Acute Gastric Ulcers Induced by Radiation ...9 Evaluation of the Role of Neurosurgical Procedures in the Pathogenesis of Secondary Brain-Stem Haemorrhages ...12 MEDICAL ABSTRACTS Circulatory Changes During the Pain of Angina Pectoris, 1772-1965 ... Surgical Management of Complications to Arterial Puncture ...15 Cavography Following Plication of the Inferior Vena Cava ...15 Diagnostic Thoracoscopy ....16 Experience with 1,000 Fibergastroscopic Examinations of the Stomach ...16 Chronic Intestinal Ischemia ...16 AWARDS AND HONORS SECTION Silver Star, Bronze Star, Letter of Commendation, Vietnamese Medal of Honor, Navy Commendation Medal ...17 DENTAL SECTION Immediate Denture Service Designed to Preserve Oral Structures ...17 Personnel and Professional Notes ...18 PREVENTIVE MEDICINE SECTION New Public Health Service Vaccination Certificate PHS 731 ...19 Smallpox Vaccine ...20 Cold-Weather Worry: Croup ...21 Arachnidism ....23 Know Your World ...25 EDITOR'S SECTION American Board of OB-GYN ...26 Availability of NBC Teaching Team ...26 Committee in Injuries ... 27 7th Annual AFIP Lectures ... 27 Surgery at Sea ...27 Advanced Course in Nuclear Science for Medical Officers (NSMO) ...28 Old Hands Gather ... 29 Acknowledgment ... 29 Subjects: Navy Medicine magazine; Armed Forces Institute of Pathology; spiders; smallpox; awards; Pearl Harbor; Ben Dixon;",
+      "originalTitle": "William Maxwell Wood.jpg"
+    },
+    {
+      "key": "edir06-core2-media",
+      "query": "central lung cancer CT hilar mass",
+      "imageUrl": "./generated/exams/edir06-core2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lung-Cancer-Occurrence-in-Never-Smokers-An-Analysis-of-13-Cohorts-and-22-Cancer-Registry-Studies-pmed.0050185.g002.jpg",
+      "author": "Thun M, Hannan L, Adams-Campbell L, Boffetta P, Buring J, Feskanich D, Flanders W, Jee S, Katanoda K, Kolonel L, Lee I, Marugame T, Palmer J, Riboli E, Sobue T, Avila-Tang E, Wilkens L, Samet J",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "(A–C) Blue line indicates men; red line indicates women.",
+      "originalTitle": "Lung-Cancer-Occurrence-in-Never-Smokers-An-Analysis-of-13-Cohorts-and-22-Cancer-Registry-Studies-pmed.0050185.g002.jpg"
     }
   ]
 }
