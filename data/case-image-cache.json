@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:16:30Z",
+  "generated_at": "2026-08-21T12:38:39Z",
   "results": [
     {
       "id": "auto-absceso-periamigdalino",
@@ -11,6 +11,17 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "description": "Imagen radiológica ilustrativa de Absceso periamigdalino",
       "originalTitle": "Peritonsilarabs.png"
+    },
+    {
+      "id": "auto-aneurisma-de-aorta-abdominal",
+      "clinicalLabel": "Aneurisma de aorta abdominal",
+      "imageUrl": "./generated/cases/auto-aneurisma-de-aorta-abdominal.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:US_normal_abdominal_aorta.JPG",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Aneurisma de aorta abdominal",
+      "originalTitle": "US normal abdominal aorta.JPG"
     },
     {
       "id": "auto-apendicitis-aguda",
@@ -35,6 +46,17 @@
       "originalTitle": "CT of a spiculated lung nodule.png"
     },
     {
+      "id": "auto-carcinoma-hepatocelular",
+      "clinicalLabel": "Carcinoma hepatocelular",
+      "imageUrl": "./generated/cases/auto-carcinoma-hepatocelular.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arterial_and_portal_venous_phase_CT_of_cirrhosis_and_hepatocellular_carcinoma.jpg",
+      "author": "Kristie Guite, Louis Hinshaw and Fred Lee",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Imagen radiológica ilustrativa de Carcinoma hepatocelular",
+      "originalTitle": "Arterial and portal venous phase CT of cirrhosis and hepatocellular carcinoma.jpg"
+    },
+    {
       "id": "auto-carcinoma-mamario-sospechoso",
       "clinicalLabel": "Carcinoma mamario sospechoso",
       "imageUrl": "./generated/cases/auto-carcinoma-mamario-sospechoso.png",
@@ -44,6 +66,17 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "description": "Imagen radiológica ilustrativa de Carcinoma mamario sospechoso",
       "originalTitle": "X-ray of ultrasound-guided marking of breast cancer 2.png"
+    },
+    {
+      "id": "auto-colecistitis-aguda",
+      "clinicalLabel": "Colecistitis aguda",
+      "imageUrl": "./generated/cases/auto-colecistitis-aguda.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MildGBWallthickening(3.5mm).png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Colecistitis aguda",
+      "originalTitle": "MildGBWallthickening(3.5mm).png"
     },
     {
       "id": "auto-derrame-pleural",
@@ -66,6 +99,28 @@
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "description": "Imagen radiológica ilustrativa de Disección aórtica",
       "originalTitle": "Aortic dissection - Echocardiogram - Longitudinal view - Color.jpg"
+    },
+    {
+      "id": "auto-displasia-del-desarrollo-de-la-cadera",
+      "clinicalLabel": "Displasia del desarrollo de la cadera",
+      "imageUrl": "./generated/cases/auto-displasia-del-desarrollo-de-la-cadera.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ultrasound_measuring_the_developmental_dysplasia_of_right_hip.jpg",
+      "author": "Cerevisae",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Displasia del desarrollo de la cadera",
+      "originalTitle": "Ultrasound measuring the developmental dysplasia of right hip.jpg"
+    },
+    {
+      "id": "auto-diverticulitis-sigmoidea",
+      "clinicalLabel": "Diverticulitis sigmoidea",
+      "imageUrl": "./generated/cases/auto-diverticulitis-sigmoidea.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Diverticulitis,_very_low_mag.jpg",
+      "author": "CoRus13",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Diverticulitis sigmoidea",
+      "originalTitle": "Diverticulitis, very low mag.jpg"
     },
     {
       "id": "auto-edema-pulmonar-cardiogenico",
@@ -101,6 +156,17 @@
       "originalTitle": "Pulmonary embolism CTPA.JPEG"
     },
     {
+      "id": "auto-enfermedad-arterial-periferica",
+      "clinicalLabel": "Enfermedad arterial periférica",
+      "imageUrl": "./generated/cases/auto-enfermedad-arterial-periferica.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arterial_calcifications_in_peripheral_vascular_disease,_F.png",
+      "author": "Jmarchn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Enfermedad arterial periférica",
+      "originalTitle": "Arterial calcifications in peripheral vascular disease, F.png"
+    },
+    {
       "id": "auto-enfisema-pulmonar",
       "clinicalLabel": "Enfisema pulmonar",
       "imageUrl": "./generated/cases/auto-enfisema-pulmonar.jpg",
@@ -112,6 +178,17 @@
       "originalTitle": "Lung with Coils.JPG"
     },
     {
+      "id": "auto-enterocolitis-necrotizante",
+      "clinicalLabel": "Enterocolitis necrotizante",
+      "imageUrl": "./generated/cases/auto-enterocolitis-necrotizante.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Neonatal_necrotizing_enterocolitis,_gross_pathology_20G0021_lores.jpg",
+      "author": "http://phil.cdc.gov/PHIL_Images/02051999/00021/20G0021_lores.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Imagen radiológica ilustrativa de Enterocolitis necrotizante",
+      "originalTitle": "Neonatal necrotizing enterocolitis, gross pathology 20G0021 lores.jpg"
+    },
+    {
       "id": "auto-esclerosis-multiple",
       "clinicalLabel": "Esclerosis múltiple",
       "imageUrl": "./generated/cases/auto-esclerosis-multiple.jpg",
@@ -121,6 +198,39 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "description": "Imagen radiológica ilustrativa de Esclerosis múltiple",
       "originalTitle": "Diseminacion en espacio.jpg"
+    },
+    {
+      "id": "auto-espondilodiscitis-infecciosa",
+      "clinicalLabel": "Espondilodiscitis infecciosa",
+      "imageUrl": "./generated/cases/auto-espondilodiscitis-infecciosa.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Spondylodiscitis_LWK_34_82M_-_MR_und_CT_-_001.jpg",
+      "author": "Hellerhoff",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Espondilodiscitis infecciosa",
+      "originalTitle": "Spondylodiscitis LWK 34 82M - MR und CT - 001.jpg"
+    },
+    {
+      "id": "auto-estenosis-aterosclerotica-carotidea",
+      "clinicalLabel": "Estenosis aterosclerótica carotídea",
+      "imageUrl": "./generated/cases/auto-estenosis-aterosclerotica-carotidea.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Internal_carotid_artery_stenosis_in_ultrasound_near_occlusion.jpg",
+      "author": "Mme Mim",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Estenosis aterosclerótica carotídea",
+      "originalTitle": "Internal carotid artery stenosis in ultrasound near occlusion.jpg"
+    },
+    {
+      "id": "auto-estenosis-hipertrofica-de-piloro",
+      "clinicalLabel": "Estenosis hipertrófica de píloro",
+      "imageUrl": "./generated/cases/auto-estenosis-hipertrofica-de-piloro.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hypertrophic_pyloric_stenosis.png",
+      "author": "Adityagupta95",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Imagen radiológica ilustrativa de Estenosis hipertrófica de píloro",
+      "originalTitle": "Hypertrophic pyloric stenosis.png"
     },
     {
       "id": "auto-fibroadenoma-mamario",
@@ -145,6 +255,39 @@
       "originalTitle": "Honeycomb lung (13436105903).jpg"
     },
     {
+      "id": "auto-fractura-de-escafoides",
+      "clinicalLabel": "Fractura de escafoides",
+      "imageUrl": "./generated/cases/auto-fractura-de-escafoides.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:X-ray_of_scaphoid_fracture.png",
+      "author": "Gilo1969",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Imagen radiológica ilustrativa de Fractura de escafoides",
+      "originalTitle": "X-ray of scaphoid fracture.png"
+    },
+    {
+      "id": "auto-fractura-distal-de-radio-tipo-colles",
+      "clinicalLabel": "Fractura distal de radio tipo Colles",
+      "imageUrl": "./generated/cases/auto-fractura-distal-de-radio-tipo-colles.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:American_X-ray_journal_(1897)_(14570496517).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Imagen radiológica ilustrativa de Fractura distal de radio tipo Colles",
+      "originalTitle": "American X-ray journal (1897) (14570496517).jpg"
+    },
+    {
+      "id": "auto-fractura-intracapsular-de-cuello-femoral",
+      "clinicalLabel": "Fractura intracapsular de cuello femoral",
+      "imageUrl": "./generated/cases/auto-fractura-intracapsular-de-cuello-femoral.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:American_practice_of_surgery_-_a_complete_system_of_the_science_and_art_of_surgery_(1906)_(14595746770).jpg",
+      "author": "Bryant, Joseph D. (Joseph Decatur), 1845-1914; Buck, Albert H. (Albert Henry), 1842-1922",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Imagen radiológica ilustrativa de Fractura intracapsular de cuello femoral",
+      "originalTitle": "American practice of surgery - a complete system of the science and art of surgery (1906) (14595746770).jpg"
+    },
+    {
       "id": "auto-glioblastoma",
       "clinicalLabel": "Glioblastoma",
       "imageUrl": "./generated/cases/auto-glioblastoma.jpg",
@@ -154,6 +297,17 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
       "description": "Imagen radiológica ilustrativa de Glioblastoma",
       "originalTitle": "Glioblastoma - MR coronal with contrast.jpg"
+    },
+    {
+      "id": "auto-hemangioma-hepatico",
+      "clinicalLabel": "Hemangioma hepático",
+      "imageUrl": "./generated/cases/auto-hemangioma-hepatico.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cavernous_liver_hemangioma_-_intermed_mag.jpg",
+      "author": "Nephron",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Hemangioma hepático",
+      "originalTitle": "Cavernous liver hemangioma - intermed mag.jpg"
     },
     {
       "id": "auto-hematoma-epidural-agudo",
@@ -222,6 +376,50 @@
       "originalTitle": "NCCT Brain Imaging.jpg"
     },
     {
+      "id": "auto-invaginacion-intestinal",
+      "clinicalLabel": "Invaginación intestinal",
+      "imageUrl": "./generated/cases/auto-invaginacion-intestinal.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Intussusception_on_ultrasound.jpg",
+      "author": "Frank Gaillard",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Invaginación intestinal",
+      "originalTitle": "Intussusception on ultrasound.jpg"
+    },
+    {
+      "id": "auto-isquemia-mesenterica-aguda",
+      "clinicalLabel": "Isquemia mesentérica aguda",
+      "imageUrl": "./generated/cases/auto-isquemia-mesenterica-aguda.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:William_Maxwell_Wood.jpg",
+      "author": "U.S. Navy. Bureau of Medicine and Surgery",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Imagen radiológica ilustrativa de Isquemia mesentérica aguda",
+      "originalTitle": "William Maxwell Wood.jpg"
+    },
+    {
+      "id": "auto-leiomioma-uterino",
+      "clinicalLabel": "Leiomioma uterino",
+      "imageUrl": "./generated/cases/auto-leiomioma-uterino.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pelvic_MRI_05_fibroids.jpg",
+      "author": "Nevit Dilmen ( talk )",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Leiomioma uterino",
+      "originalTitle": "Pelvic MRI 05 fibroids.jpg"
+    },
+    {
+      "id": "auto-luxacion-glenohumeral-anterior",
+      "clinicalLabel": "Luxación glenohumeral anterior",
+      "imageUrl": "./generated/cases/auto-luxacion-glenohumeral-anterior.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shoulder_dislocation,_Y-projection_before_reduction.jpg",
+      "author": "Mikael Häggström , M.D. Author info - Reusing images - Conflicts of interest: None Mikael Häggström , M.D. Consent note : Written informed consent was obtained from the individual, including online publication.",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Imagen radiológica ilustrativa de Luxación glenohumeral anterior",
+      "originalTitle": "Shoulder dislocation, Y-projection before reduction.jpg"
+    },
+    {
       "id": "auto-macroadenoma-hipofisario",
       "clinicalLabel": "Macroadenoma hipofisario",
       "imageUrl": "./generated/cases/auto-macroadenoma-hipofisario.jpg",
@@ -242,6 +440,17 @@
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "description": "Imagen radiológica ilustrativa de Meningioma",
       "originalTitle": "Meningioma of the sagittal sinus.jpg"
+    },
+    {
+      "id": "auto-metastasis-hepaticas",
+      "clinicalLabel": "Metástasis hepáticas",
+      "imageUrl": "./generated/cases/auto-metastasis-hepaticas.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lutetium-177_treatment_CT_scan.jpg",
+      "author": "Kjaer, A; Knigge, U",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Imagen radiológica ilustrativa de Metástasis hepáticas",
+      "originalTitle": "Lutetium-177 treatment CT scan.jpg"
     },
     {
       "id": "auto-neumonia-del-lobulo-inferior",
@@ -266,6 +475,94 @@
       "originalTitle": "Cytopathology suspicious for Hürthle cell neoplasm.jpg"
     },
     {
+      "id": "auto-obstruccion-mecanica-de-intestino-delgado",
+      "clinicalLabel": "Obstrucción mecánica de intestino delgado",
+      "imageUrl": "./generated/cases/auto-obstruccion-mecanica-de-intestino-delgado.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PSBOCT.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Obstrucción mecánica de intestino delgado",
+      "originalTitle": "PSBOCT.png"
+    },
+    {
+      "id": "auto-osteomielitis",
+      "clinicalLabel": "Osteomielitis",
+      "imageUrl": "./generated/cases/auto-osteomielitis.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:DFO_Brisbane_02.jpg",
+      "author": "Kgbo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Osteomielitis",
+      "originalTitle": "DFO Brisbane 02.jpg"
+    },
+    {
+      "id": "auto-osteosarcoma",
+      "clinicalLabel": "Osteosarcoma",
+      "imageUrl": "./generated/cases/auto-osteosarcoma.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:American_quarterly_of_roentgenology_(1909)_(14570773889).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Imagen radiológica ilustrativa de Osteosarcoma",
+      "originalTitle": "American quarterly of roentgenology (1909) (14570773889).jpg"
+    },
+    {
+      "id": "auto-pancreatitis-aguda",
+      "clinicalLabel": "Pancreatitis aguda",
+      "imageUrl": "./generated/cases/auto-pancreatitis-aguda.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Akute_exsudative_Pankreatitis_-_CT_axial.jpg",
+      "author": "Hellerhoff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Pancreatitis aguda",
+      "originalTitle": "Akute exsudative Pankreatitis - CT axial.jpg"
+    },
+    {
+      "id": "auto-pielonefritis-aguda",
+      "clinicalLabel": "Pielonefritis aguda",
+      "imageUrl": "./generated/cases/auto-pielonefritis-aguda.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pyelonephritis_beidseits_51W_-_CT_KM_pv_axial_coronar_-_001.jpg",
+      "author": "Hellerhoff",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Pielonefritis aguda",
+      "originalTitle": "Pyelonephritis beidseits 51W - CT KM pv axial coronar - 001.jpg"
+    },
+    {
+      "id": "auto-rotura-del-ligamento-cruzado-anterior",
+      "clinicalLabel": "Rotura del ligamento cruzado anterior",
+      "imageUrl": "./generated/cases/auto-rotura-del-ligamento-cruzado-anterior.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Anterior_cruciate_ligament_repair_1.jpg",
+      "author": "Arthroscopist",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Rotura del ligamento cruzado anterior",
+      "originalTitle": "Anterior cruciate ligament repair 1.jpg"
+    },
+    {
+      "id": "auto-rotura-meniscal",
+      "clinicalLabel": "Rotura meniscal",
+      "imageUrl": "./generated/cases/auto-rotura-meniscal.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Proton_density_MRI_of_a_grade_2_medial_meniscal_tear.jpg",
+      "author": "Nicolas Lefevre, Jean Francois Naouri, Serge Herman,Antoine Gerometta, Shahnaz Klouche, and Yoann Bohu",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Imagen radiológica ilustrativa de Rotura meniscal",
+      "originalTitle": "Proton density MRI of a grade 2 medial meniscal tear.jpg"
+    },
+    {
+      "id": "auto-sialolitiasis-submandibular",
+      "clinicalLabel": "Sialolitiasis submandibular",
+      "imageUrl": "./generated/cases/auto-sialolitiasis-submandibular.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Submandibular_gland_stone_and_fragments.jpg",
+      "author": "Dr atilla",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Sialolitiasis submandibular",
+      "originalTitle": "Submandibular gland stone and fragments.jpg"
+    },
+    {
       "id": "auto-sinusitis-aguda",
       "clinicalLabel": "Sinusitis aguda",
       "imageUrl": "./generated/cases/auto-sinusitis-aguda.png",
@@ -277,6 +574,28 @@
       "originalTitle": "Histopathology of acute sinusitis.png"
     },
     {
+      "id": "auto-torsion-anexial",
+      "clinicalLabel": "Torsión anexial",
+      "imageUrl": "./generated/cases/auto-torsion-anexial.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ultrasound_Scan_ND_0128132238_1324381.png",
+      "author": "Nevit Dilmen ( talk )",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Torsión anexial",
+      "originalTitle": "Ultrasound Scan ND 0128132238 1324381.png"
+    },
+    {
+      "id": "auto-trombosis-venosa-profunda",
+      "clinicalLabel": "Trombosis venosa profunda",
+      "imageUrl": "./generated/cases/auto-trombosis-venosa-profunda.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:DVTInGroinNoCompresible.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Trombosis venosa profunda",
+      "originalTitle": "DVTInGroinNoCompresible.png"
+    },
+    {
       "id": "auto-tuberculosis-pulmonar-cavitada",
       "clinicalLabel": "Tuberculosis pulmonar cavitada",
       "imageUrl": "./generated/cases/auto-tuberculosis-pulmonar-cavitada.jpg",
@@ -286,6 +605,17 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "description": "Imagen radiológica ilustrativa de Tuberculosis pulmonar cavitada",
       "originalTitle": "Cavitary tuberculosis.jpg"
+    },
+    {
+      "id": "auto-urolitiasis-obstructiva",
+      "clinicalLabel": "Urolitiasis obstructiva",
+      "imageUrl": "./generated/cases/auto-urolitiasis-obstructiva.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Phydronephrosisfromstone.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica ilustrativa de Urolitiasis obstructiva",
+      "originalTitle": "Phydronephrosisfromstone.png"
     },
     {
       "id": "auto-varicocele",
@@ -530,6 +860,17 @@
       "originalTitle": "Pituitary apoplexy.jpg"
     },
     {
+      "id": "extra-aspergiloma-pulmonar",
+      "clinicalLabel": "Aspergiloma pulmonar",
+      "imageUrl": "./generated/cases/extra-aspergiloma-pulmonar.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aspergilloma_complicating_tuberculosis_2.jpg",
+      "author": "Yale Rosen",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Imagen radiológica abierta relacionada con Aspergiloma pulmonar",
+      "originalTitle": "Aspergilloma complicating tuberculosis 2.jpg"
+    },
+    {
       "id": "extra-aspiracion-de-cuerpo-extrano",
       "clinicalLabel": "Aspiración de cuerpo extraño",
       "imageUrl": "./generated/cases/extra-aspiracion-de-cuerpo-extrano.jpg",
@@ -759,6 +1100,17 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "description": "Imagen radiológica abierta relacionada con Disección carotídea",
       "originalTitle": "US CAROTID DOPPLER 0001.jpg"
+    },
+    {
+      "id": "extra-empiema-pleural",
+      "clinicalLabel": "Empiema pleural",
+      "imageUrl": "./generated/cases/extra-empiema-pleural.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hydro_pneumothorax.jpg",
+      "author": "Drriad",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Imagen radiológica abierta relacionada con Empiema pleural",
+      "originalTitle": "Hydro pneumothorax.jpg"
     },
     {
       "id": "extra-endofuga-tipo-ii-tras-evar",
@@ -1003,6 +1355,17 @@
       "originalTitle": "Ultrasound of right kidney moderate hydronephrosis.jpg"
     },
     {
+      "id": "extra-hidroneumotorax",
+      "clinicalLabel": "Hidroneumotórax",
+      "imageUrl": "./generated/cases/extra-hidroneumotorax.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hydropneumo.jpg",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Imagen radiológica abierta relacionada con Hidroneumotórax",
+      "originalTitle": "Hydropneumo.jpg"
+    },
+    {
       "id": "extra-hiperplasia-endometrial",
       "clinicalLabel": "Hiperplasia endometrial",
       "imageUrl": "./generated/cases/extra-hiperplasia-endometrial.jpg",
@@ -1135,6 +1498,17 @@
       "originalTitle": "Gallium PSMA PET scan.png"
     },
     {
+      "id": "extra-metastasis-pulmonares-hematogenas",
+      "clinicalLabel": "Metástasis pulmonares hematógenas",
+      "imageUrl": "./generated/cases/extra-metastasis-pulmonares-hematogenas.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pleura-Undetermined_crystals_(51219440409).jpg",
+      "author": "Atlas of Medical Foreign Bodies",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Imagen radiológica abierta relacionada con Metástasis pulmonares hematógenas",
+      "originalTitle": "Pleura-Undetermined crystals (51219440409).jpg"
+    },
+    {
       "id": "extra-mieloma-multiple",
       "clinicalLabel": "Mieloma múltiple",
       "imageUrl": "./generated/cases/extra-mieloma-multiple.jpg",
@@ -1166,6 +1540,17 @@
       "licenseUrl": "https://www.flickr.com/commons/usage/",
       "description": "Imagen radiológica abierta relacionada con Necrosis grasa mamaria",
       "originalTitle": "The breast- its anomalies, its diseases, and their treatment (1917) (14570424068).jpg"
+    },
+    {
+      "id": "extra-neumomediastino",
+      "clinicalLabel": "Neumomediastino",
+      "imageUrl": "./generated/cases/extra-neumomediastino.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bronchial_rupture.jpg",
+      "author": "Morgan Le Guen, Catherine Beigelman, Belaid Bouhemad, Yang Wenjïe, Frederic Marmion",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Imagen radiológica abierta relacionada con Neumomediastino",
+      "originalTitle": "Bronchial rupture.jpg"
     },
     {
       "id": "extra-neumotorax-a-tension",
@@ -1344,6 +1729,17 @@
       "originalTitle": "Achillessehnenruptur Sono.jpg"
     },
     {
+      "id": "extra-sarcoidosis-toracica",
+      "clinicalLabel": "Sarcoidosis torácica",
+      "imageUrl": "./generated/cases/extra-sarcoidosis-toracica.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Anterior_mediastinal_mass_thymoma.jpg",
+      "author": "Mohankumar Kurukumbi, Roger L Weir, Janaki Kalyanam, Mansoor Nasim, Annapurni Jayam-Trouth.",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Imagen radiológica abierta relacionada con Sarcoidosis torácica",
+      "originalTitle": "Anterior mediastinal mass thymoma.jpg"
+    },
+    {
       "id": "extra-schwannoma-vestibular",
       "clinicalLabel": "Schwannoma vestibular",
       "imageUrl": "./generated/cases/extra-schwannoma-vestibular.jpg",
@@ -1375,6 +1771,17 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "description": "Imagen radiológica abierta relacionada con Síndrome de May-Thurner",
       "originalTitle": "Ehrenpromotion Martin Thurner Ankara.jpg"
+    },
+    {
+      "id": "extra-torsion-testicular",
+      "clinicalLabel": "Torsión testicular",
+      "imageUrl": "./generated/cases/extra-torsion-testicular.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Surgical_diseases_of_the_dog_and_cat,_with_chapters_on_anaesthetics_and_obstetrics_(second_edition_of_%27Canine_and_feline_surgery%27)_(1906)_(20726326242).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Imagen radiológica abierta relacionada con Torsión testicular",
+      "originalTitle": "Surgical diseases of the dog and cat, with chapters on anaesthetics and obstetrics (second edition of 'Canine and feline surgery') (1906) (20726326242).jpg"
     },
     {
       "id": "extra-trombosis-de-vena-cava-inferior",

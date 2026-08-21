@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-08-21T11:18:09Z",
+  "generated_at": "2026-08-21T12:40:34Z",
   "results": [
+    {
+      "key": "ebir-tips-tract",
+      "query": "Fluoroscopic image of transjugular intrahepatic portosystemic shunt (TIPS) in progress.jpg",
+      "imageUrl": "./generated/exams/ebir-tips-tract.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fluoroscopic_image_of_transjugular_intrahepatic_portosystemic_shunt_(TIPS)_in_progress.jpg",
+      "author": "Samir",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Fluoroscopic image of transjugular intrahepatic portosystemic shunt (TIPS) in progress. A catheter has been passed into the hepatic vein and after needle puncture, a guidewire was passed into a portal vein branch. The tract was dilated with a balloon, and contrast injected. A self-expandable metallic stent has yet to be placed over the wire. I ordered this investigation. A signed consent from the patient has been obtained.",
+      "originalTitle": "Fluoroscopic image of transjugular intrahepatic portosystemic shunt (TIPS) in progress.jpg"
+    },
+    {
+      "key": "ebir-nephrostomy",
+      "query": "Nephrostomy, case 1, X-ray 2.jpg",
+      "imageUrl": "./generated/exams/ebir-nephrostomy.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nephrostomy,_case_1,_X-ray_2.jpg",
+      "author": "Jmarchn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Left kidney nephrostomy. 50-years-old woman. After contrast injection.",
+      "originalTitle": "Nephrostomy, case 1, X-ray 2.jpg"
+    },
+    {
+      "key": "ebir02-endoleak",
+      "query": "type I endoleak EVAR CT angiography",
+      "imageUrl": "./generated/exams/ebir02-endoleak.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ATI_Type_I_(or_%27Type_0%27%3F)_compact_cassette.jpg",
+      "author": "JCHaywire",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "ATI Type I (or 'Type 0'?) compact cassette",
+      "originalTitle": "ATI Type I (or 'Type 0'?) compact cassette.jpg"
+    },
+    {
+      "key": "ebir-bronchial-embolization",
+      "query": "Lung - Therapeutic Bronchial Artery Embolization With Spherical Microspheres (49160126541).jpg",
+      "imageUrl": "./generated/exams/ebir-bronchial-embolization.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lung_-_Therapeutic_Bronchial_Artery_Embolization_With_Spherical_Microspheres_(49160126541).jpg",
+      "author": "Atlas of Medical Foreign Bodies",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Therapeutic embolization is a procedure in interventional radiology that is most commonly used to treat arteriovenous malformations hypervascular tumors , including uterine fibroids and hepatoma and symptomatic BPH. A wide variety of agents, both temporary and permanent, are available and each has its own place and use. This image shows spherical microspheres, permanent agents, that are manufactured from synthetic materials that vary in diameter according to the size of the vessels that one is seeking to occlude. This is a case of cystic fibrosis-associated bronchiectasis complicated by hemoptysis that was treated with bronchial artery embolization. Image contributed by Dr. Sanjay Mukhopadhyay - @smlungpathguy",
+      "originalTitle": "Lung - Therapeutic Bronchial Artery Embolization With Spherical Microspheres (49160126541).jpg"
+    },
+    {
+      "key": "ebir-liver-rfa",
+      "query": "RFA CT Leber 001.jpg",
+      "imageUrl": "./generated/exams/ebir-liver-rfa.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RFA_CT_Leber_001.jpg",
+      "author": "Hellerhoff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Radiofrequenzablation eines Leberherdes. Kontrolle der Position mit ausgefahrenem Schirm. Das Bild ist als 15mm-Schicht gerechnet, um die einzelnen Schirmarme zu zeigen. Die Nadel liegt nicht genau in der Ebene des CT-Bildes, so dass die Eintrittsstelle durch die Haut nicht mit abgebildet ist.",
+      "originalTitle": "RFA CT Leber 001.jpg"
+    },
+    {
+      "key": "ebir04-splenic-aneurysm",
+      "query": "splenic artery aneurysm angiography embolization",
+      "imageUrl": "./generated/exams/ebir04-splenic-aneurysm.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Celiac_Trunk_and_Branches.jpg",
+      "author": "Dennis M DePace, PhD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "The image shows the three major branches of the celiac trunk and their subsidiary branches. The stomach is reflected cranially to expose the splenic artery and pancreaticoduodenal vessels. These form an arcade along the head of the pancreas and are an anastomosis between the celiac trunk and superior mesenteric artery.",
+      "originalTitle": "Celiac Trunk and Branches.jpg"
+    },
+    {
+      "key": "ebir05-iliac-vein-stent",
+      "query": "iliac vein compression venography stent May-Thurner",
+      "imageUrl": "./generated/exams/ebir05-iliac-vein-stent.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:BladderCADVTleft.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Deep vein thrombosis of the left external iliac in a person with bladder cancer.",
+      "originalTitle": "BladderCADVTleft.png"
+    },
+    {
+      "key": "ebir06-nephrostomy",
+      "query": "Nephrostomy, case 1, X-ray 1.jpg",
+      "imageUrl": "./generated/exams/ebir06-nephrostomy.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nephrostomy,_case_1,_X-ray_1.jpg",
+      "author": "Jmarchn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Left kidney nephrostomy. 50-years-old woman.",
+      "originalTitle": "Nephrostomy, case 1, X-ray 1.jpg"
+    },
     {
       "key": "edir-chole-us",
       "query": "acute cholecystitis ultrasound",
@@ -13,6 +101,17 @@
       "originalTitle": "MildGBWallthickening(3.5mm).png"
     },
     {
+      "key": "edir-pneumothorax",
+      "query": "Chest X-ray of pneumothorax.png",
+      "imageUrl": "./generated/exams/edir-pneumothorax.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chest_X-ray_of_pneumothorax.png",
+      "author": "Alex Bonilla, Alexander J. Blair, Suliman M. Alamro, Rebecca A. Ward, Michael B. Feldman, Richard A. Dutko, Theodora K. Karagounis, Adam L. Johnson, Erik E. Folch & Jatin M. Vyas",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Chest X-ray at initial presentation demonstrating a right-sided pneumothorax (arrow) and resolving right-sided pneumothorax after pigtail chest tube placement for initial (a) and recurrent (b) spontaneous pneumothorax. (c) Sustained recovery from recurrent spontaneous pneumothorax two weeks after the removal of chest tubes",
+      "originalTitle": "Chest X-ray of pneumothorax.png"
+    },
+    {
       "key": "edir-aortic-dissection",
       "query": "aortic dissection CT",
       "imageUrl": "./generated/exams/edir-aortic-dissection.jpg",
@@ -22,6 +121,61 @@
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "description": "CT scan of aortic dissection type Stanford A",
       "originalTitle": "AoDiss CT A-Diss.jpg"
+    },
+    {
+      "key": "edir02-meningioma",
+      "query": "meningioma MRI contrast",
+      "imageUrl": "./generated/exams/edir02-meningioma.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Meningeom_im_Spinalkanal_MRT.jpg",
+      "author": "Hellerhoff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Meningioma as seen on MRI thoracic spine. Left image: Contrasted study of T1 weighted image in sagittal section showing tumour enhancement with tumour infiltration into the spinal canal. Right image: T2 weighted coronal image showing the tumour compressing on the spinal cord.",
+      "originalTitle": "Meningeom im Spinalkanal MRT.jpg"
+    },
+    {
+      "key": "edir04-meningioma",
+      "query": "dural based meningioma MRI",
+      "imageUrl": "./generated/exams/edir04-meningioma.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ampelosaurus_endocast.png",
+      "author": "Fabien Knoll, Ryan C. Ridgely, Francisco Ortega, Jose Luis Sanz, Lawrence M. Witmer",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "description": "Surface-rendered CT-based images of the cranial endocast and endosseous labyrinth of the titanosaurian sauropod Ampelosaurus sp. (MCCM-HUE-8741) from the Cretaceous of Fuentes, Spain. In right lateral (A), caudal (B), dorsal (C), and ventral (D) views. Abbreviations: CER, cerebrum; DE, dural expansion; III, oculomotor nerve; IX, glossopharyngeal nerve; LAB, labyrinth; MO, medulla oblongata; OT, olfactory tract; PFO, pituitary fossa; V, trigeminal nerve; VI, abducens nerve; VII, facial nerve; X-XI, vagoaccessory nerve; XII, hypoglossal nerve. Scale bar equals 5 cm.",
+      "originalTitle": "Ampelosaurus endocast.png"
+    },
+    {
+      "key": "edir05-torsion",
+      "query": "testicular torsion ultrasound Doppler",
+      "imageUrl": "./generated/exams/edir05-torsion.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Surgical_diseases_of_the_dog_and_cat,_with_chapters_on_anaesthetics_and_obstetrics_(second_edition_of_%27Canine_and_feline_surgery%27)_(1906)_(20726326242).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Title : Surgical diseases of the dog and cat, with chapters on anaesthetics and obstetrics (second edition of 'Canine and feline surgery') Identifier : cu31924001128630 ( find matches ) Year : 1906 ( 1900s ) Authors : Hobday, Frederick Thomas George, Sir, 1870-1939 Subjects : Dogs ; Cats Publisher : Chicago, W. T. Keener & Co. Contributing Library : Cornell University Library Digitizing Sponsor : MSN View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: 286 CANINE AND FELINE SURGERY Torsion of the Cord. This condition is occasionally met with in cryptorchids, and Mr. Pauer's case mentioned on p. 281 is a typical instance. Epididymis Testicular tumour Twisted vessels Vas defereus Bladd. Text Appearing After Image: Fig. 181.—Tumour of a Pug Dog's undescended Testis which had undergone Axial Rotation (J. Bland Sutton).' Mr. J. Bland Sutton, F.R.C.S., has also recorded a case in the Medico-Chirurgical Transactions for 1892 (p. 257) ' ' Surgical Diseases of the Ovaries ' (second edition). Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+      "originalTitle": "Surgical diseases of the dog and cat, with chapters on anaesthetics and obstetrics (second edition of 'Canine and feline surgery') (1906) (20726326242).jpg"
+    },
+    {
+      "key": "edir06-appendicitis",
+      "query": "Appendicitis.png",
+      "imageUrl": "./generated/exams/edir06-appendicitis.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Appendicitis.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Appendicitis as seen on CT imaging",
+      "originalTitle": "Appendicitis.png"
+    },
+    {
+      "key": "edir06-pneumothorax",
+      "query": "Chest X-ray of pneumothorax.png",
+      "imageUrl": "./generated/exams/edir06-pneumothorax.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chest_X-ray_of_pneumothorax.png",
+      "author": "Alex Bonilla, Alexander J. Blair, Suliman M. Alamro, Rebecca A. Ward, Michael B. Feldman, Richard A. Dutko, Theodora K. Karagounis, Adam L. Johnson, Erik E. Folch & Jatin M. Vyas",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Chest X-ray at initial presentation demonstrating a right-sided pneumothorax (arrow) and resolving right-sided pneumothorax after pigtail chest tube placement for initial (a) and recurrent (b) spontaneous pneumothorax. (c) Sustained recovery from recurrent spontaneous pneumothorax two weeks after the removal of chest tubes",
+      "originalTitle": "Chest X-ray of pneumothorax.png"
     }
   ]
 }
