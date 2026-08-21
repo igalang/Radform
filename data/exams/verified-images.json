@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "policy": "Only exact, manually reviewed Wikimedia Commons files may be published in EBIR/EDiR. Fuzzy search results are never auto-published.",
+  "items": {
+    "ebir-tips-tract": {
+      "file": "Fluoroscopic image of transjugular intrahepatic portosystemic shunt (TIPS) in progress.jpg",
+      "context": "TIPS tract creation fluoroscopy"
+    },
+    "ebir01-case1-media": {
+      "file": "Fluoroscopic image of transjugular intrahepatic portosystemic shunt (TIPS) in progress.jpg",
+      "context": "TIPS clinical scenario"
+    },
+    "ebir-nephrostomy": {
+      "file": "Nephrostomy, case 1, X-ray 2.jpg",
+      "context": "Percutaneous nephrostomy after contrast injection"
+    },
+    "ebir-bronchial-embolization": {
+      "file": "Lung - Therapeutic Bronchial Artery Embolization With Spherical Microspheres (49160126541).jpg",
+      "context": "Bronchial artery embolisation"
+    },
+    "ebir03-case1-media": {
+      "file": "Lung - Therapeutic Bronchial Artery Embolization With Spherical Microspheres (49160126541).jpg",
+      "context": "Haemoptysis treated by bronchial artery embolisation"
+    },
+    "ebir-liver-rfa": {
+      "file": "RFA CT Leber 001.jpg",
+      "context": "CT-guided liver radiofrequency ablation"
+    },
+    "ebir03-case2-media": {
+      "file": "RFA CT Leber 001.jpg",
+      "context": "Percutaneous thermal ablation of a liver lesion"
+    },
+    "ebir06-nephrostomy": {
+      "file": "Nephrostomy, case 1, X-ray 1.jpg",
+      "context": "Percutaneous nephrostomy"
+    },
+    "ebir06-case1-media": {
+      "file": "Nephrostomy, case 1, X-ray 1.jpg",
+      "context": "Infected obstructed collecting system requiring nephrostomy"
+    },
+    "edir-chole-us": {
+      "file": "MildGBWallthickening(3.5mm).png",
+      "context": "Ultrasound findings in acute cholecystitis"
+    },
+    "edir01-short1-media": {
+      "file": "MildGBWallthickening(3.5mm).png",
+      "context": "Right upper quadrant pain / acute cholecystitis"
+    },
+    "edir-pneumothorax": {
+      "file": "Chest X-ray of pneumothorax.png",
+      "context": "Chest radiograph showing pneumothorax"
+    },
+    "edir01-short2-media": {
+      "file": "Chest X-ray of pneumothorax.png",
+      "context": "Acute pleuritic chest pain / pneumothorax"
+    },
+    "edir06-pneumothorax": {
+      "file": "Chest X-ray of pneumothorax.png",
+      "context": "Pneumothorax"
+    },
+    "edir06-short2-media": {
+      "file": "Chest X-ray of pneumothorax.png",
+      "context": "Pneumothorax short case"
+    },
+    "edir-aortic-dissection": {
+      "file": "AoDiss CT A-Diss.jpg",
+      "context": "CT of aortic dissection"
+    },
+    "edir01-core1-media": {
+      "file": "AoDiss CT A-Diss.jpg",
+      "context": "Acute aortic syndrome / intimal flap"
+    },
+    "edir06-appendicitis": {
+      "file": "Appendicitis.png",
+      "context": "Acute appendicitis"
+    },
+    "edir06-short1-media": {
+      "file": "Appendicitis.png",
+      "context": "Right lower quadrant pain / appendicitis"
+    },
+    "edir-sc-sah": {
+      "file": "CT of subarachnoid hemorrhage.png",
+      "context": "Subarachnoid haemorrhage on CT"
+    },
+    "edir-sc-pe": {
+      "file": "Pulmonary embolism CTPA.JPEG",
+      "context": "Pulmonary embolism on CT pulmonary angiography"
+    },
+    "edir02-short1-media": {
+      "file": "Dural tail sign.png",
+      "context": "Dural-based meningioma on contrast-enhanced MRI"
+    },
+    "edir02-meningioma": {
+      "file": "Dural tail sign.png",
+      "context": "Meningioma"
+    },
+    "edir04-short1-media": {
+      "file": "Dural tail sign.png",
+      "context": "Dural-based meningioma"
+    },
+    "edir04-meningioma": {
+      "file": "Dural tail sign.png",
+      "context": "Meningioma"
+    },
+    "edir-sc-scaphoid": {
+      "file": "X-ray of scaphoid fracture.png",
+      "context": "Scaphoid fracture on radiograph"
+    },
+    "edir-sc-rcc": {
+      "file": "Corticomedullary phase CT in axial and coronal plane, and parenchymal phase, of renal cell carcinoma.jpg",
+      "context": "Enhancing renal cell carcinoma on CT"
+    },
+    "edir-sc-sbo": {
+      "file": "PSBOCT.png",
+      "context": "Small bowel obstruction on CT"
+    },
+    "edir-sc-subdural": {
+      "file": "Ct-scan of the brain with an subdural hematoma.jpg",
+      "context": "Subdural haematoma on CT"
+    },
+    "edir05-short2-media": {
+      "file": "Scrotal ultrasonography of testicular torsion.jpg",
+      "context": "Testicular torsion on ultrasound"
+    },
+    "edir05-torsion": {
+      "file": "Scrotal ultrasonography of testicular torsion.jpg",
+      "context": "Testicular torsion"
+    },
+    "edir05-core1-media": {
+      "file": "Scrotal ultrasonography of testicular torsion.jpg",
+      "context": "CORE case: testicular torsion"
+    },
+    "edir-sc-intussusception": {
+      "file": "Ultrasound of target sign in intussusception of the right bowel.png",
+      "context": "Intussusception target sign on ultrasound"
+    },
+    "edir-sc-osteoid": {
+      "file": "Osteoidosteom Fibula CT KF.png",
+      "context": "Osteoid osteoma nidus on CT"
+    }
+  }
+}
