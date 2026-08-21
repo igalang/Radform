@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:58:14Z",
+  "generated_at": "2026-08-21T11:17:00Z",
   "results": [
     {
       "topicId": "atlas-001",
@@ -296,6 +296,20 @@
       "originalTitle": "Aortic dissection - Echocardiogram - Longitudinal view - Color.jpg"
     },
     {
+      "topicId": "atlas-022",
+      "label": "Aneurisma de aorta torácica",
+      "query": "thoracic aortic aneurysm CT",
+      "modality": "CT",
+      "anatomy": "Tórax",
+      "imageUrl": "./generated/atlas/atlas-022.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CTRupturedTA.PNG",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "CT scan of a ruptured thoracic aortic aneurysm. Black arrow is the aorta. White arrow is blood in the thorax",
+      "originalTitle": "CTRupturedTA.PNG"
+    },
+    {
       "topicId": "atlas-023",
       "label": "Neumonía por TC",
       "query": "pneumonia chest CT",
@@ -308,6 +322,34 @@
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "description": "Chest radiograph of a 67 year old man, showing lobar pneumonia , affecting the right middle lobe. Culture from the nasopharynx only showed Moraxella catarrhalis , which is probably not the pathogen of the lung.",
       "originalTitle": "X-ray of lobar pneumonia.jpg"
+    },
+    {
+      "topicId": "atlas-024",
+      "label": "COVID-19 pulmonar",
+      "query": "COVID-19 chest CT ground glass",
+      "modality": "CT",
+      "anatomy": "Tórax",
+      "imageUrl": "./generated/atlas/atlas-024.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:COVID-19_information_sign_at_a_sports_ground_in_Melbourne.jpg",
+      "author": "Onmaditque",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "A COVID-19 information sign by the City of Boroondara at the Hartwell Sportsground in Glen Iris , Victoria, Australia",
+      "originalTitle": "COVID-19 information sign at a sports ground in Melbourne.jpg"
+    },
+    {
+      "topicId": "atlas-025",
+      "label": "Fibrosis pulmonar en TCAR",
+      "query": "pulmonary fibrosis HRCT",
+      "modality": "CT",
+      "anatomy": "Tórax",
+      "imageUrl": "./generated/atlas/atlas-025.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Radiological_evaluation_through_HRCT.jpg",
+      "author": "IPFeditor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "A chest radiograph of a patient with Idiopathic Pulmonary Fibrosis (IPF).",
+      "originalTitle": "Radiological evaluation through HRCT.jpg"
     },
     {
       "topicId": "atlas-026",
@@ -350,6 +392,34 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "description": "Coronal reformat of a CT of the chest in a patient with left sided mesothelioma . Note the extensive pleural mass with contraction of the left hemithorax. This image is from the full mesothelioma case at Radiopaedia.org",
       "originalTitle": "MesotheliomaCT.jpg"
+    },
+    {
+      "topicId": "atlas-029",
+      "label": "Cáncer de pulmón",
+      "query": "lung cancer CT chest",
+      "modality": "CT",
+      "anatomy": "Tórax",
+      "imageUrl": "./generated/atlas/atlas-029.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Radiological_and_pathological_features_of_case_1.jpg",
+      "author": "Liu, W., Liu, Hj., Wang, Wy. et al.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Fig. 1. Radiological and pathological features of case 1. A Chest CT showed a large mass in the upper lobe of the right lung, involving the right anterior superior mediastinum, hilar, and hilar lymph nodes. B, C The mediastinal nodule exhibited large polymorphic histiocytes with frequent Touton giant cells. D The tumor cells were positive for CD68. E The tumor cells were positive for ALK1. F ALK-FISH (a break-apart probe) was positive. (Original magnification × 200 [B, C, D, E]; × 1000 [F])",
+      "originalTitle": "Radiological and pathological features of case 1.jpg"
+    },
+    {
+      "topicId": "atlas-030",
+      "label": "Metástasis pulmonares",
+      "query": "pulmonary metastases CT",
+      "modality": "CT",
+      "anatomy": "Tórax",
+      "imageUrl": "./generated/atlas/atlas-030.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CT_of_lung_nodule_with_smooth_border.png",
+      "author": "Article authors: Annemie Snoeckx, Pieter Reyntiens, Damien Desbuquoit, Maarten J. Spinhoven, Paul E. Van Schil, Jan P. van Meerbeeck, Paul M. Parizel",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Original caption: A 79-year-old man with a previous history of colon carcinoma with lymph node metastases 4 years earlier presented during follow-up with a 15 mm solitary pulmonary nodule. Axial CT in lung window setting shows a 15 mm round well-delineated solid nodule with smooth border in the right lower lobe. Histopathological examination after robot-assisted lobectomy showed a moderately differentiated squamous cell carcinoma",
+      "originalTitle": "CT of lung nodule with smooth border.png"
     },
     {
       "topicId": "atlas-031",
@@ -548,6 +618,62 @@
       "originalTitle": "CT brain tumor.jpg"
     },
     {
+      "topicId": "atlas-045",
+      "label": "Meningioma",
+      "query": "meningioma CT brain",
+      "modality": "CT",
+      "anatomy": "Neuro",
+      "imageUrl": "./generated/atlas/atlas-045.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Contrast_enhanced_meningioma.jpg",
+      "author": "Glitzy queen00",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "A contrast enhanced CT scan of the brain, demonstrating the appearance of a Meningioma.",
+      "originalTitle": "Contrast enhanced meningioma.jpg"
+    },
+    {
+      "topicId": "atlas-046",
+      "label": "Metástasis cerebrales",
+      "query": "brain metastases CT",
+      "modality": "CT",
+      "anatomy": "Neuro",
+      "imageUrl": "./generated/atlas/atlas-046.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:M%C3%A9tastase_c%C3%A9r%C3%A9brales.JPG",
+      "author": "Royonx",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "brain vascular imaging showing metastasis",
+      "originalTitle": "Métastase cérébrales.JPG"
+    },
+    {
+      "topicId": "atlas-047",
+      "label": "Absceso cerebral",
+      "query": "brain abscess CT",
+      "modality": "CT",
+      "anatomy": "Neuro",
+      "imageUrl": "./generated/atlas/atlas-047.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Brain_abscess_simple_brain_CT.jpg",
+      "author": "Aimun AB Jamjoom , Abrar R Waliuddin and Abdulhakim B Jamjoom",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "description": "Brain CT (Plain): showing dilated ventricles and right parietal low-density area adjacent to the ventricular catheter and causing slight indentation in the occipital horn. Jamjoom et al. Cases Journal 2009 2:110 doi:10.1186/1757-1626-2-110",
+      "originalTitle": "Brain abscess simple brain CT.jpg"
+    },
+    {
+      "topicId": "atlas-048",
+      "label": "Fractura craneal",
+      "query": "skull fracture CT",
+      "modality": "CT",
+      "anatomy": "Neuro",
+      "imageUrl": "./generated/atlas/atlas-048.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AbusiveheadtraumaBonewindowsNo.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "A skull fracture from abusive head trauma in an infant",
+      "originalTitle": "AbusiveheadtraumaBonewindowsNo.png"
+    },
+    {
       "topicId": "atlas-049",
       "label": "Hernia cerebral",
       "query": "brain herniation CT",
@@ -574,6 +700,62 @@
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "description": "Photograph of acute middle cerebral artery (MCA) stroke. Image taken at autopsy on 10-24-2006 MODIFIED BACKGROUND",
       "originalTitle": "MCA-Stroke-Brain-Human-2.JPG"
+    },
+    {
+      "topicId": "atlas-051",
+      "label": "Esclerosis múltiple",
+      "query": "multiple sclerosis brain MRI",
+      "modality": "MRI",
+      "anatomy": "Neuro",
+      "imageUrl": "./generated/atlas/atlas-051.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Axial_PSIR_MRI_of_a_brain_with_multiple_sclerosis_lesions.jpg",
+      "author": "Article authors: Alice Favaretto, Davide Poggiali, Andrea Lazzarotto, Giuseppe Rolma, Francesco Causin, Paolo Gallo",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Phase-sensitive inversion recovery (PSIR) MRI in the axial plane of the brain, showing lesions by multiple sclerosis . White arrow heads point at two cortical lesions and one juxtacortical lesion that were also seen on a separate DIR image . White arrows point at six more lesions that were not identified on DIR prior to PSIR. Black arrows indicate artifacts due to the partial visualization of the sulci.",
+      "originalTitle": "Axial PSIR MRI of a brain with multiple sclerosis lesions.jpg"
+    },
+    {
+      "topicId": "atlas-052",
+      "label": "Glioblastoma",
+      "query": "glioblastoma MRI brain",
+      "modality": "MRI",
+      "anatomy": "Neuro",
+      "imageUrl": "./generated/atlas/atlas-052.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Studierfenster_Brain_Tumor_Segmentation.png",
+      "author": "EmmaWiki2020",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Studierfenster is an Open Science client/server-based Medical Imaging Processing (MIP) online framework The screenshot shows the manual segmentation of a brain tumor (Glioblastoma Multiforme (GBM)) in an Magnetic Resonance Imaging (MRI) scan of a patient.",
+      "originalTitle": "Studierfenster Brain Tumor Segmentation.png"
+    },
+    {
+      "topicId": "atlas-053",
+      "label": "Meningioma en RM",
+      "query": "meningioma MRI",
+      "modality": "MRI",
+      "anatomy": "Neuro",
+      "imageUrl": "./generated/atlas/atlas-053.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Meningeom_im_Spinalkanal_MRT.jpg",
+      "author": "Hellerhoff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Meningioma as seen on MRI thoracic spine. Left image: Contrasted study of T1 weighted image in sagittal section showing tumour enhancement with tumour infiltration into the spinal canal. Right image: T2 weighted coronal image showing the tumour compressing on the spinal cord.",
+      "originalTitle": "Meningeom im Spinalkanal MRT.jpg"
+    },
+    {
+      "topicId": "atlas-054",
+      "label": "Adenoma hipofisario",
+      "query": "pituitary adenoma MRI",
+      "modality": "MRI",
+      "anatomy": "Neuro",
+      "imageUrl": "./generated/atlas/atlas-054.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Acromegaly_pituitary_macroadenoma.JPEG",
+      "author": "Philippe Chanson and Sylvie Salenave",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Pituitary macroadenoma with suprasellar extension, compressing the optic chiasm.",
+      "originalTitle": "Acromegaly pituitary macroadenoma.JPEG"
     },
     {
       "topicId": "atlas-056",

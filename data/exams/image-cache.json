@@ -1,4 +1,27 @@
 {
-  "generated_at": null,
-  "results": []
+  "generated_at": "2026-08-21T11:18:09Z",
+  "results": [
+    {
+      "key": "edir-chole-us",
+      "query": "acute cholecystitis ultrasound",
+      "imageUrl": "./generated/exams/edir-chole-us.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MildGBWallthickening(3.5mm).png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Mild gallbladder wall thickening of 3.5 mm in a person with acute cholecystitis as seen on ultrasound",
+      "originalTitle": "MildGBWallthickening(3.5mm).png"
+    },
+    {
+      "key": "edir-aortic-dissection",
+      "query": "aortic dissection CT",
+      "imageUrl": "./generated/exams/edir-aortic-dissection.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AoDiss_CT_A-Diss.jpg",
+      "author": "J. Heuser JHeuser",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "CT scan of aortic dissection type Stanford A",
+      "originalTitle": "AoDiss CT A-Diss.jpg"
+    }
+  ]
 }

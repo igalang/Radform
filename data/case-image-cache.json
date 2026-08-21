@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-21T08:54:53Z",
+  "generated_at": "2026-08-21T11:16:30Z",
   "results": [
+    {
+      "id": "auto-absceso-periamigdalino",
+      "clinicalLabel": "Absceso periamigdalino",
+      "imageUrl": "./generated/cases/auto-absceso-periamigdalino.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Peritonsilarabs.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Absceso periamigdalino",
+      "originalTitle": "Peritonsilarabs.png"
+    },
+    {
+      "id": "auto-apendicitis-aguda",
+      "clinicalLabel": "Apendicitis aguda",
+      "imageUrl": "./generated/cases/auto-apendicitis-aguda.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Contrast-enhanced_CT_scan_(coronal)_of_abdomen_and_pelvis_showing_acute_appendicitis.jpg",
+      "author": "Goleisureintl",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Imagen radiológica ilustrativa de Apendicitis aguda",
+      "originalTitle": "Contrast-enhanced CT scan (coronal) of abdomen and pelvis showing acute appendicitis.jpg"
+    },
     {
       "id": "auto-carcinoma-broncogenico",
       "clinicalLabel": "Carcinoma broncogénico",
@@ -24,6 +46,39 @@
       "originalTitle": "X-ray of ultrasound-guided marking of breast cancer 2.png"
     },
     {
+      "id": "auto-derrame-pleural",
+      "clinicalLabel": "Derrame pleural",
+      "imageUrl": "./generated/cases/auto-derrame-pleural.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Radiography,_x-ray_therapeutics_and_radium_therapy_(1915)_(14571782297).jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "description": "Imagen radiológica ilustrativa de Derrame pleural",
+      "originalTitle": "Radiography, x-ray therapeutics and radium therapy (1915) (14571782297).jpg"
+    },
+    {
+      "id": "auto-diseccion-aortica",
+      "clinicalLabel": "Disección aórtica",
+      "imageUrl": "./generated/cases/auto-diseccion-aortica.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aortic_dissection_-_Echocardiogram_-_Longitudinal_view_-_Color.jpg",
+      "author": "Ksheka at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Imagen radiológica ilustrativa de Disección aórtica",
+      "originalTitle": "Aortic dissection - Echocardiogram - Longitudinal view - Color.jpg"
+    },
+    {
+      "id": "auto-edema-pulmonar-cardiogenico",
+      "clinicalLabel": "Edema pulmonar cardiogénico",
+      "imageUrl": "./generated/cases/auto-edema-pulmonar-cardiogenico.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:6077_lores.jpg",
+      "author": "CDC/ D. Loren Ketai, M.D.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Imagen radiológica ilustrativa de Edema pulmonar cardiogénico",
+      "originalTitle": "6077 lores.jpg"
+    },
+    {
       "id": "auto-embarazo-ectopico-tubarico",
       "clinicalLabel": "Embarazo ectópico tubárico",
       "imageUrl": "./generated/cases/auto-embarazo-ectopico-tubarico.png",
@@ -33,6 +88,39 @@
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "description": "Imagen radiológica ilustrativa de Embarazo ectópico tubárico",
       "originalTitle": "Blob sign of ectopic pregnancy.png"
+    },
+    {
+      "id": "auto-embolia-pulmonar-aguda",
+      "clinicalLabel": "Embolia pulmonar aguda",
+      "imageUrl": "./generated/cases/auto-embolia-pulmonar-aguda.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pulmonary_embolism_CTPA.JPEG",
+      "author": "Aung Myat and Arif Ahsan",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Imagen radiológica ilustrativa de Embolia pulmonar aguda",
+      "originalTitle": "Pulmonary embolism CTPA.JPEG"
+    },
+    {
+      "id": "auto-enfisema-pulmonar",
+      "clinicalLabel": "Enfisema pulmonar",
+      "imageUrl": "./generated/cases/auto-enfisema-pulmonar.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lung_with_Coils.JPG",
+      "author": "Smartbyte - siehe auch w:de:Ticket:2020052610009557",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Enfisema pulmonar",
+      "originalTitle": "Lung with Coils.JPG"
+    },
+    {
+      "id": "auto-esclerosis-multiple",
+      "clinicalLabel": "Esclerosis múltiple",
+      "imageUrl": "./generated/cases/auto-esclerosis-multiple.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Diseminacion_en_espacio.jpg",
+      "author": "DraazucenaDL",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Esclerosis múltiple",
+      "originalTitle": "Diseminacion en espacio.jpg"
     },
     {
       "id": "auto-fibroadenoma-mamario",
@@ -68,6 +156,17 @@
       "originalTitle": "Glioblastoma - MR coronal with contrast.jpg"
     },
     {
+      "id": "auto-hematoma-epidural-agudo",
+      "clinicalLabel": "Hematoma epidural agudo",
+      "imageUrl": "./generated/cases/auto-hematoma-epidural-agudo.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:EpiduralHematoma.jpg",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Imagen radiológica ilustrativa de Hematoma epidural agudo",
+      "originalTitle": "EpiduralHematoma.jpg"
+    },
+    {
       "id": "auto-hematoma-subdural-agudo",
       "clinicalLabel": "Hematoma subdural agudo",
       "imageUrl": "./generated/cases/auto-hematoma-subdural-agudo.jpg",
@@ -77,6 +176,17 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "description": "Imagen radiológica ilustrativa de Hematoma subdural agudo",
       "originalTitle": "Ct-scan of the brain with an subdural hematoma.jpg"
+    },
+    {
+      "id": "auto-hemorragia-intracerebral-hipertensiva",
+      "clinicalLabel": "Hemorragia intracerebral hipertensiva",
+      "imageUrl": "./generated/cases/auto-hemorragia-intracerebral-hipertensiva.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CT_and_MRI_of_cerebral_hemorrhages_and_effective_T2_MRI_of_subsequent_hemosiderosis.png",
+      "author": "Hongwei Zhao, Jin Wang, Zhonglie Lu, Qingjie Wu, Haijuan Lv, Hu Liu, Xiangyang Gong",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Imagen radiológica ilustrativa de Hemorragia intracerebral hipertensiva",
+      "originalTitle": "CT and MRI of cerebral hemorrhages and effective T2 MRI of subsequent hemosiderosis.png"
     },
     {
       "id": "auto-hemorragia-subaracnoidea",
@@ -90,6 +200,17 @@
       "originalTitle": "Effective T2-weighted MRI of hemosiderin deposits after subarachnoid hemorrhage.png"
     },
     {
+      "id": "auto-hidrocefalia-obstructiva",
+      "clinicalLabel": "Hidrocefalia obstructiva",
+      "imageUrl": "./generated/cases/auto-hidrocefalia-obstructiva.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Normal_pressure_hydrocephalus_versus_atrophy.jpg",
+      "author": "Benito Pereira Damasceno",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Imagen radiológica ilustrativa de Hidrocefalia obstructiva",
+      "originalTitle": "Normal pressure hydrocephalus versus atrophy.jpg"
+    },
+    {
       "id": "auto-ictus-isquemico-agudo",
       "clinicalLabel": "Ictus isquémico agudo",
       "imageUrl": "./generated/cases/auto-ictus-isquemico-agudo.jpg",
@@ -101,6 +222,39 @@
       "originalTitle": "NCCT Brain Imaging.jpg"
     },
     {
+      "id": "auto-macroadenoma-hipofisario",
+      "clinicalLabel": "Macroadenoma hipofisario",
+      "imageUrl": "./generated/cases/auto-macroadenoma-hipofisario.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Acromegaly_pituitary_macroadenoma.JPEG",
+      "author": "Philippe Chanson and Sylvie Salenave",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Imagen radiológica ilustrativa de Macroadenoma hipofisario",
+      "originalTitle": "Acromegaly pituitary macroadenoma.JPEG"
+    },
+    {
+      "id": "auto-meningioma",
+      "clinicalLabel": "Meningioma",
+      "imageUrl": "./generated/cases/auto-meningioma.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Meningioma_of_the_sagittal_sinus.jpg",
+      "author": "RASPBERRY VIBE",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Imagen radiológica ilustrativa de Meningioma",
+      "originalTitle": "Meningioma of the sagittal sinus.jpg"
+    },
+    {
+      "id": "auto-neumonia-del-lobulo-inferior",
+      "clinicalLabel": "Neumonía del lóbulo inferior",
+      "imageUrl": "./generated/cases/auto-neumonia-del-lobulo-inferior.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Severe_Pneumonia_Caused_by_Legionella_pneumophila_Serogroup_11,_Italy.jpg",
+      "author": "Antonella GrottolaComments to Author , Fabio Forghieri, Marisa Meacci, Anna Fabio, Lorena Pozzi, Patrizia Marchegiano, Mauro Codeluppi, Monica Morselli, Leonardo Potenza, Ambra Paolini, Valeria Coluccio, Mario Luppi, Fabio Rumpianesi, and Monica Pecorari",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Imagen radiológica ilustrativa de Neumonía del lóbulo inferior",
+      "originalTitle": "Severe Pneumonia Caused by Legionella pneumophila Serogroup 11, Italy.jpg"
+    },
+    {
       "id": "auto-nodulo-tiroideo-sospechoso",
       "clinicalLabel": "Nódulo tiroideo sospechoso",
       "imageUrl": "./generated/cases/auto-nodulo-tiroideo-sospechoso.jpg",
@@ -110,6 +264,28 @@
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "description": "Imagen radiológica ilustrativa de Nódulo tiroideo sospechoso",
       "originalTitle": "Cytopathology suspicious for Hürthle cell neoplasm.jpg"
+    },
+    {
+      "id": "auto-sinusitis-aguda",
+      "clinicalLabel": "Sinusitis aguda",
+      "imageUrl": "./generated/cases/auto-sinusitis-aguda.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Histopathology_of_acute_sinusitis.png",
+      "author": "Mikael Häggström , M.D. Author info - Reusing images - Conflicts of interest: None Mikael Häggström , M.D. Consent note : Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features ( List of HIPAA identifiers ) in the media and case information ( See also HIPAA case reports guidance ).",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Imagen radiológica ilustrativa de Sinusitis aguda",
+      "originalTitle": "Histopathology of acute sinusitis.png"
+    },
+    {
+      "id": "auto-tuberculosis-pulmonar-cavitada",
+      "clinicalLabel": "Tuberculosis pulmonar cavitada",
+      "imageUrl": "./generated/cases/auto-tuberculosis-pulmonar-cavitada.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cavitary_tuberculosis.jpg",
+      "author": "Yale Rosen",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Imagen radiológica ilustrativa de Tuberculosis pulmonar cavitada",
+      "originalTitle": "Cavitary tuberculosis.jpg"
     },
     {
       "id": "auto-varicocele",
@@ -220,6 +396,17 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "description": "Radiografía AP de tórax con consolidación en lóbulo superior derecho",
       "originalTitle": "Pneumonia x ray.jpg"
+    },
+    {
+      "id": "cxr-small-bowel-obstruction",
+      "clinicalLabel": "Obstrucción de intestino delgado",
+      "imageUrl": "./generated/cases/cxr-small-bowel-obstruction.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1._Bowel-obstruction-x-ray.jpg",
+      "author": "Igboeze",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Radiografía abdominal con obstrucción de intestino delgado y niveles hidroaéreos",
+      "originalTitle": "1. Bowel-obstruction-x-ray.jpg"
     },
     {
       "id": "extra-absceso-cerebral",
@@ -1276,6 +1463,17 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "description": "Ecografía con apéndice inflamado",
       "originalTitle": "Appendicitis ultrasound.png"
+    },
+    {
+      "id": "us-dvt-femoral",
+      "clinicalLabel": "Trombosis venosa profunda femoral",
+      "imageUrl": "./generated/cases/us-dvt-femoral.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ultrasonography_of_deep_vein_thrombosis_of_the_femoral_vein.jpg",
+      "author": "Mikael Häggström , M.D. Author info - Reusing images - Conflicts of interest: None Mikael Häggström , M.D. Consent note : Written informed consent was obtained from the individual, including online publication.",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Ecografía Doppler de miembro inferior con trombosis venosa profunda",
+      "originalTitle": "Ultrasonography of deep vein thrombosis of the femoral vein.jpg"
     },
     {
       "id": "us-gallstones",
