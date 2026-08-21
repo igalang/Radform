@@ -1,0 +1,355 @@
+{
+  "id": "edir-05",
+  "kind": "edir",
+  "title": "EDiR Practice Set 5 · musculoskeletal, paediatric and urogenital imaging",
+  "subtitle": "Radform original · abbreviated EDiR-style practice · English",
+  "official": false,
+  "rankingPoints": false,
+  "disclaimer": "Simulacro original de Radform basado en la estructura publicada del EDiR. No contiene preguntas oficiales ni bancos de pago.",
+  "sections": [
+    {
+      "id": "mrq",
+      "title": "Multiple Response Questions",
+      "type": "standalone",
+      "questions": [
+        {
+          "id": "edir05-m1",
+          "type": "multiple",
+          "question": "Which MRI findings support vertebral osteomyelitis/discitis? Choose all that apply.",
+          "options": [
+            "Endplate marrow oedema",
+            "Abnormal adjacent disc signal",
+            "Paravertebral enhancement",
+            "An epidural abscess may coexist"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Infection may involve endplates, disc and paravertebral/epidural soft tissues."
+        },
+        {
+          "id": "edir05-m2",
+          "type": "multiple",
+          "question": "Which ultrasound findings may occur in ovarian torsion? Choose all that apply.",
+          "options": [
+            "Enlarged ovary",
+            "Peripheral follicles",
+            "Reduced or absent flow, although preserved flow does not exclude torsion",
+            "Twisted vascular pedicle"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Torsion is diagnosed by integrating ovarian morphology, vascular findings and clinical presentation."
+        },
+        {
+          "id": "edir05-m3",
+          "type": "single",
+          "question": "Ultrasound is useful in paediatric hydronephrosis primarily to:",
+          "options": [
+            "Assess collecting-system dilatation and renal parenchyma",
+            "Quantify coronary calcium",
+            "Diagnose pulmonary embolism",
+            "Assess the knee meniscus"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Ultrasound provides a radiation-free assessment of the urinary tract."
+        },
+        {
+          "id": "edir05-m4",
+          "type": "single",
+          "question": "Early stress injury of bone is often most sensitively detected with:",
+          "options": [
+            "MRI",
+            "Plain radiography within the first few hours in every case",
+            "Mammography",
+            "ERCP"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "MRI can detect marrow oedema before a fracture line becomes radiographically visible."
+        },
+        {
+          "id": "edir05-m5",
+          "type": "multiple",
+          "question": "Which ultrasound features favour a simple ovarian cyst? Choose all that apply.",
+          "options": [
+            "Anechoic content",
+            "Thin smooth wall",
+            "Posterior acoustic enhancement",
+            "No solid component"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "These are typical benign sonographic features of a simple cyst."
+        },
+        {
+          "id": "edir05-m6",
+          "type": "single",
+          "question": "PI-RADS assessment of the prostate principally integrates:",
+          "options": [
+            "T2-weighted imaging, diffusion and dynamic contrast according to zone/context",
+            "Plain radiography only",
+            "Bone PET only",
+            "Abdominal ultrasound only"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Multiparametric prostate MRI relies primarily on T2 and DWI, with DCE used in defined circumstances."
+        },
+        {
+          "id": "edir05-m7",
+          "type": "single",
+          "question": "Whole-body MRI is particularly sensitive for detecting:",
+          "options": [
+            "Bone marrow infiltration by metastatic disease",
+            "Gallstones",
+            "Pneumothorax",
+            "Appendicitis"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "MRI is highly sensitive to marrow replacement and can survey the skeleton without ionising radiation."
+        },
+        {
+          "id": "edir05-m8",
+          "type": "multiple",
+          "question": "Which ultrasound appearances are typical of intussusception? Choose all that apply.",
+          "options": [
+            "Target/doughnut sign",
+            "Pseudokidney appearance longitudinally",
+            "Concentric bowel wall layers",
+            "Portal venous gas is mandatory"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Characteristic concentric and pseudokidney appearances support the diagnosis."
+        }
+      ]
+    },
+    {
+      "id": "short-cases",
+      "title": "Short Cases",
+      "type": "shortcases",
+      "cases": [
+        {
+          "id": "edir05-short1",
+          "title": "Distal ureteric obstruction",
+          "stem": "Non-contrast CT shows a distal ureteric stone and ipsilateral hydroureteronephrosis.",
+          "questions": [
+            {
+              "id": "edir05-s1q1",
+              "type": "single",
+              "question": "What is the principal diagnosis?",
+              "options": [
+                "Obstructive uropathy due to ureteric calculus",
+                "Isolated cystitis",
+                "Hepatitis",
+                "Meningitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A ureteric stone with upstream dilatation indicates obstruction."
+            },
+            {
+              "id": "edir05-s1q2",
+              "type": "single",
+              "question": "Which CT feature would suggest a complication requiring urgent clinical attention in the appropriate context?",
+              "options": [
+                "Marked perinephric inflammatory change in a febrile septic patient",
+                "A tiny contralateral renal cyst",
+                "Normal bowel gas",
+                "A pelvic phlebolith"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Infection combined with obstruction is a urological emergency."
+            }
+          ]
+        },
+        {
+          "id": "edir05-short2",
+          "title": "Acute paediatric scrotum",
+          "stem": "A 15-year-old boy presents with sudden severe unilateral testicular pain and nausea. Doppler ultrasound is performed.",
+          "questions": [
+            {
+              "id": "edir05-s2q1",
+              "type": "single",
+              "question": "Which finding most strongly supports testicular torsion?",
+              "options": [
+                "Markedly reduced intratesticular flow compared with the contralateral testis",
+                "A small simple hydrocele alone",
+                "A normal epididymis",
+                "Symmetric hyperaemia"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Reduced perfusion in the appropriate clinical setting is highly concerning for torsion.",
+              "imageQuery": "testicular torsion ultrasound Doppler",
+              "imageKey": "edir05-torsion"
+            },
+            {
+              "id": "edir05-s2q2",
+              "type": "single",
+              "question": "Which additional sign may be seen?",
+              "options": [
+                "Twisted spermatic cord (whirlpool sign)",
+                "Gallbladder wall thickening",
+                "Portal venous gas",
+                "Carotid intimal flap"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "The whirlpool sign of a twisted cord is a direct sign of torsion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "CORE Cases",
+      "type": "core",
+      "cases": [
+        {
+          "id": "edir05-core1",
+          "title": "Testicular torsion",
+          "stem": "An adolescent presents with sudden testicular pain. Ultrasound shows an enlarged heterogeneous testis with markedly reduced perfusion.",
+          "questions": [
+            {
+              "id": "edir05-core1q1",
+              "type": "single",
+              "question": "What is the most likely diagnosis?",
+              "options": [
+                "Testicular torsion",
+                "Varicocele",
+                "Simple hydrocele",
+                "Chronic epididymitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Acute pain with markedly reduced perfusion is highly suspicious for torsion.",
+              "weight": 3
+            },
+            {
+              "id": "edir05-core1q2",
+              "type": "single",
+              "question": "What is the appropriate reporting priority?",
+              "options": [
+                "Immediate communication because testicular viability is time-dependent",
+                "Routine annual follow-up",
+                "No communication required",
+                "MRI in six months"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Torsion requires urgent surgical assessment.",
+              "weight": 3
+            },
+            {
+              "id": "edir05-core1q3",
+              "type": "single",
+              "question": "Which response would be potentially unsafe?",
+              "options": [
+                "Reporting the examination as normal despite clear signs of torsion",
+                "Urgently contacting the clinical team",
+                "Comparing bilateral perfusion",
+                "Describing testicular morphology"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "A missed torsion can result in irreversible testicular infarction.",
+              "weight": 4,
+              "unsafeOptions": [
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "id": "edir05-core2",
+          "title": "Spinal epidural abscess",
+          "stem": "A diabetic patient has fever, severe back pain and progressive leg weakness. MRI shows an enhancing epidural collection.",
+          "questions": [
+            {
+              "id": "edir05-core2q1",
+              "type": "single",
+              "question": "What is the principal diagnosis?",
+              "options": [
+                "Spinal epidural abscess",
+                "Simple disc protrusion",
+                "Vertebral haemangioma",
+                "Renal cyst"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "An epidural collection with infection and neurological deficit is highly concerning for abscess.",
+              "weight": 3
+            },
+            {
+              "id": "edir05-core2q2",
+              "type": "single",
+              "question": "Which features should be assessed?",
+              "options": [
+                "Neural compression, craniocaudal extent and associated spondylodiscitis",
+                "Only dental alignment",
+                "Biliary anatomy",
+                "Pulmonary arteries"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Extent and neural compromise determine urgency and treatment planning.",
+              "weight": 3
+            },
+            {
+              "id": "edir05-core2q3",
+              "type": "single",
+              "question": "Which omission would be potentially unsafe?",
+              "options": [
+                "Failing to communicate cord/cauda equina compression from an epidural abscess",
+                "Describing the extent",
+                "Recommending urgent specialist assessment",
+                "Looking for spondylodiscitis"
+              ],
+              "correct": [
+                0
+              ],
+              "explanation": "Neurological injury may become irreversible if decompression/treatment is delayed.",
+              "weight": 4,
+              "unsafeOptions": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
