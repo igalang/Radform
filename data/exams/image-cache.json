@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T05:50:27Z",
+  "generated_at": "2026-08-30T04:21:31Z",
   "policy": "verified-exact-files-only",
   "results": [
     {
@@ -171,6 +171,20 @@
       "expectedContext": "Chest radiograph showing pneumothorax"
     },
     {
+      "key": "edir-sc-intussusception",
+      "query": "Ultrasound of target sign in intussusception of the right bowel.png",
+      "imageUrl": "./generated/exams/edir-sc-intussusception.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ultrasound_of_target_sign_in_intussusception_of_the_right_bowel.png",
+      "author": "Cerevisae",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Ultrasound of target sign in intussusception. Colou doppler shows minimal vascularity in the bowel.",
+      "originalTitle": "Ultrasound of target sign in intussusception of the right bowel.png",
+      "verified": true,
+      "verification": "manual-exact-file",
+      "expectedContext": "Intussusception target sign on ultrasound"
+    },
+    {
       "key": "edir-sc-osteoid",
       "query": "Osteoidosteom Fibula CT KF.png",
       "imageUrl": "./generated/exams/edir-sc-osteoid.png",
@@ -199,6 +213,20 @@
       "expectedContext": "Pulmonary embolism on CT pulmonary angiography"
     },
     {
+      "key": "edir-sc-rcc",
+      "query": "Corticomedullary phase CT in axial and coronal plane, and parenchymal phase, of renal cell carcinoma.jpg",
+      "imageUrl": "./generated/exams/edir-sc-rcc.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Corticomedullary_phase_CT_in_axial_and_coronal_plane,_and_parenchymal_phase,_of_renal_cell_carcinoma.jpg",
+      "author": "Kristie Guite, Louis Hinshaw and Fred Lee",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Corticomedullary phase CT in axial and coronal plane, and parenchymal phase, of renal cell carcinoma. For context, see en:Computed tomography of the abdomen and pelvis .",
+      "originalTitle": "Corticomedullary phase CT in axial and coronal plane, and parenchymal phase, of renal cell carcinoma.jpg",
+      "verified": true,
+      "verification": "manual-exact-file",
+      "expectedContext": "Enhancing renal cell carcinoma on CT"
+    },
+    {
       "key": "edir-sc-sah",
       "query": "CT of subarachnoid hemorrhage.png",
       "imageUrl": "./generated/exams/edir-sc-sah.png",
@@ -211,6 +239,20 @@
       "verified": true,
       "verification": "manual-exact-file",
       "expectedContext": "Subarachnoid haemorrhage on CT"
+    },
+    {
+      "key": "edir-sc-sbo",
+      "query": "PSBOCT.png",
+      "imageUrl": "./generated/exams/edir-sc-sbo.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PSBOCT.png",
+      "author": "James Heilman, MD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "A CT scan showing a non-straight boundary of the air and liquid in the bowel, hinting at a small bowel obstruction .",
+      "originalTitle": "PSBOCT.png",
+      "verified": true,
+      "verification": "manual-exact-file",
+      "expectedContext": "Small bowel obstruction on CT"
     },
     {
       "key": "edir-sc-scaphoid",
@@ -337,6 +379,48 @@
       "verified": true,
       "verification": "manual-exact-file",
       "expectedContext": "Dural-based meningioma"
+    },
+    {
+      "key": "edir05-core1-media",
+      "query": "Scrotal ultrasonography of testicular torsion.jpg",
+      "imageUrl": "./generated/exams/edir05-core1-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Scrotal_ultrasonography_of_testicular_torsion.jpg",
+      "author": "Chee-Wai Mak and Wen-Sheng Tzeng",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Scrotal ultrasonography of a testicular torsion .",
+      "originalTitle": "Scrotal ultrasonography of testicular torsion.jpg",
+      "verified": true,
+      "verification": "manual-exact-file",
+      "expectedContext": "CORE case: testicular torsion"
+    },
+    {
+      "key": "edir05-short2-media",
+      "query": "Scrotal ultrasonography of testicular torsion.jpg",
+      "imageUrl": "./generated/exams/edir05-short2-media.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Scrotal_ultrasonography_of_testicular_torsion.jpg",
+      "author": "Chee-Wai Mak and Wen-Sheng Tzeng",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Scrotal ultrasonography of a testicular torsion .",
+      "originalTitle": "Scrotal ultrasonography of testicular torsion.jpg",
+      "verified": true,
+      "verification": "manual-exact-file",
+      "expectedContext": "Testicular torsion on ultrasound"
+    },
+    {
+      "key": "edir05-torsion",
+      "query": "Scrotal ultrasonography of testicular torsion.jpg",
+      "imageUrl": "./generated/exams/edir05-torsion.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Scrotal_ultrasonography_of_testicular_torsion.jpg",
+      "author": "Chee-Wai Mak and Wen-Sheng Tzeng",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Scrotal ultrasonography of a testicular torsion .",
+      "originalTitle": "Scrotal ultrasonography of testicular torsion.jpg",
+      "verified": true,
+      "verification": "manual-exact-file",
+      "expectedContext": "Testicular torsion"
     },
     {
       "key": "edir06-appendicitis",
